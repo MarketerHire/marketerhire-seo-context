@@ -1,0 +1,103 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "When Should a Startup Hire Its First Marketer? (2026)",
+    "author": {
+      "@type": "Organization",
+      "name": "MarketerHire Editorial",
+      "url": "https://www.marketerhire.com"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "MarketerHire",
+      "url": "https://www.marketerhire.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.marketerhire.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/company/marketerhire/",
+        "https://twitter.com/marketerhire"
+      ]
+    },
+    "datePublished": "2026-04-13",
+    "dateModified": "2026-04-13",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.marketerhire.com/blog/when-should-a-startup-hire-its-first-marketer"
+    },
+    "image": "[IMAGE: Startup founder evaluating when to hire first marketer — timing framework illustration]",
+    "description": "Hire your first marketer after product-market fit, not before. See the 7 readiness signals, right role to hire, and 5 costly mistakes to avoid."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "How much does it cost to hire a startup's first marketer?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "A full-time marketing generalist costs $80-140K per year in salary, plus $20-40K in benefits, tools, and ad budget. A fractional marketer through MarketerHire costs $7-15K per month with no long-term commitment. Total first-year investment ranges from $84K (fractional) to $180K+ (full-time with tools). Budget at least $2-5K/month beyond salary for marketing tools and paid media testing."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Should a startup hire a marketing agency or an in-house marketer?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "An in-house marketer or fractional hire almost always beats an agency for a startup's first marketing role. Agencies split attention across 10-15 clients and often assign junior staff to smaller accounts. A dedicated marketer — even part-time — learns your product, customers, and voice at a level agencies can't match. Agencies work better as channel-specific supplements after you have an in-house marketing lead."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can a founder do their own marketing instead of hiring?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, up to a point. Most founders should own marketing through the first $500K-$1M in revenue. This builds intuition about messaging and channels. But founder-led marketing hits a ceiling when marketing tasks consistently get deprioritized for product, sales, and fundraising. That ceiling usually hits between $1-3M ARR."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What's the difference between a growth marketer and a brand marketer?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "A growth marketer focuses on measurable acquisition: generating leads, driving sign-ups, optimizing conversion rates, and reducing cost per acquisition. A brand marketer builds awareness and emotional connection through storytelling and design. For a startup's first hire, growth marketing is almost always the right choice. Brand marketing matters more after you've proven your acquisition engine."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How long before a new marketing hire shows results?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Expect early signals (traffic trends, lead volume, campaign data) within 30-60 days. Meaningful pipeline impact typically appears at 90 days. Full ROI — where the marketer's contribution clearly exceeds their cost — usually takes 4-6 months. SEO and content take longer (6-12 months) than paid channels (4-8 weeks for initial data)."
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.marketerhire.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Blog",
+        "item": "https://www.marketerhire.com/blog"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "When Should a Startup Hire Its First Marketer?",
+        "item": "https://www.marketerhire.com/blog/when-should-a-startup-hire-its-first-marketer"
+      }
+    ]
+  }
+]

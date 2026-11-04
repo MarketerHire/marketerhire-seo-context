@@ -1,0 +1,98 @@
+{
+  "client_name": "MarketerHire",
+  "domain": "https://www.marketerhire.com",
+  "site_context": {
+    "industry": "B2B SaaS — Marketing Talent Marketplace & AI Growth Platform",
+    "primary_audience": "Startup founders (Series A-C), VP/Director Marketing, CMOs, and Heads of Growth at companies with 10-200 employees and $2-50M revenue who need expert marketing talent without the overhead of full-time hiring or the disappointment of agencies.",
+    "tone": "Authoritative but accessible. Declarative for facts, conversational for explanations. Startup-energetic, confident (not arrogant), results-focused, data-driven. Lead with outcomes, not features.",
+    "content_goals": "Drive organic traffic from founders and marketing leaders searching for hiring, staffing, and growth strategy solutions. Position MarketerHire as the speed/flexibility/quality alternative to agencies, full-time hires, and unvetted freelancers."
+  },
+  "authors": [
+    {
+      "name": "MarketerHire Editorial",
+      "title": "MarketerHire Content Team",
+      "bio": "The MarketerHire editorial team draws on insights from 30,000+ successful marketer matches and interviews with top marketing leaders to help growing companies build effective marketing teams."
+    }
+  ],
+  "internal_links": {
+    "pillar_pages": [
+      {"url": "https://marketerhire.com/roles/fractional-cmo", "topic": "Hire a Fractional CMO"},
+      {"url": "https://marketerhire.com/roles/content-marketing", "topic": "Hire a Content Marketing Expert"},
+      {"url": "https://marketerhire.com/roles/social-media-marketing", "topic": "Hire a Social Media Manager"},
+      {"url": "https://marketerhire.com/roles/paid-search-marketing", "topic": "Hire a Paid Search / PPC Expert"},
+      {"url": "https://marketerhire.com/roles/paid-social-expert-marketing", "topic": "Hire a Paid Social Marketer"},
+      {"url": "https://marketerhire.com/roles/seo-marketing", "topic": "Hire an SEO Expert"},
+      {"url": "https://marketerhire.com/roles/product-marketer", "topic": "Hire a Product Marketer"},
+      {"url": "https://marketerhire.com/services/ad-creative", "topic": "Ad Creative Services"}
+    ],
+    "existing_blog_posts": [
+      {"url": "https://marketerhire.com/blog/marketerhire-for-agencies", "topic": "MarketerHire for Agencies"},
+      {"url": "https://marketerhire.com/blog/ai-prompts-for-marketing", "topic": "AI Prompts for Marketing"},
+      {"url": "https://marketerhire.com/blog/what-does-marketing-manager-do", "topic": "What Does a Marketing Manager Do"},
+      {"url": "https://marketerhire.com/blog/how-to-hire-email-marketer", "topic": "How to Hire an Email Marketer"},
+      {"url": "https://marketerhire.com/blog/how-much-does-a-marketing-team-cost", "topic": "Marketing Team Cost"},
+      {"url": "https://marketerhire.com/blog/how-to-hire-a-small-corporate-marketing-team", "topic": "Corporate Marketing Team Hiring"},
+      {"url": "https://marketerhire.com/blog/startup-marketing-team-structure", "topic": "Startup Marketing Team Structure"},
+      {"url": "https://marketerhire.com/blog/ai-marketing-tools", "topic": "AI Marketing Tools"},
+      {"url": "https://marketerhire.com/blog/ai-e-commerce-growth", "topic": "AI E-Commerce Growth"},
+      {"url": "https://marketerhire.com/blog/marketing-recruitment-agencies", "topic": "Marketing Recruitment Agencies"},
+      {"url": "https://marketerhire.com/blog/managing-freelancers", "topic": "Managing Freelancers"},
+      {"url": "https://marketerhire.com/blog/freelance-digital-marketing", "topic": "Freelance Digital Marketing"},
+      {"url": "https://marketerhire.com/blog/freelancer-statistics", "topic": "Freelance Revolution Report"},
+      {"url": "https://marketerhire.com/blog/best-freelancer-websites", "topic": "Best Freelancer Websites"},
+      {"url": "https://marketerhire.com/blog/freelance-agency-fte-pros-cons", "topic": "Freelancer vs Agency vs FTE"},
+      {"url": "https://marketerhire.com/blog/how-to-hire-content-marketer", "topic": "How to Hire a Content Marketer"},
+      {"url": "https://marketerhire.com/blog/hire-content-marketer", "topic": "Signs to Hire Content Marketer"},
+      {"url": "https://marketerhire.com/blog/how-to-hire-marketing-analyst", "topic": "Hiring a Marketing Analyst"},
+      {"url": "https://marketerhire.com/blog/marketing-team-structure", "topic": "Marketing Team Structure"},
+      {"url": "https://marketerhire.com/blog/seo-vs-ppc", "topic": "SEO vs PPC"},
+      {"url": "https://marketerhire.com/blog/hire-ppc-expert", "topic": "Hire a PPC Expert"},
+      {"url": "https://marketerhire.com/blog/outsource-marketing-team", "topic": "Outsource Marketing Team"},
+      {"url": "https://marketerhire.com/blog/b2b-marketing-team-structure", "topic": "B2B Marketing Team Structure"},
+      {"url": "https://marketerhire.com/blog/marketing-org-chart", "topic": "Marketing Org Chart"},
+      {"url": "https://marketerhire.com/blog/cro-agency", "topic": "CRO Agencies"},
+      {"url": "https://marketerhire.com/blog/agile-marketing-team-structure", "topic": "Agile Marketing Team"},
+      {"url": "https://marketerhire.com/blog/hire-social-media-manager", "topic": "Hire Social Media Manager"},
+      {"url": "https://marketerhire.com/blog/best-social-media-marketing-agency", "topic": "Social Media Agencies"},
+      {"url": "https://marketerhire.com/blog/digital-marketing-team-structure", "topic": "Digital Marketing Team Structure"},
+      {"url": "https://marketerhire.com/blog/how-to-hire-paid-social-marketer", "topic": "Hire Paid Social Marketer"},
+      {"url": "https://marketerhire.com/blog/demand-generation-team-structure", "topic": "Demand Gen Team Structure"},
+      {"url": "https://marketerhire.com/blog/demand-generation-vs-lead-generation", "topic": "Demand Gen vs Lead Gen"},
+      {"url": "https://marketerhire.com/blog/demand-generation-agency", "topic": "Demand Generation Agency"},
+      {"url": "https://marketerhire.com/blog/lead-generation-expert", "topic": "Lead Generation Expert"},
+      {"url": "https://marketerhire.com/blog/seo-skills", "topic": "SEO Skills for Hiring"},
+      {"url": "https://marketerhire.com/blog/outsource-seo-2026", "topic": "Outsource SEO"},
+      {"url": "https://marketerhire.com/blog/content-marketing-for-ecommerce", "topic": "Ecommerce Content Marketing"},
+      {"url": "https://marketerhire.com/blog/content-marketing-agencies", "topic": "Content Marketing Agencies"},
+      {"url": "https://marketerhire.com/blog/seo-team-structure", "topic": "SEO Team Structure"},
+      {"url": "https://marketerhire.com/blog/repurposing-content-for-seo", "topic": "Repurposing Content for SEO"},
+      {"url": "https://marketerhire.com/blog/hire-seo-content-writer", "topic": "Hire SEO Content Writer"}
+    ]
+  },
+  "sitewide_schema": {
+    "organization": {
+      "name": "MarketerHire",
+      "url": "https://www.marketerhire.com",
+      "logo": "https://www.marketerhire.com/logo.png",
+      "sameAs": [
+        "https://www.linkedin.com/company/marketerhire/",
+        "https://twitter.com/marketerhire"
+      ]
+    }
+  },
+  "proof_points": {
+    "matches": "30,000+",
+    "trial_to_hire_rate": "95%",
+    "time_to_match": "48 hours",
+    "customers": "6,000+",
+    "vetting_acceptance": "<5%",
+    "trust_logos": ["Netflix", "Plaid", "Tinuiti", "Constant Contact", "MasterClass"]
+  },
+  "competitors": [
+    {"name": "Toptal", "url": "toptal.com/marketing", "positioning": "Generalist marketplace, broad talent pool"},
+    {"name": "Mayple", "url": "mayple.com", "positioning": "Managed marketplace, AI-matching, packaged services"},
+    {"name": "Hawke Media", "url": "hawkemedia.com", "positioning": "Full-service agency, outsourced CMO"},
+    {"name": "Right Side Up", "url": "rightsideup.com", "positioning": "Hybrid agency/talent platform, fractional marketers"},
+    {"name": "Upwork", "url": "upwork.com", "positioning": "Unvetted general freelancers, commodity pricing"}
+  ]
+}

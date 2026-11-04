@@ -1,0 +1,22 @@
+# Secrets
+.env
+.env.local
+.env.*.local
+.mcp.json
+**/service-account*.json
+**/client_secrets*.json
+
+# Build artifacts
+node_modules/
+.next/
+.vercel/
+*.tsbuildinfo
+next-env.d.ts
+
+# OS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/

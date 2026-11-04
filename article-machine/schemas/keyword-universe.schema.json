@@ -1,0 +1,50 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Keyword Universe",
+  "description": "All discovered keywords from the 6 Circles expansion",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["keyword", "source", "intent"],
+    "properties": {
+      "keyword": {
+        "type": "string",
+        "description": "The keyword phrase"
+      },
+      "source": {
+        "type": "string",
+        "enum": ["seed_direct", "seed_problem", "seed_outcome", "seed_category", "circle_sell", "circle_problem", "circle_outcome", "circle_category", "circle_audience", "circle_competitor", "questions_json", "paa", "related"],
+        "description": "Where the keyword was sourced from"
+      },
+      "circle": {
+        "type": ["string", "null"],
+        "description": "Which of the 6 circles this keyword came from"
+      },
+      "cluster": {
+        "type": ["string", "null"],
+        "description": "Topic pillar cluster assignment"
+      },
+      "search_volume": {
+        "type": ["number", "null"],
+        "description": "Estimated monthly search volume"
+      },
+      "kd": {
+        "type": ["number", "null"],
+        "description": "Keyword difficulty score 0-100"
+      },
+      "cpc": {
+        "type": ["number", "null"],
+        "description": "Estimated cost-per-click in USD"
+      },
+      "intent": {
+        "type": "string",
+        "enum": ["informational", "commercial", "transactional", "navigational"],
+        "description": "Search intent classification"
+      },
+      "raw_data": {
+        "type": "object",
+        "description": "Raw data from DataForSEO or other enrichment sources"
+      }
+    }
+  }
+}

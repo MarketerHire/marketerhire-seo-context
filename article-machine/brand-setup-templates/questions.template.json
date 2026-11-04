@@ -1,0 +1,36 @@
+{
+  "brand": "YOUR_BRAND_SLUG",
+  "total_questions": 3,
+  "questions": [
+    {
+      "id": "Q001",
+      "question": "How much does [your service/product] cost in 2026?",
+      "topic": "pricing",
+      "search_volume": 1900,
+      "funnel_stage": "consideration",
+      "source": "keyword",
+      "persona_ids": ["persona_1", "persona_2"],
+      "priority": "high"
+    },
+    {
+      "id": "Q002",
+      "question": "What is the difference between [option A] and [option B]?",
+      "topic": "comparison",
+      "search_volume": 1600,
+      "funnel_stage": "awareness",
+      "source": "keyword",
+      "persona_ids": ["persona_1"],
+      "priority": "medium"
+    },
+    {
+      "id": "Q003",
+      "question": "Is [your solution] worth it for [specific audience segment]?",
+      "topic": "evaluation",
+      "search_volume": 880,
+      "funnel_stage": "consideration",
+      "source": "PAA",
+      "persona_ids": ["persona_2", "persona_3"],
+      "priority": "high"
+    }
+  ]
+}

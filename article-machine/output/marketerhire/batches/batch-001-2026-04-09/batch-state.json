@@ -1,0 +1,55 @@
+{
+  "batch_id": "batch-001-2026-04-09",
+  "brand": "marketerhire",
+  "total_articles": 5,
+  "parallel_articles": 2,
+  "started": "2026-04-09T16:45:00Z",
+  "completed": "2026-04-09T18:30:00Z",
+  "articles": [
+    {
+      "keyword": "fractional CMO vs marketing agency",
+      "slug": "fractional-cmo-vs-marketing-agency",
+      "status": "approved",
+      "score": 24,
+      "started_at": "2026-04-09T16:45:00Z",
+      "completed_at": "2026-04-09T17:01:00Z",
+      "output_path": "output/marketerhire/batches/batch-001-2026-04-09/fractional-cmo-vs-marketing-agency/"
+    },
+    {
+      "keyword": "best freelance marketing platforms 2026",
+      "slug": "best-freelance-marketing-platforms",
+      "status": "approved",
+      "score": 23,
+      "started_at": "2026-04-09T16:45:00Z",
+      "completed_at": "2026-04-09T17:00:00Z",
+      "output_path": "output/marketerhire/batches/batch-001-2026-04-09/best-freelance-marketing-platforms/"
+    },
+    {
+      "keyword": "marketing agency alternative for startups",
+      "slug": "marketing-agency-alternatives-startups",
+      "status": "approved",
+      "score": 24,
+      "started_at": "2026-04-09T17:01:00Z",
+      "completed_at": "2026-04-09T17:11:00Z",
+      "output_path": "output/marketerhire/batches/batch-001-2026-04-09/marketing-agency-alternatives-startups/"
+    },
+    {
+      "keyword": "signs your marketing agency is failing",
+      "slug": "signs-marketing-agency-is-failing",
+      "status": "approved",
+      "score": 24,
+      "started_at": "2026-04-09T17:01:00Z",
+      "completed_at": "2026-04-09T17:13:00Z",
+      "output_path": "output/marketerhire/batches/batch-001-2026-04-09/signs-marketing-agency-is-failing/"
+    },
+    {
+      "keyword": "how to scale marketing without hiring full-time",
+      "slug": "scale-marketing-without-full-time-hires",
+      "status": "approved",
+      "score": 24,
+      "started_at": "2026-04-09T17:11:00Z",
+      "completed_at": "2026-04-09T17:25:00Z",
+      "output_path": "output/marketerhire/batches/batch-001-2026-04-09/scale-marketing-without-full-time-hires/"
+    }
+  ]
+}

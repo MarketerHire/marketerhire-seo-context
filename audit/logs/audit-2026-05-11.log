@@ -1,0 +1,2 @@
+=== SEO Audit started at Mon May 11 16:00:01 UTC 2026 ===
+Failed to authenticate. API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"Invalid authentication credentials"},"request_id":"req_011Caw4RcRiQytkon2736j5Y"}

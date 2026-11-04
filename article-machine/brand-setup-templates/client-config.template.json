@@ -1,0 +1,45 @@
+{
+  "client_name": "YOUR_BRAND_NAME",
+  "domain": "https://YOUR_DOMAIN.com",
+  "site_context": {
+    "industry": "YOUR_INDUSTRY (e.g., B2B SaaS, DTC E-Commerce, Fintech)",
+    "primary_audience": "Describe your primary reader in one sentence — who they are and what they need",
+    "tone": "Describe your brand voice in 1-2 sentences. Example: Authoritative but approachable. Data-driven. Practical over theoretical.",
+    "content_goals": "What your content program is trying to achieve. Example: Thought leadership in [topic] + organic lead generation for [product]"
+  },
+  "authors": [
+    {
+      "name": "YOUR_AUTHOR_NAME",
+      "title": "YOUR_AUTHOR_TITLE",
+      "bio": "2-3 sentence author bio. Include credentials, experience, and what makes this person qualified to write on your topics."
+    }
+  ],
+  "internal_links": {
+    "pillar_pages": [
+      { "url": "/YOUR_PILLAR_PAGE_1", "topic": "topic this page targets" },
+      { "url": "/YOUR_PILLAR_PAGE_2", "topic": "topic this page targets" },
+      { "url": "/YOUR_PILLAR_PAGE_3", "topic": "topic this page targets" }
+    ],
+    "existing_blog_posts": [
+      { "url": "/blog/YOUR_POST_1", "topic": "topic this post covers" },
+      { "url": "/blog/YOUR_POST_2", "topic": "topic this post covers" },
+      { "url": "/blog/YOUR_POST_3", "topic": "topic this post covers" }
+    ]
+  },
+  "sitewide_schema": {
+    "organization": {
+      "name": "YOUR_BRAND_NAME",
+      "url": "https://YOUR_DOMAIN.com",
+      "logo": "https://YOUR_DOMAIN.com/logo.png",
+      "sameAs": [
+        "https://linkedin.com/company/YOUR_COMPANY",
+        "https://twitter.com/YOUR_HANDLE"
+      ]
+    }
+  },
+  "feature_image_style": {
+    "background": "#FF52E5",
+    "palette": ["#440177", "#FCDE3D", "#6BFFDC"],
+    "style": "Flat vector illustration, modern SaaS editorial style. 1920x1080 landscape. Thick deep purple outlines on all shapes. No gradients, no shadows, no text, no photorealism. Minimal elements. Clean, bold, uncluttered."
+  }
+}

@@ -1,0 +1,103 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Marketing Consultant Cost: Rates, Models & What to Expect (2026)",
+    "author": {
+      "@type": "Organization",
+      "name": "MarketerHire Editorial",
+      "url": "https://www.marketerhire.com"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "MarketerHire",
+      "url": "https://www.marketerhire.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.marketerhire.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/company/marketerhire/",
+        "https://twitter.com/marketerhire"
+      ]
+    },
+    "datePublished": "2026-04-13",
+    "dateModified": "2026-04-13",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.marketerhire.com/blog/how-much-does-it-cost-to-hire-a-marketing-consultant"
+    },
+    "image": "[IMAGE: Marketing consultant cost comparison infographic]",
+    "description": "Marketing consultants cost $100-$300/hr or $3K-$15K/mo. Compare hourly, retainer, and project rates — plus how to find vetted experts fast."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Is it cheaper to hire a marketing consultant or an agency?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "A marketing consultant typically costs $3,000-$15,000 per month for a dedicated senior specialist. Agencies charge $5,000-$25,000 per month but often spread your budget across junior staff. Consultants give you a named expert for less total cost — with no account-manager middleman between you and the person doing the work. The tradeoff: agencies cover more channels simultaneously, while consultants go deeper on fewer."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How much does a freelance marketing consultant charge per hour?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Freelance marketing consultants charge $50-$350 per hour depending on specialization and experience. Generalists on broad platforms like Upwork charge $50-$100/hour. Vetted specialists through curated marketplaces like MarketerHire charge $100-$250/hour. Fractional CMOs and senior strategists command $200-$350/hour for high-level advisory work and board-level strategy."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is a fractional marketing consultant?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "A fractional marketing consultant is a senior marketing expert who works part-time — typically 10-20 hours per week — inside your company. They provide strategic leadership, manage existing team members or vendors, and execute high-priority initiatives at 30-50% of the cost of a full-time CMO. Most fractional CMOs charge $5,000-$15,000 per month."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How long should you hire a marketing consultant for?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Most marketing consultant engagements run 3-6 months minimum to produce meaningful results. Brand strategy projects can wrap in 6-8 weeks. Ongoing channel management (paid media, SEO, content) works best as a month-to-month engagement reviewed quarterly. Start with a defined trial period — at MarketerHire, that's 2 weeks — then extend or adjust based on what the data tells you."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can you hire a marketing consultant for a single project?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. Project-based marketing consultant engagements typically cost $5,000-$50,000 depending on scope. Common single projects include marketing audits ($5,000-$15,000), go-to-market strategy ($10,000-$25,000), website and funnel redesign ($15,000-$50,000), and brand positioning ($8,000-$20,000). Define deliverables and timelines upfront to keep costs predictable and avoid open-ended billing."
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.marketerhire.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Blog",
+        "item": "https://www.marketerhire.com/blog"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "How Much Does It Cost to Hire a Marketing Consultant?",
+        "item": "https://www.marketerhire.com/blog/how-much-does-it-cost-to-hire-a-marketing-consultant"
+      }
+    ]
+  }
+]

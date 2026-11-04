@@ -1,0 +1,65 @@
+{
+  "batch_id": "batch-002-2026-04-13",
+  "brand": "marketerhire",
+  "total_articles": 5,
+  "parallel_articles": 2,
+  "started": "2026-04-13T17:00:00Z",
+  "completed": "2026-04-13T18:30:00Z",
+  "articles": [
+    {
+      "keyword": "fractional cmo cost",
+      "slug": "fractional-cmo-cost",
+      "status": "approved",
+      "pipeline_mode": "new",
+      "existing_article_url": null,
+      "score": 24,
+      "started_at": "2026-04-13T17:00:00Z",
+      "completed_at": "2026-04-13T17:26:00Z",
+      "output_path": "output/marketerhire/batches/batch-002-2026-04-13/fractional-cmo-cost/"
+    },
+    {
+      "keyword": "hire a fractional cmo",
+      "slug": "hire-a-fractional-cmo",
+      "status": "approved",
+      "pipeline_mode": "new",
+      "existing_article_url": null,
+      "score": 24,
+      "started_at": "2026-04-13T17:00:00Z",
+      "completed_at": "2026-04-13T17:15:00Z",
+      "output_path": "output/marketerhire/batches/batch-002-2026-04-13/hire-a-fractional-cmo/"
+    },
+    {
+      "keyword": "hire marketing consultant",
+      "slug": "hire-marketing-consultant",
+      "status": "approved",
+      "pipeline_mode": "new",
+      "existing_article_url": null,
+      "score": 24,
+      "started_at": "2026-04-13T17:15:00Z",
+      "completed_at": "2026-04-13T17:30:00Z",
+      "output_path": "output/marketerhire/batches/batch-002-2026-04-13/hire-marketing-consultant/"
+    },
+    {
+      "keyword": "outsource marketing agency",
+      "slug": "outsource-marketing-agency",
+      "status": "approved",
+      "pipeline_mode": "new",
+      "existing_article_url": null,
+      "score": 24,
+      "started_at": "2026-04-13T17:26:00Z",
+      "completed_at": "2026-04-13T17:40:00Z",
+      "output_path": "output/marketerhire/batches/batch-002-2026-04-13/outsource-marketing-agency/"
+    },
+    {
+      "keyword": "hire a freelance digital marketer",
+      "slug": "hire-a-freelance-digital-marketer",
+      "status": "approved",
+      "pipeline_mode": "new",
+      "existing_article_url": null,
+      "score": 24,
+      "started_at": "2026-04-13T17:30:00Z",
+      "completed_at": "2026-04-13T17:41:00Z",
+      "output_path": "output/marketerhire/batches/batch-002-2026-04-13/hire-a-freelance-digital-marketer/"
+    }
+  ]
+}

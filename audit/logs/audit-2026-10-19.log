@@ -1,0 +1,2 @@
+=== SEO Audit started at Mon Oct 19 16:00:01 UTC 2026 ===
+Failed to authenticate. API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth access token is invalid."},"request_id":"req_011CgBsf5KE1aRaamt9ogRtT"}

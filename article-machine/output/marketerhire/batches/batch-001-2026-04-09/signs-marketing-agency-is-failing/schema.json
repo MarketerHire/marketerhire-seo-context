@@ -1,0 +1,99 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "11 Signs Your Marketing Agency Is Failing (2026)",
+    "author": {
+      "@type": "Organization",
+      "name": "MarketerHire Editorial",
+      "url": "https://www.marketerhire.com"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "MarketerHire",
+      "url": "https://www.marketerhire.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.marketerhire.com/logo.png"
+      }
+    },
+    "datePublished": "2026-04-09",
+    "dateModified": "2026-04-09",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.marketerhire.com/blog/signs-marketing-agency-is-failing"
+    },
+    "image": "[IMAGE: Featured image for 11 Signs Your Marketing Agency Is Failing]",
+    "description": "Spot the red flags before they cost another quarter. 11 data-backed signs your agency is underperforming — with benchmarks, a scorecard, and an exit plan."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "How do you know if your marketing agency is bad?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Track three things: whether your CAC is rising without explanation, whether reports focus on vanity metrics instead of revenue impact, and whether strategy has changed in the last six months. If all three are true, your agency is underperforming. Ask them to identify which campaign drove the most revenue last quarter — a bad agency won't have a clear answer."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What should you do when your marketing agency isn't delivering results?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Start with a direct conversation with agency leadership, not your account manager. Bring specific data — rising CAC, flat growth, vanity-heavy reporting. Request a written 90-day improvement plan with measurable benchmarks. If they can't produce one or the plan fails, begin your transition by securing ad accounts, analytics access, and creative assets before terminating."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "When should you fire your marketing agency?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Fire your agency when seven or more warning signs apply to your situation: climbing CAC, vanity reporting, stale strategy, junior-only staffing, high management burden, undisclosed turnover, restrictive contracts, lack of customer knowledge, flatlined results, and the feeling that you're not a priority. That level of dysfunction is structural, not fixable with one meeting."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How long should you give a marketing agency before seeing results?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Give an agency 90 days for initial results — that's fair ramp-up time for auditing, setup, and early optimizations. By month four, you should see a documented acceleration plan with new strategies beyond the low-hanging fruit. If growth flatlines after 90 days and the agency hasn't escalated, the relationship has likely peaked."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are red flags with marketing agencies?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The biggest red flags are: the bait-and-switch (sold by a senior, managed by a junior), reports that don't connect to revenue, long contracts with no performance clauses, inability to describe your customer accurately, and rising costs without data-backed explanations. Any single flag warrants a conversation. Three or more together warrant a formal review."
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.marketerhire.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Blog",
+        "item": "https://www.marketerhire.com/blog"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Signs Your Marketing Agency Is Failing",
+        "item": "https://www.marketerhire.com/blog/signs-marketing-agency-is-failing"
+      }
+    ]
+  }
+]

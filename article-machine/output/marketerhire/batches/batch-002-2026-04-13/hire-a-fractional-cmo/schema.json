@@ -1,0 +1,154 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Hire a Fractional CMO: 6-Step Process (2026)",
+    "description": "Learn how to hire a fractional CMO who delivers results. 48-hour matching, top 5% vetting, month-to-month flexibility. Start your search today.",
+    "author": {
+      "@type": "Organization",
+      "name": "MarketerHire Editorial",
+      "url": "https://www.marketerhire.com"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "MarketerHire",
+      "url": "https://www.marketerhire.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.marketerhire.com/logo.png"
+      }
+    },
+    "datePublished": "2026-04-13",
+    "dateModified": "2026-04-13",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.marketerhire.com/blog/hire-a-fractional-cmo"
+    },
+    "image": "[IMAGE: How to hire a fractional CMO — featured image]"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "How long do fractional CMO engagements last?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Most fractional CMO engagements run 6-12 months, though they typically start with a 2-4 week trial. Some companies use a fractional CMO for 3-6 months to build a strategy, then transition to a full-time hire. Others keep a fractional CMO on retainer indefinitely because the part-time model fits their stage and budget."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can a fractional CMO manage my existing marketing team?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. Team management is a core part of most fractional CMO engagements. A strong fractional CMO will set priorities, run weekly standups, manage performance, and make hiring recommendations. They act as the senior leader your team reports to — the only difference is they work part-time rather than full-time."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What results should I expect in the first 90 days?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Within the first 30 days, expect a full marketing audit and 90-day strategic plan. By day 60, your fractional CMO should have launched or restructured at least one major initiative. By day 90, early performance indicators should be visible: improved pipeline velocity, better channel efficiency, or a functioning demand generation motion."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What industries do fractional CMOs typically serve?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Fractional CMOs work across most B2B and B2C industries. Highest demand comes from B2B SaaS, e-commerce and DTC brands, professional services, healthcare technology, and PE-backed portfolio companies. Industry-specific experience is valuable but not always required — senior marketing leaders apply transferable frameworks across verticals."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is the difference between a fractional CMO and a marketing consultant?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "A fractional CMO is embedded in your company and owns outcomes. They set strategy, manage the team, and are accountable for results. A marketing consultant advises from the outside and typically delivers a plan without staying to implement it. If you need someone to do the work — or manage the people who do — you want a fractional CMO."
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    "name": "How to Hire a Fractional CMO",
+    "description": "A 6-step process for hiring a fractional CMO, from defining the mandate through evaluating a paid trial.",
+    "step": [
+      {
+        "@type": "HowToStep",
+        "position": 1,
+        "name": "Define the mandate",
+        "text": "Get specific about what you need this person to accomplish in the first 90 days. Write down the top 3 outcomes you expect, the channels you want prioritized, and whether this person will manage anyone."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 2,
+        "name": "Set a realistic budget",
+        "text": "Most fractional CMOs charge $3,000-$15,000 per month depending on hours, seniority, and scope. If your budget is under $3K/month, you probably need a senior freelance marketer, not a CMO."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 3,
+        "name": "Choose your sourcing channel",
+        "text": "Four main options: vetted talent marketplaces (MarketerHire, Toptal), your network, LinkedIn search, or fractional CMO firms (Chief Outsiders, Marketri)."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 4,
+        "name": "Vet candidates",
+        "text": "Evaluate candidates on company stage experience, measurable outcomes, channel expertise, strategy-vs-execution scope, and willingness to run a trial."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 5,
+        "name": "Run a paid trial",
+        "text": "Run a 2-4 week paid trial with a specific deliverable: a 90-day marketing plan, a channel audit, or a campaign launch. Evaluate both competence and communication style."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 6,
+        "name": "Evaluate and commit",
+        "text": "After the trial, measure against the mandate you defined in Step 1. If the candidate delivered, move to a month-to-month engagement. Avoid contracts longer than 3 months until you've seen sustained results."
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.marketerhire.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Blog",
+        "item": "https://www.marketerhire.com/blog"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Hire a Fractional CMO",
+        "item": "https://www.marketerhire.com/blog/hire-a-fractional-cmo"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "MarketerHire",
+    "url": "https://www.marketerhire.com",
+    "logo": "https://www.marketerhire.com/logo.png",
+    "sameAs": [
+      "https://www.linkedin.com/company/marketerhire/",
+      "https://twitter.com/marketerhire"
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "batch_id": "batch-004-2026-04-13",
+  "brand": "marketerhire",
+  "total_articles": 5,
+  "parallel_articles": 2,
+  "started": "2026-04-13T21:00:00Z",
+  "completed": "2026-04-13T22:00:00Z",
+  "articles": [
+    {
+      "keyword": "hire digital marketing consultant",
+      "slug": "hire-digital-marketing-consultant",
+      "status": "approved",
+      "pipeline_mode": "new",
+      "existing_article_url": null,
+      "score": 24,
+      "started_at": "2026-04-13T21:00:00Z",
+      "completed_at": "2026-04-13T21:11:00Z",
+      "output_path": "output/marketerhire/batches/batch-004-2026-04-13/hire-digital-marketing-consultant/"
+    },
+    {
+      "keyword": "when should a startup hire its first marketer",
+      "slug": "when-should-a-startup-hire-its-first-marketer",
+      "status": "approved",
+      "pipeline_mode": "new",
+      "existing_article_url": null,
+      "score": 24,
+      "started_at": "2026-04-13T21:00:00Z",
+      "completed_at": "2026-04-13T21:15:00Z",
+      "output_path": "output/marketerhire/batches/batch-004-2026-04-13/when-should-a-startup-hire-its-first-marketer/"
+    },
+    {
+      "keyword": "best marketing hire for Series A startup",
+      "slug": "best-marketing-hire-for-series-a-startup",
+      "status": "approved",
+      "pipeline_mode": "new",
+      "existing_article_url": null,
+      "score": 24,
+      "started_at": "2026-04-13T21:11:00Z",
+      "completed_at": "2026-04-13T21:21:00Z",
+      "output_path": "output/marketerhire/batches/batch-004-2026-04-13/best-marketing-hire-for-series-a-startup/"
+    },
+    {
+      "keyword": "cost of bad marketing hire",
+      "slug": "cost-of-bad-marketing-hire",
+      "status": "approved",
+      "pipeline_mode": "new",
+      "existing_article_url": null,
+      "score": 24,
+      "started_at": "2026-04-13T21:15:00Z",
+      "completed_at": "2026-04-13T21:31:00Z",
+      "output_path": "output/marketerhire/batches/batch-004-2026-04-13/cost-of-bad-marketing-hire/"
+    },
+    {
+      "keyword": "marketing as a service for startups",
+      "slug": "marketing-as-a-service-for-startups",
+      "status": "approved",
+      "pipeline_mode": "new",
+      "existing_article_url": null,
+      "score": 24,
+      "started_at": "2026-04-13T21:21:00Z",
+      "completed_at": "2026-04-13T21:38:00Z",
+      "output_path": "output/marketerhire/batches/batch-004-2026-04-13/marketing-as-a-service-for-startups/"
+    }
+  ]
+}

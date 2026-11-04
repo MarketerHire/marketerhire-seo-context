@@ -1,0 +1,4505 @@
+[
+  {
+    "keyword": "hire fractional cmo",
+    "search_volume": 170,
+    "keyword_difficulty": 0,
+    "cpc": 26.58,
+    "competition_level": "LOW",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "fractional-cmo",
+    "scores": {
+      "business_value": 100,
+      "opportunity": 93,
+      "difficulty_inv": 100,
+      "relevance": 74,
+      "content_gap": 75
+    },
+    "composite_score": 91.8,
+    "intent": "transactional"
+  },
+  {
+    "keyword": "fractional cmo services",
+    "search_volume": 1000,
+    "keyword_difficulty": 0,
+    "cpc": 20.75,
+    "competition_level": "LOW",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "fractional-cmo",
+    "scores": {
+      "business_value": 95,
+      "opportunity": 100,
+      "difficulty_inv": 100,
+      "relevance": 66,
+      "content_gap": 75
+    },
+    "composite_score": 90.9,
+    "intent": "transactional"
+  },
+  {
+    "keyword": "fractional cmo service",
+    "search_volume": 1000,
+    "keyword_difficulty": 2,
+    "cpc": 20.75,
+    "competition_level": "LOW",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "fractional-cmo",
+    "scores": {
+      "business_value": 95,
+      "opportunity": 100,
+      "difficulty_inv": 98,
+      "relevance": 66,
+      "content_gap": 75
+    },
+    "composite_score": 90.5,
+    "intent": "transactional"
+  },
+  {
+    "keyword": "fractional cmo cost",
+    "search_volume": 110,
+    "keyword_difficulty": 0,
+    "cpc": 14.35,
+    "competition_level": "MEDIUM",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "fractional-cmo",
+    "scores": {
+      "business_value": 92,
+      "opportunity": 93,
+      "difficulty_inv": 100,
+      "relevance": 74,
+      "content_gap": 85
+    },
+    "composite_score": 90.4,
+    "intent": "transactional"
+  },
+  {
+    "keyword": "hire a fractional cmo",
+    "search_volume": 210,
+    "keyword_difficulty": 4,
+    "cpc": 14.81,
+    "competition_level": "LOW",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "fractional-cmo",
+    "scores": {
+      "business_value": 92,
+      "opportunity": 93,
+      "difficulty_inv": 96,
+      "relevance": 74,
+      "content_gap": 75
+    },
+    "composite_score": 88.6,
+    "intent": "transactional"
+  },
+  {
+    "keyword": "fractional chief marketing officer services",
+    "search_volume": 1000,
+    "keyword_difficulty": 0,
+    "cpc": 20.75,
+    "competition_level": "LOW",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "fractional-cmo",
+    "scores": {
+      "business_value": 90,
+      "opportunity": 100,
+      "difficulty_inv": 100,
+      "relevance": 58,
+      "content_gap": 75
+    },
+    "composite_score": 88.2,
+    "intent": "transactional"
+  },
+  {
+    "keyword": "fractional cmo for hire",
+    "search_volume": 170,
+    "keyword_difficulty": 9,
+    "cpc": 11.19,
+    "competition_level": "MEDIUM",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "fractional-cmo",
+    "scores": {
+      "business_value": 92,
+      "opportunity": 93,
+      "difficulty_inv": 91,
+      "relevance": 74,
+      "content_gap": 75
+    },
+    "composite_score": 87.6,
+    "intent": "transactional"
+  },
+  {
+    "keyword": "outsource marketing services",
+    "search_volume": 320,
+    "keyword_difficulty": 6,
+    "cpc": 36.88,
+    "competition_level": "LOW",
+    "circle": "your_category",
+    "source": "dataforseo",
+    "cluster": "outsource-marketing",
+    "scores": {
+      "business_value": 90,
+      "opportunity": 93,
+      "difficulty_inv": 94,
+      "relevance": 58,
+      "content_gap": 75
+    },
+    "composite_score": 85.2,
+    "intent": "transactional"
+  },
+  {
+    "keyword": "hire a marketing consultant",
+    "search_volume": 170,
+    "keyword_difficulty": 0,
+    "cpc": 7.6,
+    "competition_level": "LOW",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "hire-marketer",
+    "scores": {
+      "business_value": 80,
+      "opportunity": 93,
+      "difficulty_inv": 100,
+      "relevance": 66,
+      "content_gap": 75
+    },
+    "composite_score": 84.7,
+    "intent": "transactional"
+  },
+  {
+    "keyword": "fractional cmo agency",
+    "search_volume": 210,
+    "keyword_difficulty": 0,
+    "cpc": 24.34,
+    "competition_level": "LOW",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "fractional-cmo",
+    "scores": {
+      "business_value": 75,
+      "opportunity": 93,
+      "difficulty_inv": 100,
+      "relevance": 74,
+      "content_gap": 75
+    },
+    "composite_score": 84.3,
+    "intent": "informational"
+  },
+  {
+    "keyword": "how much does a fractional cmo cost",
+    "search_volume": 210,
+    "keyword_difficulty": 0,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "fractional-cmo",
+    "scores": {
+      "business_value": 70,
+      "opportunity": 93,
+      "difficulty_inv": 100,
+      "relevance": 74,
+      "content_gap": 85
+    },
+    "composite_score": 83.8,
+    "intent": "transactional"
+  },
+  {
+    "keyword": "hire marketing consultant",
+    "search_volume": 170,
+    "keyword_difficulty": 5,
+    "cpc": 7.6,
+    "competition_level": "LOW",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "hire-marketer",
+    "scores": {
+      "business_value": 80,
+      "opportunity": 93,
+      "difficulty_inv": 95,
+      "relevance": 66,
+      "content_gap": 75
+    },
+    "composite_score": 83.7,
+    "intent": "transactional"
+  },
+  {
+    "keyword": "how to hire a marketing consultant",
+    "search_volume": 20,
+    "keyword_difficulty": 0,
+    "cpc": 8.34,
+    "competition_level": "MEDIUM",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "hire-marketer",
+    "scores": {
+      "business_value": 80,
+      "opportunity": 89,
+      "difficulty_inv": 100,
+      "relevance": 66,
+      "content_gap": 75
+    },
+    "composite_score": 83.7,
+    "intent": "transactional"
+  },
+  {
+    "keyword": "how much does it cost to hire a marketing consultant",
+    "search_volume": 20,
+    "keyword_difficulty": 23,
+    "cpc": 60.14,
+    "competition_level": "LOW",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "hire-marketer",
+    "scores": {
+      "business_value": 100,
+      "opportunity": 74,
+      "difficulty_inv": 77,
+      "relevance": 74,
+      "content_gap": 75
+    },
+    "composite_score": 82.5,
+    "intent": "transactional"
+  },
+  {
+    "keyword": "fractional cmo companies",
+    "search_volume": 110,
+    "keyword_difficulty": 0,
+    "cpc": 20.45,
+    "competition_level": "MEDIUM",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "fractional-cmo",
+    "scores": {
+      "business_value": 70,
+      "opportunity": 93,
+      "difficulty_inv": 100,
+      "relevance": 66,
+      "content_gap": 75
+    },
+    "composite_score": 81.7,
+    "intent": "informational"
+  },
+  {
+    "keyword": "hire digital marketing consultant",
+    "search_volume": 90,
+    "keyword_difficulty": 13,
+    "cpc": 13.88,
+    "competition_level": "LOW",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "hire-marketer",
+    "scores": {
+      "business_value": 87,
+      "opportunity": 82,
+      "difficulty_inv": 87,
+      "relevance": 66,
+      "content_gap": 75
+    },
+    "composite_score": 81.4,
+    "intent": "transactional"
+  },
+  {
+    "keyword": "fractional cmo company",
+    "search_volume": 110,
+    "keyword_difficulty": 3,
+    "cpc": 20.45,
+    "competition_level": "MEDIUM",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "fractional-cmo",
+    "scores": {
+      "business_value": 70,
+      "opportunity": 93,
+      "difficulty_inv": 97,
+      "relevance": 66,
+      "content_gap": 75
+    },
+    "composite_score": 81.1,
+    "intent": "informational"
+  },
+  {
+    "keyword": "outsource marketing agency",
+    "search_volume": 170,
+    "keyword_difficulty": 5,
+    "cpc": 29.92,
+    "competition_level": "LOW",
+    "circle": "your_category",
+    "source": "dataforseo",
+    "cluster": "outsource-marketing",
+    "scores": {
+      "business_value": 70,
+      "opportunity": 93,
+      "difficulty_inv": 95,
+      "relevance": 66,
+      "content_gap": 75
+    },
+    "composite_score": 80.7,
+    "intent": "informational"
+  },
+  {
+    "keyword": "fractional cmo hourly rate",
+    "search_volume": 140,
+    "keyword_difficulty": 0,
+    "cpc": 10.72,
+    "competition_level": "LOW",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "fractional-cmo",
+    "scores": {
+      "business_value": 62,
+      "opportunity": 93,
+      "difficulty_inv": 100,
+      "relevance": 66,
+      "content_gap": 85
+    },
+    "composite_score": 80.2,
+    "intent": "informational"
+  },
+  {
+    "keyword": "fractional cmo marketing",
+    "search_volume": 40,
+    "keyword_difficulty": 2,
+    "cpc": 31.64,
+    "competition_level": "LOW",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "fractional-cmo",
+    "scores": {
+      "business_value": 70,
+      "opportunity": 89,
+      "difficulty_inv": 98,
+      "relevance": 66,
+      "content_gap": 75
+    },
+    "composite_score": 80.2,
+    "intent": "informational"
+  },
+  {
+    "keyword": "fractional cmo",
+    "search_volume": 3600,
+    "keyword_difficulty": 5,
+    "cpc": 17.62,
+    "competition_level": "MEDIUM",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "fractional-cmo",
+    "scores": {
+      "business_value": 62,
+      "opportunity": 100,
+      "difficulty_inv": 95,
+      "relevance": 66,
+      "content_gap": 75
+    },
+    "composite_score": 80.0,
+    "intent": "informational"
+  },
+  {
+    "keyword": "what is a fractional cmo",
+    "search_volume": 880,
+    "keyword_difficulty": 2,
+    "cpc": 18.8,
+    "competition_level": "LOW",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "fractional-cmo",
+    "scores": {
+      "business_value": 62,
+      "opportunity": 97,
+      "difficulty_inv": 98,
+      "relevance": 66,
+      "content_gap": 75
+    },
+    "composite_score": 79.8,
+    "intent": "informational"
+  },
+  {
+    "keyword": "outsource email marketing",
+    "search_volume": 170,
+    "keyword_difficulty": 0,
+    "cpc": 32.27,
+    "competition_level": "LOW",
+    "circle": "your_category",
+    "source": "dataforseo",
+    "cluster": "outsource-marketing",
+    "scores": {
+      "business_value": 65,
+      "opportunity": 93,
+      "difficulty_inv": 100,
+      "relevance": 58,
+      "content_gap": 75
+    },
+    "composite_score": 79.0,
+    "intent": "informational"
+  },
+  {
+    "keyword": "email marketing outsource",
+    "search_volume": 170,
+    "keyword_difficulty": 0,
+    "cpc": 32.27,
+    "competition_level": "LOW",
+    "circle": "your_category",
+    "source": "dataforseo",
+    "cluster": "outsource-marketing",
+    "scores": {
+      "business_value": 65,
+      "opportunity": 93,
+      "difficulty_inv": 100,
+      "relevance": 58,
+      "content_gap": 75
+    },
+    "composite_score": 79.0,
+    "intent": "informational"
+  },
+  {
+    "keyword": "outsource social media marketing",
+    "search_volume": 140,
+    "keyword_difficulty": 0,
+    "cpc": 52.53,
+    "competition_level": "LOW",
+    "circle": "your_category",
+    "source": "dataforseo",
+    "cluster": "outsource-marketing",
+    "scores": {
+      "business_value": 65,
+      "opportunity": 93,
+      "difficulty_inv": 100,
+      "relevance": 58,
+      "content_gap": 75
+    },
+    "composite_score": 79.0,
+    "intent": "informational"
+  },
+  {
+    "keyword": "fractional cmo responsibilities",
+    "search_volume": 110,
+    "keyword_difficulty": 2,
+    "cpc": 11.64,
+    "competition_level": "LOW",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "fractional-cmo",
+    "scores": {
+      "business_value": 62,
+      "opportunity": 93,
+      "difficulty_inv": 98,
+      "relevance": 66,
+      "content_gap": 75
+    },
+    "composite_score": 78.8,
+    "intent": "informational"
+  },
+  {
+    "keyword": "hire a freelance digital marketer",
+    "search_volume": 10,
+    "keyword_difficulty": 15,
+    "cpc": 52.1,
+    "competition_level": "HIGH",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "freelance-marketing",
+    "scores": {
+      "business_value": 87,
+      "opportunity": 82,
+      "difficulty_inv": 85,
+      "relevance": 51,
+      "content_gap": 75
+    },
+    "composite_score": 78.8,
+    "intent": "transactional"
+  },
+  {
+    "keyword": "outsource marketing for small business",
+    "search_volume": 170,
+    "keyword_difficulty": 1,
+    "cpc": 30.42,
+    "competition_level": "LOW",
+    "circle": "your_category",
+    "source": "dataforseo",
+    "cluster": "outsource-marketing",
+    "scores": {
+      "business_value": 65,
+      "opportunity": 93,
+      "difficulty_inv": 99,
+      "relevance": 58,
+      "content_gap": 75
+    },
+    "composite_score": 78.8,
+    "intent": "informational"
+  },
+  {
+    "keyword": "small business outsource marketing",
+    "search_volume": 170,
+    "keyword_difficulty": 2,
+    "cpc": 30.42,
+    "competition_level": "LOW",
+    "circle": "your_category",
+    "source": "dataforseo",
+    "cluster": "outsource-marketing",
+    "scores": {
+      "business_value": 65,
+      "opportunity": 93,
+      "difficulty_inv": 98,
+      "relevance": 58,
+      "content_gap": 75
+    },
+    "composite_score": 78.5,
+    "intent": "informational"
+  },
+  {
+    "keyword": "fractional chief marketing officers",
+    "search_volume": 3600,
+    "keyword_difficulty": 0,
+    "cpc": 17.62,
+    "competition_level": "MEDIUM",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "fractional-cmo",
+    "scores": {
+      "business_value": 57,
+      "opportunity": 100,
+      "difficulty_inv": 100,
+      "relevance": 58,
+      "content_gap": 75
+    },
+    "composite_score": 78.3,
+    "intent": "informational"
+  },
+  {
+    "keyword": "fractional cmo salary",
+    "search_volume": 140,
+    "keyword_difficulty": 0,
+    "cpc": 7.25,
+    "competition_level": "LOW",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "fractional-cmo",
+    "scores": {
+      "business_value": 55,
+      "opportunity": 93,
+      "difficulty_inv": 100,
+      "relevance": 66,
+      "content_gap": 85
+    },
+    "composite_score": 78.2,
+    "intent": "informational"
+  },
+  {
+    "keyword": "outsource marketing small business",
+    "search_volume": 170,
+    "keyword_difficulty": 4,
+    "cpc": 30.42,
+    "competition_level": "LOW",
+    "circle": "your_category",
+    "source": "dataforseo",
+    "cluster": "outsource-marketing",
+    "scores": {
+      "business_value": 65,
+      "opportunity": 93,
+      "difficulty_inv": 96,
+      "relevance": 58,
+      "content_gap": 75
+    },
+    "composite_score": 78.2,
+    "intent": "informational"
+  },
+  {
+    "keyword": "fractional cmo firm",
+    "search_volume": 70,
+    "keyword_difficulty": 1,
+    "cpc": 14.57,
+    "competition_level": "MEDIUM",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "fractional-cmo",
+    "scores": {
+      "business_value": 62,
+      "opportunity": 89,
+      "difficulty_inv": 99,
+      "relevance": 66,
+      "content_gap": 75
+    },
+    "composite_score": 78.0,
+    "intent": "informational"
+  },
+  {
+    "keyword": "fractional marketing services",
+    "search_volume": 260,
+    "keyword_difficulty": 0,
+    "cpc": 18.06,
+    "competition_level": "LOW",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "fractional-marketing",
+    "scores": {
+      "business_value": 62,
+      "opportunity": 93,
+      "difficulty_inv": 100,
+      "relevance": 58,
+      "content_gap": 75
+    },
+    "composite_score": 78.0,
+    "intent": "transactional"
+  },
+  {
+    "keyword": "outsource your marketing",
+    "search_volume": 90,
+    "keyword_difficulty": 1,
+    "cpc": 20.94,
+    "competition_level": "MEDIUM",
+    "circle": "your_category",
+    "source": "dataforseo",
+    "cluster": "outsource-marketing",
+    "scores": {
+      "business_value": 65,
+      "opportunity": 89,
+      "difficulty_inv": 99,
+      "relevance": 58,
+      "content_gap": 75
+    },
+    "composite_score": 77.8,
+    "intent": "informational"
+  },
+  {
+    "keyword": "fractional chief marketing officer",
+    "search_volume": 3600,
+    "keyword_difficulty": 3,
+    "cpc": 17.62,
+    "competition_level": "MEDIUM",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "fractional-cmo",
+    "scores": {
+      "business_value": 57,
+      "opportunity": 100,
+      "difficulty_inv": 97,
+      "relevance": 58,
+      "content_gap": 75
+    },
+    "composite_score": 77.7,
+    "intent": "informational"
+  },
+  {
+    "keyword": "sales and marketing outsource",
+    "search_volume": 260,
+    "keyword_difficulty": 7,
+    "cpc": 82.04,
+    "competition_level": "LOW",
+    "circle": "your_category",
+    "source": "dataforseo",
+    "cluster": "outsource-marketing",
+    "scores": {
+      "business_value": 65,
+      "opportunity": 93,
+      "difficulty_inv": 93,
+      "relevance": 58,
+      "content_gap": 75
+    },
+    "composite_score": 77.5,
+    "intent": "informational"
+  },
+  {
+    "keyword": "outsource marketing and sales",
+    "search_volume": 260,
+    "keyword_difficulty": 7,
+    "cpc": 82.04,
+    "competition_level": "LOW",
+    "circle": "your_category",
+    "source": "dataforseo",
+    "cluster": "outsource-marketing",
+    "scores": {
+      "business_value": 65,
+      "opportunity": 93,
+      "difficulty_inv": 93,
+      "relevance": 58,
+      "content_gap": 75
+    },
+    "composite_score": 77.5,
+    "intent": "informational"
+  },
+  {
+    "keyword": "outsource digital marketing services",
+    "search_volume": 210,
+    "keyword_difficulty": 0,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "your_category",
+    "source": "dataforseo",
+    "cluster": "outsource-marketing",
+    "scores": {
+      "business_value": 60,
+      "opportunity": 93,
+      "difficulty_inv": 100,
+      "relevance": 58,
+      "content_gap": 75
+    },
+    "composite_score": 77.5,
+    "intent": "transactional"
+  },
+  {
+    "keyword": "what is a fractional chief marketing officer",
+    "search_volume": 880,
+    "keyword_difficulty": 0,
+    "cpc": 11.64,
+    "competition_level": "LOW",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "fractional-cmo",
+    "scores": {
+      "business_value": 57,
+      "opportunity": 97,
+      "difficulty_inv": 100,
+      "relevance": 58,
+      "content_gap": 75
+    },
+    "composite_score": 77.5,
+    "intent": "informational"
+  },
+  {
+    "keyword": "outsource marketing manager",
+    "search_volume": 90,
+    "keyword_difficulty": 3,
+    "cpc": 76.61,
+    "competition_level": "LOW",
+    "circle": "your_category",
+    "source": "dataforseo",
+    "cluster": "outsource-marketing",
+    "scores": {
+      "business_value": 65,
+      "opportunity": 89,
+      "difficulty_inv": 97,
+      "relevance": 58,
+      "content_gap": 75
+    },
+    "composite_score": 77.4,
+    "intent": "informational"
+  },
+  {
+    "keyword": "fractional cmo meaning",
+    "search_volume": 480,
+    "keyword_difficulty": 0,
+    "cpc": 5.73,
+    "competition_level": "LOW",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "fractional-cmo",
+    "scores": {
+      "business_value": 55,
+      "opportunity": 93,
+      "difficulty_inv": 100,
+      "relevance": 66,
+      "content_gap": 75
+    },
+    "composite_score": 77.2,
+    "intent": "informational"
+  },
+  {
+    "keyword": "outsource marketing team",
+    "search_volume": 70,
+    "keyword_difficulty": 4,
+    "cpc": 42.22,
+    "competition_level": "LOW",
+    "circle": "outcomes_you_deliver",
+    "source": "dataforseo",
+    "cluster": "outsource-marketing",
+    "scores": {
+      "business_value": 65,
+      "opportunity": 89,
+      "difficulty_inv": 96,
+      "relevance": 58,
+      "content_gap": 75
+    },
+    "composite_score": 77.2,
+    "intent": "informational"
+  },
+  {
+    "keyword": "part time cmo",
+    "circle": "what_you_sell",
+    "source": "seed_brand",
+    "search_volume": 390,
+    "keyword_difficulty": 1,
+    "cpc": 37.27,
+    "competition_level": null,
+    "cluster": "fractional-cmo",
+    "scores": {
+      "business_value": 65,
+      "opportunity": 93,
+      "difficulty_inv": 99,
+      "relevance": 48,
+      "content_gap": 75
+    },
+    "composite_score": 77.2,
+    "intent": "informational"
+  },
+  {
+    "keyword": "what does a fractional cmo do",
+    "search_volume": 110,
+    "keyword_difficulty": 1,
+    "cpc": 7.02,
+    "competition_level": "LOW",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "fractional-cmo",
+    "scores": {
+      "business_value": 55,
+      "opportunity": 93,
+      "difficulty_inv": 99,
+      "relevance": 66,
+      "content_gap": 75
+    },
+    "composite_score": 77.0,
+    "intent": "informational"
+  },
+  {
+    "keyword": "fractional cmo roles",
+    "search_volume": 110,
+    "keyword_difficulty": 2,
+    "cpc": 6.01,
+    "competition_level": "MEDIUM",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "fractional-cmo",
+    "scores": {
+      "business_value": 55,
+      "opportunity": 93,
+      "difficulty_inv": 98,
+      "relevance": 66,
+      "content_gap": 75
+    },
+    "composite_score": 76.8,
+    "intent": "informational"
+  },
+  {
+    "keyword": "outsource digital marketing",
+    "search_volume": 390,
+    "keyword_difficulty": 0,
+    "cpc": 19.88,
+    "competition_level": "LOW",
+    "circle": "your_category",
+    "source": "dataforseo",
+    "cluster": "outsource-marketing",
+    "scores": {
+      "business_value": 57,
+      "opportunity": 93,
+      "difficulty_inv": 100,
+      "relevance": 58,
+      "content_gap": 75
+    },
+    "composite_score": 76.5,
+    "intent": "informational"
+  },
+  {
+    "keyword": "digital marketing outsource",
+    "search_volume": 390,
+    "keyword_difficulty": 0,
+    "cpc": 19.88,
+    "competition_level": "LOW",
+    "circle": "your_category",
+    "source": "dataforseo",
+    "cluster": "outsource-marketing",
+    "scores": {
+      "business_value": 57,
+      "opportunity": 93,
+      "difficulty_inv": 100,
+      "relevance": 58,
+      "content_gap": 75
+    },
+    "composite_score": 76.5,
+    "intent": "informational"
+  },
+  {
+    "keyword": "growth marketing agency for startups",
+    "search_volume": 40,
+    "keyword_difficulty": 5,
+    "cpc": 27.52,
+    "competition_level": "MEDIUM",
+    "circle": "problems_you_solve",
+    "source": "dataforseo",
+    "cluster": "marketing-agency-comparison",
+    "scores": {
+      "business_value": 67,
+      "opportunity": 89,
+      "difficulty_inv": 95,
+      "relevance": 49,
+      "content_gap": 75
+    },
+    "composite_score": 76.2,
+    "intent": "informational"
+  },
+  {
+    "keyword": "marketing consultant for hire",
+    "search_volume": 170,
+    "keyword_difficulty": 2,
+    "cpc": 7.6,
+    "competition_level": "LOW",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "marketing-consultant",
+    "scores": {
+      "business_value": 60,
+      "opportunity": 93,
+      "difficulty_inv": 98,
+      "relevance": 51,
+      "content_gap": 75
+    },
+    "composite_score": 76.0,
+    "intent": "transactional"
+  },
+  {
+    "keyword": "outsource marketing companies",
+    "search_volume": 260,
+    "keyword_difficulty": 5,
+    "cpc": 13.58,
+    "competition_level": "LOW",
+    "circle": "your_category",
+    "source": "dataforseo",
+    "cluster": "outsource-marketing",
+    "scores": {
+      "business_value": 57,
+      "opportunity": 93,
+      "difficulty_inv": 95,
+      "relevance": 58,
+      "content_gap": 75
+    },
+    "composite_score": 75.5,
+    "intent": "informational"
+  },
+  {
+    "keyword": "outsource marketing company",
+    "search_volume": 260,
+    "keyword_difficulty": 5,
+    "cpc": 13.58,
+    "competition_level": "LOW",
+    "circle": "your_category",
+    "source": "dataforseo",
+    "cluster": "outsource-marketing",
+    "scores": {
+      "business_value": 57,
+      "opportunity": 93,
+      "difficulty_inv": 95,
+      "relevance": 58,
+      "content_gap": 75
+    },
+    "composite_score": 75.5,
+    "intent": "informational"
+  },
+  {
+    "keyword": "marketing outsource companies",
+    "search_volume": 260,
+    "keyword_difficulty": 5,
+    "cpc": 13.58,
+    "competition_level": "LOW",
+    "circle": "your_category",
+    "source": "dataforseo",
+    "cluster": "outsource-marketing",
+    "scores": {
+      "business_value": 57,
+      "opportunity": 93,
+      "difficulty_inv": 95,
+      "relevance": 58,
+      "content_gap": 75
+    },
+    "composite_score": 75.5,
+    "intent": "informational"
+  },
+  {
+    "keyword": "marketing outsource",
+    "search_volume": 720,
+    "keyword_difficulty": 14,
+    "cpc": 33.57,
+    "competition_level": "LOW",
+    "circle": "your_category",
+    "source": "dataforseo",
+    "cluster": "outsource-marketing",
+    "scores": {
+      "business_value": 65,
+      "opportunity": 90,
+      "difficulty_inv": 86,
+      "relevance": 58,
+      "content_gap": 75
+    },
+    "composite_score": 75.4,
+    "intent": "informational"
+  },
+  {
+    "keyword": "fractional cmo for startups",
+    "search_volume": 110,
+    "keyword_difficulty": 0,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "fractional-cmo",
+    "scores": {
+      "business_value": 45,
+      "opportunity": 93,
+      "difficulty_inv": 100,
+      "relevance": 74,
+      "content_gap": 75
+    },
+    "composite_score": 75.3,
+    "intent": "informational"
+  },
+  {
+    "keyword": "hire a freelance marketer",
+    "search_volume": 10,
+    "keyword_difficulty": 22,
+    "cpc": 24.83,
+    "competition_level": "HIGH",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "freelance-marketing",
+    "scores": {
+      "business_value": 87,
+      "opportunity": 74,
+      "difficulty_inv": 78,
+      "relevance": 51,
+      "content_gap": 75
+    },
+    "composite_score": 75.3,
+    "intent": "transactional"
+  },
+  {
+    "keyword": "marketing outsource company",
+    "search_volume": 260,
+    "keyword_difficulty": 8,
+    "cpc": 13.58,
+    "competition_level": "LOW",
+    "circle": "your_category",
+    "source": "dataforseo",
+    "cluster": "outsource-marketing",
+    "scores": {
+      "business_value": 57,
+      "opportunity": 93,
+      "difficulty_inv": 92,
+      "relevance": 58,
+      "content_gap": 75
+    },
+    "composite_score": 75.0,
+    "intent": "informational"
+  },
+  {
+    "keyword": "interim cmo",
+    "circle": "what_you_sell",
+    "source": "seed_brand",
+    "search_volume": 210,
+    "keyword_difficulty": 0,
+    "cpc": 11.94,
+    "competition_level": null,
+    "cluster": "fractional-cmo",
+    "scores": {
+      "business_value": 57,
+      "opportunity": 93,
+      "difficulty_inv": 100,
+      "relevance": 48,
+      "content_gap": 75
+    },
+    "composite_score": 75.0,
+    "intent": "informational"
+  },
+  {
+    "keyword": "outsource marketing",
+    "search_volume": 720,
+    "keyword_difficulty": 18,
+    "cpc": 33.57,
+    "competition_level": "LOW",
+    "circle": "your_category",
+    "source": "dataforseo",
+    "cluster": "outsource-marketing",
+    "scores": {
+      "business_value": 65,
+      "opportunity": 90,
+      "difficulty_inv": 82,
+      "relevance": 58,
+      "content_gap": 75
+    },
+    "composite_score": 74.6,
+    "intent": "informational"
+  },
+  {
+    "keyword": "fractional cmo jobs",
+    "search_volume": 480,
+    "keyword_difficulty": 5,
+    "cpc": 3.42,
+    "competition_level": "LOW",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "fractional-cmo",
+    "scores": {
+      "business_value": 48,
+      "opportunity": 93,
+      "difficulty_inv": 95,
+      "relevance": 66,
+      "content_gap": 75
+    },
+    "composite_score": 74.0,
+    "intent": "informational"
+  },
+  {
+    "keyword": "fractional cmo job",
+    "search_volume": 480,
+    "keyword_difficulty": 7,
+    "cpc": 4.07,
+    "competition_level": "LOW",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "fractional-cmo",
+    "scores": {
+      "business_value": 48,
+      "opportunity": 93,
+      "difficulty_inv": 93,
+      "relevance": 66,
+      "content_gap": 75
+    },
+    "composite_score": 73.7,
+    "intent": "informational"
+  },
+  {
+    "keyword": "fractional cmo rate",
+    "search_volume": 170,
+    "keyword_difficulty": 0,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "fractional-cmo",
+    "scores": {
+      "business_value": 40,
+      "opportunity": 93,
+      "difficulty_inv": 100,
+      "relevance": 66,
+      "content_gap": 85
+    },
+    "composite_score": 73.7,
+    "intent": "informational"
+  },
+  {
+    "keyword": "fractional cmo rates",
+    "search_volume": 170,
+    "keyword_difficulty": 0,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "fractional-cmo",
+    "scores": {
+      "business_value": 40,
+      "opportunity": 93,
+      "difficulty_inv": 100,
+      "relevance": 66,
+      "content_gap": 85
+    },
+    "composite_score": 73.7,
+    "intent": "informational"
+  },
+  {
+    "keyword": "fractional cmo job description",
+    "search_volume": 110,
+    "keyword_difficulty": 0,
+    "cpc": 1.59,
+    "competition_level": "LOW",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "fractional-cmo",
+    "scores": {
+      "business_value": 43,
+      "opportunity": 93,
+      "difficulty_inv": 100,
+      "relevance": 66,
+      "content_gap": 75
+    },
+    "composite_score": 73.5,
+    "intent": "informational"
+  },
+  {
+    "keyword": "fractional marketing agency",
+    "search_volume": 210,
+    "keyword_difficulty": 0,
+    "cpc": 14.45,
+    "competition_level": "MEDIUM",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "fractional-marketing",
+    "scores": {
+      "business_value": 42,
+      "opportunity": 93,
+      "difficulty_inv": 100,
+      "relevance": 66,
+      "content_gap": 75
+    },
+    "composite_score": 73.2,
+    "intent": "informational"
+  },
+  {
+    "keyword": "fractional marketing director",
+    "search_volume": 210,
+    "keyword_difficulty": 0,
+    "cpc": 21.17,
+    "competition_level": "MEDIUM",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "fractional-marketing",
+    "scores": {
+      "business_value": 45,
+      "opportunity": 93,
+      "difficulty_inv": 100,
+      "relevance": 58,
+      "content_gap": 75
+    },
+    "composite_score": 73.0,
+    "intent": "informational"
+  },
+  {
+    "keyword": "fractional cmo vs marketing agency",
+    "circle": "competitors",
+    "source": "seed_brand",
+    "search_volume": null,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "cluster": "fractional-cmo",
+    "scores": {
+      "business_value": 60,
+      "opportunity": 75,
+      "difficulty_inv": 80,
+      "relevance": 74,
+      "content_gap": 90
+    },
+    "composite_score": 72.8,
+    "intent": "commercial"
+  },
+  {
+    "keyword": "what is fractional cmo",
+    "search_volume": 140,
+    "keyword_difficulty": 0,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "fractional-cmo",
+    "scores": {
+      "business_value": 40,
+      "opportunity": 93,
+      "difficulty_inv": 100,
+      "relevance": 66,
+      "content_gap": 75
+    },
+    "composite_score": 72.7,
+    "intent": "informational"
+  },
+  {
+    "keyword": "reasons to hire a marketing consultant",
+    "search_volume": 10,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "hire-marketer",
+    "scores": {
+      "business_value": 65,
+      "opportunity": 79,
+      "difficulty_inv": 80,
+      "relevance": 66,
+      "content_gap": 75
+    },
+    "composite_score": 72.7,
+    "intent": "transactional"
+  },
+  {
+    "keyword": "how much to hire a marketing consultant",
+    "search_volume": 10,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "hire-marketer",
+    "scores": {
+      "business_value": 65,
+      "opportunity": 79,
+      "difficulty_inv": 80,
+      "relevance": 66,
+      "content_gap": 75
+    },
+    "composite_score": 72.7,
+    "intent": "transactional"
+  },
+  {
+    "keyword": "should i hire a marketing consultant",
+    "search_volume": 10,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "hire-marketer",
+    "scores": {
+      "business_value": 65,
+      "opportunity": 79,
+      "difficulty_inv": 80,
+      "relevance": 66,
+      "content_gap": 75
+    },
+    "composite_score": 72.7,
+    "intent": "transactional"
+  },
+  {
+    "keyword": "when to hire a marketing consultant",
+    "search_volume": 10,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "hire-marketer",
+    "scores": {
+      "business_value": 65,
+      "opportunity": 79,
+      "difficulty_inv": 80,
+      "relevance": 66,
+      "content_gap": 75
+    },
+    "composite_score": 72.7,
+    "intent": "transactional"
+  },
+  {
+    "keyword": "hire digital marketing consultant in delhi",
+    "search_volume": 10,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "hire-marketer",
+    "scores": {
+      "business_value": 65,
+      "opportunity": 79,
+      "difficulty_inv": 80,
+      "relevance": 66,
+      "content_gap": 75
+    },
+    "composite_score": 72.7,
+    "intent": "transactional"
+  },
+  {
+    "keyword": "hire a digital marketing consultant",
+    "search_volume": 110,
+    "keyword_difficulty": 11,
+    "cpc": 8.61,
+    "competition_level": "LOW",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "marketing-consultant",
+    "scores": {
+      "business_value": 60,
+      "opportunity": 86,
+      "difficulty_inv": 89,
+      "relevance": 51,
+      "content_gap": 75
+    },
+    "composite_score": 72.5,
+    "intent": "transactional"
+  },
+  {
+    "keyword": "fractional chief marketing officer jobs",
+    "search_volume": 480,
+    "keyword_difficulty": 3,
+    "cpc": 3.42,
+    "competition_level": "LOW",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "fractional-cmo",
+    "scores": {
+      "business_value": 43,
+      "opportunity": 93,
+      "difficulty_inv": 97,
+      "relevance": 58,
+      "content_gap": 75
+    },
+    "composite_score": 71.8,
+    "intent": "informational"
+  },
+  {
+    "keyword": "b2b fractional cmo",
+    "search_volume": 70,
+    "keyword_difficulty": 0,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "fractional-cmo",
+    "scores": {
+      "business_value": 40,
+      "opportunity": 89,
+      "difficulty_inv": 100,
+      "relevance": 66,
+      "content_gap": 75
+    },
+    "composite_score": 71.7,
+    "intent": "informational"
+  },
+  {
+    "keyword": "when to hire a marketing agency",
+    "circle": "problems_you_solve",
+    "source": "seed_persona",
+    "search_volume": null,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "cluster": "hire-marketer",
+    "scores": {
+      "business_value": 65,
+      "opportunity": 75,
+      "difficulty_inv": 80,
+      "relevance": 66,
+      "content_gap": 75
+    },
+    "composite_score": 71.7,
+    "intent": "transactional"
+  },
+  {
+    "keyword": "fractional marketing",
+    "search_volume": 720,
+    "keyword_difficulty": 0,
+    "cpc": 13.51,
+    "competition_level": "LOW",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "fractional-marketing",
+    "scores": {
+      "business_value": 37,
+      "opportunity": 97,
+      "difficulty_inv": 100,
+      "relevance": 58,
+      "content_gap": 75
+    },
+    "composite_score": 71.5,
+    "intent": "informational"
+  },
+  {
+    "keyword": "what does fractional cmo mean",
+    "search_volume": 90,
+    "keyword_difficulty": 1,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "fractional-cmo",
+    "scores": {
+      "business_value": 40,
+      "opportunity": 89,
+      "difficulty_inv": 99,
+      "relevance": 66,
+      "content_gap": 75
+    },
+    "composite_score": 71.4,
+    "intent": "informational"
+  },
+  {
+    "keyword": "fractional cmo digital marketing",
+    "search_volume": 50,
+    "keyword_difficulty": 1,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "fractional-cmo",
+    "scores": {
+      "business_value": 40,
+      "opportunity": 89,
+      "difficulty_inv": 99,
+      "relevance": 66,
+      "content_gap": 75
+    },
+    "composite_score": 71.4,
+    "intent": "informational"
+  },
+  {
+    "keyword": "fractional law firm cmo",
+    "search_volume": 140,
+    "keyword_difficulty": 0,
+    "cpc": 24.09,
+    "competition_level": "LOW",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "other",
+    "scores": {
+      "business_value": 50,
+      "opportunity": 93,
+      "difficulty_inv": 100,
+      "relevance": 36,
+      "content_gap": 75
+    },
+    "composite_score": 71.2,
+    "intent": "informational"
+  },
+  {
+    "keyword": "best growth marketing agency",
+    "search_volume": 70,
+    "keyword_difficulty": 19,
+    "cpc": 13.89,
+    "competition_level": "LOW",
+    "circle": "problems_you_solve",
+    "source": "dataforseo",
+    "cluster": "marketing-agency-comparison",
+    "scores": {
+      "business_value": 69,
+      "opportunity": 82,
+      "difficulty_inv": 81,
+      "relevance": 41,
+      "content_gap": 75
+    },
+    "composite_score": 71.1,
+    "intent": "commercial"
+  },
+  {
+    "keyword": "fractional cmo and marketing",
+    "search_volume": 30,
+    "keyword_difficulty": 4,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "fractional-cmo",
+    "scores": {
+      "business_value": 40,
+      "opportunity": 89,
+      "difficulty_inv": 96,
+      "relevance": 66,
+      "content_gap": 75
+    },
+    "composite_score": 70.8,
+    "intent": "informational"
+  },
+  {
+    "keyword": "hire a freelance marketing consultant",
+    "search_volume": 10,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "marketing-consultant",
+    "scores": {
+      "business_value": 62,
+      "opportunity": 79,
+      "difficulty_inv": 80,
+      "relevance": 59,
+      "content_gap": 75
+    },
+    "composite_score": 70.7,
+    "intent": "transactional"
+  },
+  {
+    "keyword": "content marketing outsource",
+    "search_volume": 140,
+    "keyword_difficulty": 0,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "your_category",
+    "source": "dataforseo",
+    "cluster": "outsource-marketing",
+    "scores": {
+      "business_value": 35,
+      "opportunity": 93,
+      "difficulty_inv": 100,
+      "relevance": 58,
+      "content_gap": 75
+    },
+    "composite_score": 70.0,
+    "intent": "informational"
+  },
+  {
+    "keyword": "freelance digital marketer for hire",
+    "search_volume": 10,
+    "keyword_difficulty": 15,
+    "cpc": null,
+    "competition_level": null,
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "freelance-marketing",
+    "scores": {
+      "business_value": 57,
+      "opportunity": 82,
+      "difficulty_inv": 85,
+      "relevance": 51,
+      "content_gap": 75
+    },
+    "composite_score": 69.8,
+    "intent": "transactional"
+  },
+  {
+    "keyword": "fractional marketing consultant",
+    "search_volume": 110,
+    "keyword_difficulty": 7,
+    "cpc": 6.9,
+    "competition_level": "MEDIUM",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "fractional-marketing",
+    "scores": {
+      "business_value": 35,
+      "opportunity": 93,
+      "difficulty_inv": 93,
+      "relevance": 66,
+      "content_gap": 75
+    },
+    "composite_score": 69.8,
+    "intent": "informational"
+  },
+  {
+    "keyword": "fractional marketing leadership",
+    "search_volume": 90,
+    "keyword_difficulty": 0,
+    "cpc": 13.06,
+    "competition_level": "LOW",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "fractional-marketing",
+    "scores": {
+      "business_value": 37,
+      "opportunity": 89,
+      "difficulty_inv": 100,
+      "relevance": 58,
+      "content_gap": 75
+    },
+    "composite_score": 69.5,
+    "intent": "informational"
+  },
+  {
+    "keyword": "fractional marketing leader",
+    "search_volume": 90,
+    "keyword_difficulty": 0,
+    "cpc": 13.06,
+    "competition_level": "LOW",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "fractional-marketing",
+    "scores": {
+      "business_value": 37,
+      "opportunity": 89,
+      "difficulty_inv": 100,
+      "relevance": 58,
+      "content_gap": 75
+    },
+    "composite_score": 69.5,
+    "intent": "informational"
+  },
+  {
+    "keyword": "fractional marketing manager",
+    "search_volume": 70,
+    "keyword_difficulty": 0,
+    "cpc": 18.67,
+    "competition_level": "MEDIUM",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "fractional-marketing",
+    "scores": {
+      "business_value": 37,
+      "opportunity": 89,
+      "difficulty_inv": 100,
+      "relevance": 58,
+      "content_gap": 75
+    },
+    "composite_score": 69.5,
+    "intent": "informational"
+  },
+  {
+    "keyword": "fractional marketing department",
+    "search_volume": 40,
+    "keyword_difficulty": 0,
+    "cpc": 10.29,
+    "competition_level": "LOW",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "fractional-marketing",
+    "scores": {
+      "business_value": 37,
+      "opportunity": 89,
+      "difficulty_inv": 100,
+      "relevance": 58,
+      "content_gap": 75
+    },
+    "composite_score": 69.5,
+    "intent": "informational"
+  },
+  {
+    "keyword": "fractional marketing support",
+    "search_volume": 40,
+    "keyword_difficulty": 0,
+    "cpc": 16.3,
+    "competition_level": "MEDIUM",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "fractional-marketing",
+    "scores": {
+      "business_value": 37,
+      "opportunity": 89,
+      "difficulty_inv": 100,
+      "relevance": 58,
+      "content_gap": 75
+    },
+    "composite_score": 69.5,
+    "intent": "informational"
+  },
+  {
+    "keyword": "outsource sales and marketing",
+    "search_volume": 90,
+    "keyword_difficulty": 0,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "your_category",
+    "source": "dataforseo",
+    "cluster": "outsource-marketing",
+    "scores": {
+      "business_value": 35,
+      "opportunity": 89,
+      "difficulty_inv": 100,
+      "relevance": 58,
+      "content_gap": 75
+    },
+    "composite_score": 69.0,
+    "intent": "informational"
+  },
+  {
+    "keyword": "outsource online marketing",
+    "search_volume": 90,
+    "keyword_difficulty": 0,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "your_category",
+    "source": "dataforseo",
+    "cluster": "outsource-marketing",
+    "scores": {
+      "business_value": 35,
+      "opportunity": 89,
+      "difficulty_inv": 100,
+      "relevance": 58,
+      "content_gap": 75
+    },
+    "composite_score": 69.0,
+    "intent": "informational"
+  },
+  {
+    "keyword": "outsource b2b marketing",
+    "search_volume": 70,
+    "keyword_difficulty": 0,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "your_category",
+    "source": "dataforseo",
+    "cluster": "outsource-marketing",
+    "scores": {
+      "business_value": 35,
+      "opportunity": 89,
+      "difficulty_inv": 100,
+      "relevance": 58,
+      "content_gap": 75
+    },
+    "composite_score": 69.0,
+    "intent": "informational"
+  },
+  {
+    "keyword": "fractional chief marketing officer for private equity",
+    "search_volume": 40,
+    "keyword_difficulty": 0,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "fractional-cmo",
+    "scores": {
+      "business_value": 35,
+      "opportunity": 89,
+      "difficulty_inv": 100,
+      "relevance": 58,
+      "content_gap": 75
+    },
+    "composite_score": 69.0,
+    "intent": "informational"
+  },
+  {
+    "keyword": "hire paid social marketer",
+    "circle": "what_you_sell",
+    "source": "seed_persona",
+    "search_volume": null,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "cluster": "hire-marketer",
+    "scores": {
+      "business_value": 60,
+      "opportunity": 75,
+      "difficulty_inv": 80,
+      "relevance": 58,
+      "content_gap": 75
+    },
+    "composite_score": 69.0,
+    "intent": "transactional"
+  },
+  {
+    "keyword": "fractional marketing team",
+    "search_volume": 110,
+    "keyword_difficulty": 0,
+    "cpc": 8.55,
+    "competition_level": "LOW",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "fractional-marketing",
+    "scores": {
+      "business_value": 30,
+      "opportunity": 93,
+      "difficulty_inv": 100,
+      "relevance": 58,
+      "content_gap": 75
+    },
+    "composite_score": 68.5,
+    "intent": "informational"
+  },
+  {
+    "keyword": "outsource internet marketing",
+    "search_volume": 90,
+    "keyword_difficulty": 3,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "your_category",
+    "source": "dataforseo",
+    "cluster": "outsource-marketing",
+    "scores": {
+      "business_value": 35,
+      "opportunity": 89,
+      "difficulty_inv": 97,
+      "relevance": 58,
+      "content_gap": 75
+    },
+    "composite_score": 68.4,
+    "intent": "informational"
+  },
+  {
+    "keyword": "outsource web marketing",
+    "search_volume": 90,
+    "keyword_difficulty": 4,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "your_category",
+    "source": "dataforseo",
+    "cluster": "outsource-marketing",
+    "scores": {
+      "business_value": 35,
+      "opportunity": 89,
+      "difficulty_inv": 96,
+      "relevance": 58,
+      "content_gap": 75
+    },
+    "composite_score": 68.2,
+    "intent": "informational"
+  },
+  {
+    "keyword": "online marketing outsource",
+    "search_volume": 70,
+    "keyword_difficulty": 4,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "your_category",
+    "source": "dataforseo",
+    "cluster": "outsource-marketing",
+    "scores": {
+      "business_value": 35,
+      "opportunity": 89,
+      "difficulty_inv": 96,
+      "relevance": 58,
+      "content_gap": 75
+    },
+    "composite_score": 68.2,
+    "intent": "informational"
+  },
+  {
+    "keyword": "staffing agency marketing plan",
+    "search_volume": 70,
+    "keyword_difficulty": 0,
+    "cpc": 10.48,
+    "competition_level": "HIGH",
+    "circle": "your_category",
+    "source": "dataforseo",
+    "cluster": "marketing-staffing",
+    "scores": {
+      "business_value": 37,
+      "opportunity": 89,
+      "difficulty_inv": 100,
+      "relevance": 48,
+      "content_gap": 75
+    },
+    "composite_score": 68.0,
+    "intent": "informational"
+  },
+  {
+    "keyword": "marketing plan for staffing agency",
+    "search_volume": 70,
+    "keyword_difficulty": 0,
+    "cpc": 10.48,
+    "competition_level": "HIGH",
+    "circle": "your_category",
+    "source": "dataforseo",
+    "cluster": "marketing-staffing",
+    "scores": {
+      "business_value": 37,
+      "opportunity": 89,
+      "difficulty_inv": 100,
+      "relevance": 48,
+      "content_gap": 75
+    },
+    "composite_score": 68.0,
+    "intent": "informational"
+  },
+  {
+    "keyword": "ecommerce growth marketing agency",
+    "search_volume": 10,
+    "keyword_difficulty": null,
+    "cpc": 31.26,
+    "competition_level": "MEDIUM",
+    "circle": "problems_you_solve",
+    "source": "dataforseo",
+    "cluster": "marketing-agency-comparison",
+    "scores": {
+      "business_value": 62,
+      "opportunity": 79,
+      "difficulty_inv": 80,
+      "relevance": 41,
+      "content_gap": 75
+    },
+    "composite_score": 68.0,
+    "intent": "informational"
+  },
+  {
+    "keyword": "fractional head of marketing",
+    "search_volume": 30,
+    "keyword_difficulty": 2,
+    "cpc": 34.03,
+    "competition_level": "MEDIUM",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "marketing-roles",
+    "scores": {
+      "business_value": 45,
+      "opportunity": 89,
+      "difficulty_inv": 98,
+      "relevance": 28,
+      "content_gap": 75
+    },
+    "composite_score": 67.1,
+    "intent": "informational"
+  },
+  {
+    "keyword": "hire a freelance email marketer",
+    "search_volume": null,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "freelance-marketing",
+    "scores": {
+      "business_value": 57,
+      "opportunity": 75,
+      "difficulty_inv": 80,
+      "relevance": 51,
+      "content_gap": 75
+    },
+    "composite_score": 67.0,
+    "intent": "transactional"
+  },
+  {
+    "keyword": "fractional marketing jobs",
+    "search_volume": 210,
+    "keyword_difficulty": 0,
+    "cpc": 2.52,
+    "competition_level": "LOW",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "fractional-marketing",
+    "scores": {
+      "business_value": 23,
+      "opportunity": 93,
+      "difficulty_inv": 100,
+      "relevance": 58,
+      "content_gap": 75
+    },
+    "composite_score": 66.3,
+    "intent": "informational"
+  },
+  {
+    "keyword": "how to hire first marketer startup",
+    "circle": "your_audience",
+    "source": "seed_persona",
+    "search_volume": null,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "cluster": "startup-marketing",
+    "scores": {
+      "business_value": 50,
+      "opportunity": 75,
+      "difficulty_inv": 80,
+      "relevance": 59,
+      "content_gap": 75
+    },
+    "composite_score": 66.1,
+    "intent": "transactional"
+  },
+  {
+    "keyword": "marketing operations team structure",
+    "search_volume": 40,
+    "keyword_difficulty": 0,
+    "cpc": 39.02,
+    "competition_level": "LOW",
+    "circle": "your_audience",
+    "source": "dataforseo",
+    "cluster": "marketing-team-structure",
+    "scores": {
+      "business_value": 45,
+      "opportunity": 89,
+      "difficulty_inv": 100,
+      "relevance": 18,
+      "content_gap": 75
+    },
+    "composite_score": 66.0,
+    "intent": "informational"
+  },
+  {
+    "keyword": "freelance marketer for hire",
+    "search_volume": null,
+    "keyword_difficulty": 22,
+    "cpc": null,
+    "competition_level": null,
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "freelance-marketing",
+    "scores": {
+      "business_value": 57,
+      "opportunity": 70,
+      "difficulty_inv": 78,
+      "relevance": 51,
+      "content_gap": 75
+    },
+    "composite_score": 65.3,
+    "intent": "transactional"
+  },
+  {
+    "keyword": "hire growth marketer",
+    "circle": "what_you_sell",
+    "source": "seed_persona",
+    "search_volume": null,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "cluster": "hire-marketer",
+    "scores": {
+      "business_value": 65,
+      "opportunity": 65,
+      "difficulty_inv": 60,
+      "relevance": 66,
+      "content_gap": 75
+    },
+    "composite_score": 65.2,
+    "intent": "transactional"
+  },
+  {
+    "keyword": "why should you hire a marketing consultant",
+    "search_volume": 10,
+    "keyword_difficulty": 39,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "hire-marketer",
+    "scores": {
+      "business_value": 65,
+      "opportunity": 64,
+      "difficulty_inv": 61,
+      "relevance": 66,
+      "content_gap": 75
+    },
+    "composite_score": 65.1,
+    "intent": "transactional"
+  },
+  {
+    "keyword": "fractional vp of marketing",
+    "search_volume": 30,
+    "keyword_difficulty": 0,
+    "cpc": 12.49,
+    "competition_level": "LOW",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "other",
+    "scores": {
+      "business_value": 37,
+      "opportunity": 89,
+      "difficulty_inv": 100,
+      "relevance": 28,
+      "content_gap": 75
+    },
+    "composite_score": 65.1,
+    "intent": "informational"
+  },
+  {
+    "keyword": "ladder growth marketing agency reviews",
+    "search_volume": 10,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "circle": "problems_you_solve",
+    "source": "dataforseo",
+    "cluster": "marketing-agency-comparison",
+    "scores": {
+      "business_value": 47,
+      "opportunity": 79,
+      "difficulty_inv": 80,
+      "relevance": 41,
+      "content_gap": 90
+    },
+    "composite_score": 65.0,
+    "intent": "commercial"
+  },
+  {
+    "keyword": "what is fractional marketing",
+    "search_volume": 140,
+    "keyword_difficulty": 0,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "fractional-marketing",
+    "scores": {
+      "business_value": 15,
+      "opportunity": 93,
+      "difficulty_inv": 100,
+      "relevance": 58,
+      "content_gap": 75
+    },
+    "composite_score": 64.0,
+    "intent": "informational"
+  },
+  {
+    "keyword": "saas growth marketing agency",
+    "search_volume": 20,
+    "keyword_difficulty": 8,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "problems_you_solve",
+    "source": "dataforseo",
+    "cluster": "marketing-agency-comparison",
+    "scores": {
+      "business_value": 32,
+      "opportunity": 89,
+      "difficulty_inv": 92,
+      "relevance": 41,
+      "content_gap": 75
+    },
+    "composite_score": 63.9,
+    "intent": "informational"
+  },
+  {
+    "keyword": "fractional marketing jobs remote",
+    "search_volume": 30,
+    "keyword_difficulty": 0,
+    "cpc": 1.06,
+    "competition_level": "LOW",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "fractional-marketing",
+    "scores": {
+      "business_value": 18,
+      "opportunity": 89,
+      "difficulty_inv": 100,
+      "relevance": 58,
+      "content_gap": 75
+    },
+    "composite_score": 63.8,
+    "intent": "informational"
+  },
+  {
+    "keyword": "marketing consultant for hire near texas",
+    "search_volume": null,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "marketing-consultant",
+    "scores": {
+      "business_value": 45,
+      "opportunity": 75,
+      "difficulty_inv": 80,
+      "relevance": 51,
+      "content_gap": 75
+    },
+    "composite_score": 63.4,
+    "intent": "transactional"
+  },
+  {
+    "keyword": "marketing consultant for hire near california",
+    "search_volume": null,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "marketing-consultant",
+    "scores": {
+      "business_value": 45,
+      "opportunity": 75,
+      "difficulty_inv": 80,
+      "relevance": 51,
+      "content_gap": 75
+    },
+    "composite_score": 63.4,
+    "intent": "transactional"
+  },
+  {
+    "keyword": "why hire a marketing consultant",
+    "search_volume": 10,
+    "keyword_difficulty": 42,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "hire-marketer",
+    "scores": {
+      "business_value": 65,
+      "opportunity": 59,
+      "difficulty_inv": 58,
+      "relevance": 66,
+      "content_gap": 75
+    },
+    "composite_score": 63.2,
+    "intent": "transactional"
+  },
+  {
+    "keyword": "fractional marketing executive",
+    "search_volume": 90,
+    "keyword_difficulty": 0,
+    "cpc": null,
+    "competition_level": "MEDIUM",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "fractional-marketing",
+    "scores": {
+      "business_value": 15,
+      "opportunity": 89,
+      "difficulty_inv": 100,
+      "relevance": 58,
+      "content_gap": 75
+    },
+    "composite_score": 63.0,
+    "intent": "informational"
+  },
+  {
+    "keyword": "fractional vp marketing",
+    "search_volume": 40,
+    "keyword_difficulty": 0,
+    "cpc": 7.51,
+    "competition_level": "LOW",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "marketing-roles",
+    "scores": {
+      "business_value": 30,
+      "opportunity": 89,
+      "difficulty_inv": 100,
+      "relevance": 28,
+      "content_gap": 75
+    },
+    "composite_score": 63.0,
+    "intent": "informational"
+  },
+  {
+    "keyword": "marketerhire vs toptal",
+    "circle": "competitors",
+    "source": "seed_brand",
+    "search_volume": null,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "cluster": "competitor-comparison",
+    "scores": {
+      "business_value": 42,
+      "opportunity": 65,
+      "difficulty_inv": 60,
+      "relevance": 88,
+      "content_gap": 90
+    },
+    "composite_score": 63.0,
+    "intent": "commercial"
+  },
+  {
+    "keyword": "marketerhire vs mayple",
+    "circle": "competitors",
+    "source": "seed_brand",
+    "search_volume": null,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "cluster": "competitor-comparison",
+    "scores": {
+      "business_value": 42,
+      "opportunity": 65,
+      "difficulty_inv": 60,
+      "relevance": 88,
+      "content_gap": 90
+    },
+    "composite_score": 63.0,
+    "intent": "commercial"
+  },
+  {
+    "keyword": "agency vs in house marketing",
+    "circle": "problems_you_solve",
+    "source": "seed_questions",
+    "search_volume": null,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "cluster": "marketing-agency-comparison",
+    "scores": {
+      "business_value": 42,
+      "opportunity": 75,
+      "difficulty_inv": 80,
+      "relevance": 43,
+      "content_gap": 90
+    },
+    "composite_score": 62.8,
+    "intent": "commercial"
+  },
+  {
+    "keyword": "fractional marketing roles",
+    "search_volume": 40,
+    "keyword_difficulty": 2,
+    "cpc": 6.66,
+    "competition_level": "MEDIUM",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "fractional-marketing",
+    "scores": {
+      "business_value": 30,
+      "opportunity": 89,
+      "difficulty_inv": 98,
+      "relevance": 58,
+      "content_gap": 30
+    },
+    "composite_score": 62.5,
+    "intent": "informational"
+  },
+  {
+    "keyword": "marketing strategy for staffing agency",
+    "search_volume": 10,
+    "keyword_difficulty": 0,
+    "cpc": null,
+    "competition_level": null,
+    "circle": "your_category",
+    "source": "dataforseo",
+    "cluster": "marketing-staffing",
+    "scores": {
+      "business_value": 15,
+      "opportunity": 89,
+      "difficulty_inv": 100,
+      "relevance": 48,
+      "content_gap": 85
+    },
+    "composite_score": 62.5,
+    "intent": "informational"
+  },
+  {
+    "keyword": "hire content marketer",
+    "circle": "what_you_sell",
+    "source": "seed_persona",
+    "search_volume": null,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "cluster": "hire-marketer",
+    "scores": {
+      "business_value": 60,
+      "opportunity": 65,
+      "difficulty_inv": 60,
+      "relevance": 58,
+      "content_gap": 75
+    },
+    "composite_score": 62.5,
+    "intent": "transactional"
+  },
+  {
+    "keyword": "hire seo expert",
+    "circle": "what_you_sell",
+    "source": "seed_persona",
+    "search_volume": null,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "cluster": "hire-marketer",
+    "scores": {
+      "business_value": 60,
+      "opportunity": 65,
+      "difficulty_inv": 60,
+      "relevance": 58,
+      "content_gap": 75
+    },
+    "composite_score": 62.5,
+    "intent": "transactional"
+  },
+  {
+    "keyword": "hire ppc expert",
+    "circle": "what_you_sell",
+    "source": "seed_persona",
+    "search_volume": null,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "cluster": "hire-marketer",
+    "scores": {
+      "business_value": 60,
+      "opportunity": 65,
+      "difficulty_inv": 60,
+      "relevance": 58,
+      "content_gap": 75
+    },
+    "composite_score": 62.5,
+    "intent": "transactional"
+  },
+  {
+    "keyword": "staffing agency marketing ideas",
+    "search_volume": 70,
+    "keyword_difficulty": 0,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "your_category",
+    "source": "dataforseo",
+    "cluster": "marketing-staffing",
+    "scores": {
+      "business_value": 15,
+      "opportunity": 89,
+      "difficulty_inv": 100,
+      "relevance": 48,
+      "content_gap": 75
+    },
+    "composite_score": 61.5,
+    "intent": "informational"
+  },
+  {
+    "keyword": "marketing ideas staffing agency",
+    "search_volume": 70,
+    "keyword_difficulty": 0,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "your_category",
+    "source": "dataforseo",
+    "cluster": "marketing-staffing",
+    "scores": {
+      "business_value": 15,
+      "opportunity": 89,
+      "difficulty_inv": 100,
+      "relevance": 48,
+      "content_gap": 75
+    },
+    "composite_score": 61.5,
+    "intent": "informational"
+  },
+  {
+    "keyword": "marketing a staffing agency",
+    "search_volume": 40,
+    "keyword_difficulty": 0,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "your_category",
+    "source": "dataforseo",
+    "cluster": "marketing-staffing",
+    "scores": {
+      "business_value": 15,
+      "opportunity": 89,
+      "difficulty_inv": 100,
+      "relevance": 48,
+      "content_gap": 75
+    },
+    "composite_score": 61.5,
+    "intent": "informational"
+  },
+  {
+    "keyword": "experiential marketing staffing agency",
+    "search_volume": 10,
+    "keyword_difficulty": null,
+    "cpc": 11.71,
+    "competition_level": "HIGH",
+    "circle": "your_category",
+    "source": "dataforseo",
+    "cluster": "marketing-staffing",
+    "scores": {
+      "business_value": 37,
+      "opportunity": 79,
+      "difficulty_inv": 80,
+      "relevance": 48,
+      "content_gap": 75
+    },
+    "composite_score": 61.5,
+    "intent": "informational"
+  },
+  {
+    "keyword": "outsource sales and marketing company",
+    "search_volume": 90,
+    "keyword_difficulty": 21,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "your_category",
+    "source": "dataforseo",
+    "cluster": "outsource-marketing",
+    "scores": {
+      "business_value": 35,
+      "opportunity": 74,
+      "difficulty_inv": 79,
+      "relevance": 58,
+      "content_gap": 75
+    },
+    "composite_score": 61.0,
+    "intent": "informational"
+  },
+  {
+    "keyword": "marketing staffing agency nyc",
+    "search_volume": 110,
+    "keyword_difficulty": 13,
+    "cpc": 4.72,
+    "competition_level": "MEDIUM",
+    "circle": "your_category",
+    "source": "dataforseo",
+    "cluster": "marketing-staffing",
+    "scores": {
+      "business_value": 23,
+      "opportunity": 86,
+      "difficulty_inv": 87,
+      "relevance": 48,
+      "content_gap": 75
+    },
+    "composite_score": 60.5,
+    "intent": "informational"
+  },
+  {
+    "keyword": "b2b growth marketing agency",
+    "search_volume": 40,
+    "keyword_difficulty": 40,
+    "cpc": 105.67,
+    "competition_level": "LOW",
+    "circle": "problems_you_solve",
+    "source": "dataforseo",
+    "cluster": "marketing-agency-comparison",
+    "scores": {
+      "business_value": 62,
+      "opportunity": 64,
+      "difficulty_inv": 60,
+      "relevance": 41,
+      "content_gap": 75
+    },
+    "composite_score": 60.2,
+    "intent": "informational"
+  },
+  {
+    "keyword": "marketing staffing agency dallas",
+    "search_volume": 10,
+    "keyword_difficulty": null,
+    "cpc": 5.43,
+    "competition_level": "HIGH",
+    "circle": "your_category",
+    "source": "dataforseo",
+    "cluster": "marketing-staffing",
+    "scores": {
+      "business_value": 30,
+      "opportunity": 79,
+      "difficulty_inv": 80,
+      "relevance": 48,
+      "content_gap": 75
+    },
+    "composite_score": 59.5,
+    "intent": "informational"
+  },
+  {
+    "keyword": "content marketing team structure",
+    "search_volume": 50,
+    "keyword_difficulty": 0,
+    "cpc": 12.04,
+    "competition_level": "LOW",
+    "circle": "your_audience",
+    "source": "dataforseo",
+    "cluster": "marketing-team-structure",
+    "scores": {
+      "business_value": 37,
+      "opportunity": 89,
+      "difficulty_inv": 100,
+      "relevance": 18,
+      "content_gap": 30
+    },
+    "composite_score": 59.1,
+    "intent": "informational"
+  },
+  {
+    "keyword": "agile marketing team structure",
+    "search_volume": 30,
+    "keyword_difficulty": 0,
+    "cpc": 10.71,
+    "competition_level": "LOW",
+    "circle": "your_audience",
+    "source": "dataforseo",
+    "cluster": "marketing-team-structure",
+    "scores": {
+      "business_value": 37,
+      "opportunity": 89,
+      "difficulty_inv": 100,
+      "relevance": 18,
+      "content_gap": 30
+    },
+    "composite_score": 59.1,
+    "intent": "informational"
+  },
+  {
+    "keyword": "marketing agency growth",
+    "search_volume": 1600,
+    "keyword_difficulty": 41,
+    "cpc": 11.94,
+    "competition_level": "LOW",
+    "circle": "problems_you_solve",
+    "source": "dataforseo",
+    "cluster": "marketing-agency-comparison",
+    "scores": {
+      "business_value": 54,
+      "opportunity": 70,
+      "difficulty_inv": 59,
+      "relevance": 41,
+      "content_gap": 75
+    },
+    "composite_score": 59.1,
+    "intent": "informational"
+  },
+  {
+    "keyword": "growth marketing agency",
+    "search_volume": 1600,
+    "keyword_difficulty": 41,
+    "cpc": 11.94,
+    "competition_level": "LOW",
+    "circle": "problems_you_solve",
+    "source": "dataforseo",
+    "cluster": "marketing-agency-comparison",
+    "scores": {
+      "business_value": 54,
+      "opportunity": 70,
+      "difficulty_inv": 59,
+      "relevance": 41,
+      "content_gap": 75
+    },
+    "composite_score": 59.1,
+    "intent": "informational"
+  },
+  {
+    "keyword": "growth hacking marketing agency",
+    "search_volume": 20,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "problems_you_solve",
+    "source": "dataforseo",
+    "cluster": "marketing-agency-comparison",
+    "scores": {
+      "business_value": 32,
+      "opportunity": 79,
+      "difficulty_inv": 80,
+      "relevance": 41,
+      "content_gap": 75
+    },
+    "composite_score": 59.0,
+    "intent": "informational"
+  },
+  {
+    "keyword": "vital growth digital marketing agency",
+    "search_volume": 10,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "circle": "problems_you_solve",
+    "source": "dataforseo",
+    "cluster": "marketing-agency-comparison",
+    "scores": {
+      "business_value": 32,
+      "opportunity": 79,
+      "difficulty_inv": 80,
+      "relevance": 41,
+      "content_gap": 75
+    },
+    "composite_score": 59.0,
+    "intent": "informational"
+  },
+  {
+    "keyword": "growth marketing agency nyc",
+    "search_volume": 10,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "problems_you_solve",
+    "source": "dataforseo",
+    "cluster": "marketing-agency-comparison",
+    "scores": {
+      "business_value": 32,
+      "opportunity": 79,
+      "difficulty_inv": 80,
+      "relevance": 41,
+      "content_gap": 75
+    },
+    "composite_score": 59.0,
+    "intent": "informational"
+  },
+  {
+    "keyword": "power digital marketing agency for online growth",
+    "search_volume": 10,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "circle": "problems_you_solve",
+    "source": "dataforseo",
+    "cluster": "marketing-agency-comparison",
+    "scores": {
+      "business_value": 32,
+      "opportunity": 79,
+      "difficulty_inv": 80,
+      "relevance": 41,
+      "content_gap": 75
+    },
+    "composite_score": 59.0,
+    "intent": "informational"
+  },
+  {
+    "keyword": "bolt growth marketing agency",
+    "search_volume": 10,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "circle": "problems_you_solve",
+    "source": "dataforseo",
+    "cluster": "marketing-agency-comparison",
+    "scores": {
+      "business_value": 32,
+      "opportunity": 79,
+      "difficulty_inv": 80,
+      "relevance": 41,
+      "content_gap": 75
+    },
+    "composite_score": 59.0,
+    "intent": "informational"
+  },
+  {
+    "keyword": "growth hack marketing agency",
+    "search_volume": 10,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "circle": "problems_you_solve",
+    "source": "dataforseo",
+    "cluster": "marketing-agency-comparison",
+    "scores": {
+      "business_value": 32,
+      "opportunity": 79,
+      "difficulty_inv": 80,
+      "relevance": 41,
+      "content_gap": 75
+    },
+    "composite_score": 59.0,
+    "intent": "informational"
+  },
+  {
+    "keyword": "growth rocket digital marketing agency",
+    "search_volume": 10,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "circle": "problems_you_solve",
+    "source": "dataforseo",
+    "cluster": "marketing-agency-comparison",
+    "scores": {
+      "business_value": 32,
+      "opportunity": 79,
+      "difficulty_inv": 80,
+      "relevance": 41,
+      "content_gap": 75
+    },
+    "composite_score": 59.0,
+    "intent": "informational"
+  },
+  {
+    "keyword": "growth marketing agency india",
+    "search_volume": 10,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "circle": "problems_you_solve",
+    "source": "dataforseo",
+    "cluster": "marketing-agency-comparison",
+    "scores": {
+      "business_value": 32,
+      "opportunity": 79,
+      "difficulty_inv": 80,
+      "relevance": 41,
+      "content_gap": 75
+    },
+    "composite_score": 59.0,
+    "intent": "informational"
+  },
+  {
+    "keyword": "spear growth digital marketing agency",
+    "search_volume": 10,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "circle": "problems_you_solve",
+    "source": "dataforseo",
+    "cluster": "marketing-agency-comparison",
+    "scores": {
+      "business_value": 32,
+      "opportunity": 79,
+      "difficulty_inv": 80,
+      "relevance": 41,
+      "content_gap": 75
+    },
+    "composite_score": 59.0,
+    "intent": "informational"
+  },
+  {
+    "keyword": "licera growth digital marketing agency",
+    "search_volume": 10,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "circle": "problems_you_solve",
+    "source": "dataforseo",
+    "cluster": "marketing-agency-comparison",
+    "scores": {
+      "business_value": 32,
+      "opportunity": 79,
+      "difficulty_inv": 80,
+      "relevance": 41,
+      "content_gap": 75
+    },
+    "composite_score": 59.0,
+    "intent": "informational"
+  },
+  {
+    "keyword": "growth hackers digital marketing agency",
+    "search_volume": 10,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "circle": "problems_you_solve",
+    "source": "dataforseo",
+    "cluster": "marketing-agency-comparison",
+    "scores": {
+      "business_value": 32,
+      "opportunity": 79,
+      "difficulty_inv": 80,
+      "relevance": 41,
+      "content_gap": 75
+    },
+    "composite_score": 59.0,
+    "intent": "informational"
+  },
+  {
+    "keyword": "smartboost growth marketing agency phone number",
+    "search_volume": 10,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "circle": "problems_you_solve",
+    "source": "dataforseo",
+    "cluster": "marketing-agency-comparison",
+    "scores": {
+      "business_value": 32,
+      "opportunity": 79,
+      "difficulty_inv": 80,
+      "relevance": 41,
+      "content_gap": 75
+    },
+    "composite_score": 59.0,
+    "intent": "informational"
+  },
+  {
+    "keyword": "growth marketing agency san francisco",
+    "search_volume": 10,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "problems_you_solve",
+    "source": "dataforseo",
+    "cluster": "marketing-agency-comparison",
+    "scores": {
+      "business_value": 32,
+      "opportunity": 79,
+      "difficulty_inv": 80,
+      "relevance": 41,
+      "content_gap": 75
+    },
+    "composite_score": 59.0,
+    "intent": "informational"
+  },
+  {
+    "keyword": "startup marketing team structure",
+    "search_volume": 30,
+    "keyword_difficulty": 0,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "your_audience",
+    "source": "dataforseo",
+    "cluster": "startup-marketing",
+    "scores": {
+      "business_value": 20,
+      "opportunity": 89,
+      "difficulty_inv": 100,
+      "relevance": 51,
+      "content_gap": 30
+    },
+    "composite_score": 58.9,
+    "intent": "informational"
+  },
+  {
+    "keyword": "digital growth marketing agency",
+    "search_volume": 140,
+    "keyword_difficulty": 47,
+    "cpc": 24.37,
+    "competition_level": "LOW",
+    "circle": "problems_you_solve",
+    "source": "dataforseo",
+    "cluster": "marketing-agency-comparison",
+    "scores": {
+      "business_value": 62,
+      "opportunity": 63,
+      "difficulty_inv": 53,
+      "relevance": 41,
+      "content_gap": 75
+    },
+    "composite_score": 58.6,
+    "intent": "informational"
+  },
+  {
+    "keyword": "fractional content marketing",
+    "search_volume": 40,
+    "keyword_difficulty": 0,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "other",
+    "scores": {
+      "business_value": 15,
+      "opportunity": 89,
+      "difficulty_inv": 100,
+      "relevance": 28,
+      "content_gap": 75
+    },
+    "composite_score": 58.5,
+    "intent": "informational"
+  },
+  {
+    "keyword": "fractional attribution marketing",
+    "search_volume": 30,
+    "keyword_difficulty": 0,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "what_you_sell",
+    "source": "dataforseo",
+    "cluster": "other",
+    "scores": {
+      "business_value": 15,
+      "opportunity": 89,
+      "difficulty_inv": 100,
+      "relevance": 28,
+      "content_gap": 75
+    },
+    "composite_score": 58.5,
+    "intent": "informational"
+  },
+  {
+    "keyword": "best staffing agency for marketing",
+    "search_volume": null,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "circle": "your_category",
+    "source": "dataforseo",
+    "cluster": "marketing-staffing",
+    "scores": {
+      "business_value": 30,
+      "opportunity": 75,
+      "difficulty_inv": 80,
+      "relevance": 48,
+      "content_gap": 75
+    },
+    "composite_score": 58.5,
+    "intent": "commercial"
+  },
+  {
+    "keyword": "ladder growth marketing agency",
+    "search_volume": 40,
+    "keyword_difficulty": 21,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "problems_you_solve",
+    "source": "dataforseo",
+    "cluster": "marketing-agency-comparison",
+    "scores": {
+      "business_value": 32,
+      "opportunity": 74,
+      "difficulty_inv": 79,
+      "relevance": 41,
+      "content_gap": 75
+    },
+    "composite_score": 57.6,
+    "intent": "informational"
+  },
+  {
+    "keyword": "vegasmarketing company smartboost growth marketing agency",
+    "search_volume": 10,
+    "keyword_difficulty": 21,
+    "cpc": null,
+    "competition_level": null,
+    "circle": "problems_you_solve",
+    "source": "dataforseo",
+    "cluster": "marketing-agency-comparison",
+    "scores": {
+      "business_value": 32,
+      "opportunity": 74,
+      "difficulty_inv": 79,
+      "relevance": 41,
+      "content_gap": 75
+    },
+    "composite_score": 57.6,
+    "intent": "informational"
+  },
+  {
+    "keyword": "marketing staffing agency boston",
+    "search_volume": 10,
+    "keyword_difficulty": null,
+    "cpc": 2.49,
+    "competition_level": "HIGH",
+    "circle": "your_category",
+    "source": "dataforseo",
+    "cluster": "marketing-staffing",
+    "scores": {
+      "business_value": 23,
+      "opportunity": 79,
+      "difficulty_inv": 80,
+      "relevance": 48,
+      "content_gap": 75
+    },
+    "composite_score": 57.3,
+    "intent": "informational"
+  },
+  {
+    "keyword": "web design in las vegas smartboost growth marketing agency",
+    "search_volume": 10,
+    "keyword_difficulty": 23,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "problems_you_solve",
+    "source": "dataforseo",
+    "cluster": "marketing-agency-comparison",
+    "scores": {
+      "business_value": 32,
+      "opportunity": 74,
+      "difficulty_inv": 77,
+      "relevance": 41,
+      "content_gap": 75
+    },
+    "composite_score": 57.1,
+    "intent": "informational"
+  },
+  {
+    "keyword": "marketing and sales team structure",
+    "search_volume": 20,
+    "keyword_difficulty": 0,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "your_audience",
+    "source": "dataforseo",
+    "cluster": "marketing-team-structure",
+    "scores": {
+      "business_value": 15,
+      "opportunity": 89,
+      "difficulty_inv": 100,
+      "relevance": 18,
+      "content_gap": 75
+    },
+    "composite_score": 57.0,
+    "intent": "informational"
+  },
+  {
+    "keyword": "marketing team cost calculator",
+    "circle": "outcomes_you_deliver",
+    "source": "seed_questions",
+    "search_volume": null,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "cluster": "marketing-team-structure",
+    "scores": {
+      "business_value": 40,
+      "opportunity": 75,
+      "difficulty_inv": 80,
+      "relevance": 18,
+      "content_gap": 75
+    },
+    "composite_score": 57.0,
+    "intent": "transactional"
+  },
+  {
+    "keyword": "marketing staffing agency san francisco",
+    "search_volume": 30,
+    "keyword_difficulty": 20,
+    "cpc": null,
+    "competition_level": null,
+    "circle": "your_category",
+    "source": "dataforseo",
+    "cluster": "marketing-staffing",
+    "scores": {
+      "business_value": 15,
+      "opportunity": 82,
+      "difficulty_inv": 80,
+      "relevance": 48,
+      "content_gap": 75
+    },
+    "composite_score": 55.7,
+    "intent": "informational"
+  },
+  {
+    "keyword": "b2b saas marketing agency",
+    "circle": "your_audience",
+    "source": "seed_persona",
+    "search_volume": null,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "cluster": "marketing-agency-comparison",
+    "scores": {
+      "business_value": 27,
+      "opportunity": 75,
+      "difficulty_inv": 80,
+      "relevance": 33,
+      "content_gap": 75
+    },
+    "composite_score": 55.3,
+    "intent": "informational"
+  },
+  {
+    "keyword": "marketing staffing agency",
+    "search_volume": 2900,
+    "keyword_difficulty": 36,
+    "cpc": 9.68,
+    "competition_level": "MEDIUM",
+    "circle": "your_category",
+    "source": "dataforseo",
+    "cluster": "marketing-staffing",
+    "scores": {
+      "business_value": 30,
+      "opportunity": 75,
+      "difficulty_inv": 64,
+      "relevance": 48,
+      "content_gap": 75
+    },
+    "composite_score": 55.2,
+    "intent": "informational"
+  },
+  {
+    "keyword": "marketing staffing agency austin",
+    "search_volume": 10,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "circle": "your_category",
+    "source": "dataforseo",
+    "cluster": "marketing-staffing",
+    "scores": {
+      "business_value": 15,
+      "opportunity": 79,
+      "difficulty_inv": 80,
+      "relevance": 48,
+      "content_gap": 75
+    },
+    "composite_score": 55.0,
+    "intent": "informational"
+  },
+  {
+    "keyword": "digital marketing strategy for staffing agency",
+    "search_volume": null,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "circle": "your_category",
+    "source": "dataforseo",
+    "cluster": "marketing-staffing",
+    "scores": {
+      "business_value": 15,
+      "opportunity": 75,
+      "difficulty_inv": 80,
+      "relevance": 48,
+      "content_gap": 85
+    },
+    "composite_score": 55.0,
+    "intent": "informational"
+  },
+  {
+    "keyword": "right side up marketing",
+    "circle": "competitors",
+    "source": "seed_brand",
+    "search_volume": null,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "cluster": "competitor-comparison",
+    "scores": {
+      "business_value": 22,
+      "opportunity": 75,
+      "difficulty_inv": 80,
+      "relevance": 40,
+      "content_gap": 75
+    },
+    "composite_score": 54.9,
+    "intent": "informational"
+  },
+  {
+    "keyword": "marketerhire reviews",
+    "circle": "competitors",
+    "source": "seed_brand",
+    "search_volume": null,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "cluster": "competitor-comparison",
+    "scores": {
+      "business_value": 42,
+      "opportunity": 55,
+      "difficulty_inv": 30,
+      "relevance": 88,
+      "content_gap": 90
+    },
+    "composite_score": 54.5,
+    "intent": "commercial"
+  },
+  {
+    "keyword": "toptal marketing alternative",
+    "circle": "competitors",
+    "source": "seed_brand",
+    "search_volume": null,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "cluster": "competitor-comparison",
+    "scores": {
+      "business_value": 37,
+      "opportunity": 65,
+      "difficulty_inv": 60,
+      "relevance": 40,
+      "content_gap": 90
+    },
+    "composite_score": 54.4,
+    "intent": "commercial"
+  },
+  {
+    "keyword": "hawke media alternative",
+    "circle": "competitors",
+    "source": "seed_brand",
+    "search_volume": null,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "cluster": "competitor-comparison",
+    "scores": {
+      "business_value": 37,
+      "opportunity": 65,
+      "difficulty_inv": 60,
+      "relevance": 40,
+      "content_gap": 90
+    },
+    "composite_score": 54.4,
+    "intent": "commercial"
+  },
+  {
+    "keyword": "marketing consultant for startups",
+    "circle": "your_audience",
+    "source": "seed_persona",
+    "search_volume": null,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "cluster": "marketing-consultant",
+    "scores": {
+      "business_value": 20,
+      "opportunity": 75,
+      "difficulty_inv": 80,
+      "relevance": 41,
+      "content_gap": 75
+    },
+    "composite_score": 54.4,
+    "intent": "informational"
+  },
+  {
+    "keyword": "marketing budget allocation startup",
+    "circle": "your_audience",
+    "source": "seed_questions",
+    "search_volume": null,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "cluster": "startup-marketing",
+    "scores": {
+      "business_value": 20,
+      "opportunity": 75,
+      "difficulty_inv": 80,
+      "relevance": 41,
+      "content_gap": 75
+    },
+    "composite_score": 54.4,
+    "intent": "informational"
+  },
+  {
+    "keyword": "marketing as a service",
+    "circle": "your_category",
+    "source": "seed_brand",
+    "search_volume": null,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "cluster": "other",
+    "scores": {
+      "business_value": 35,
+      "opportunity": 75,
+      "difficulty_inv": 80,
+      "relevance": 10,
+      "content_gap": 75
+    },
+    "composite_score": 54.2,
+    "intent": "transactional"
+  },
+  {
+    "keyword": "creative marketing and digital staffing agency",
+    "search_volume": null,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "circle": "your_category",
+    "source": "dataforseo",
+    "cluster": "marketing-staffing",
+    "scores": {
+      "business_value": 15,
+      "opportunity": 75,
+      "difficulty_inv": 80,
+      "relevance": 48,
+      "content_gap": 75
+    },
+    "composite_score": 54.0,
+    "intent": "informational"
+  },
+  {
+    "keyword": "marketing staffing agency denver",
+    "search_volume": null,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "circle": "your_category",
+    "source": "dataforseo",
+    "cluster": "marketing-staffing",
+    "scores": {
+      "business_value": 15,
+      "opportunity": 75,
+      "difficulty_inv": 80,
+      "relevance": 48,
+      "content_gap": 75
+    },
+    "composite_score": 54.0,
+    "intent": "informational"
+  },
+  {
+    "keyword": "growth marketing team structure",
+    "search_volume": 30,
+    "keyword_difficulty": 8,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "your_audience",
+    "source": "dataforseo",
+    "cluster": "marketing-team-structure",
+    "scores": {
+      "business_value": 20,
+      "opportunity": 89,
+      "difficulty_inv": 92,
+      "relevance": 26,
+      "content_gap": 30
+    },
+    "composite_score": 53.6,
+    "intent": "informational"
+  },
+  {
+    "keyword": "marketing team structure",
+    "search_volume": 260,
+    "keyword_difficulty": 0,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "your_audience",
+    "source": "dataforseo",
+    "cluster": "marketing-team-structure",
+    "scores": {
+      "business_value": 15,
+      "opportunity": 93,
+      "difficulty_inv": 100,
+      "relevance": 18,
+      "content_gap": 30
+    },
+    "composite_score": 53.5,
+    "intent": "informational"
+  },
+  {
+    "keyword": "agency growth marketing",
+    "search_volume": 1600,
+    "keyword_difficulty": 41,
+    "cpc": 11.94,
+    "competition_level": "LOW",
+    "circle": "problems_you_solve",
+    "source": "dataforseo",
+    "cluster": "other",
+    "scores": {
+      "business_value": 42,
+      "opportunity": 70,
+      "difficulty_inv": 59,
+      "relevance": 26,
+      "content_gap": 75
+    },
+    "composite_score": 53.3,
+    "intent": "informational"
+  },
+  {
+    "keyword": "growth digital marketing agency",
+    "search_volume": 20,
+    "keyword_difficulty": 47,
+    "cpc": 9.3,
+    "competition_level": "LOW",
+    "circle": "problems_you_solve",
+    "source": "dataforseo",
+    "cluster": "marketing-agency-comparison",
+    "scores": {
+      "business_value": 47,
+      "opportunity": 59,
+      "difficulty_inv": 53,
+      "relevance": 41,
+      "content_gap": 75
+    },
+    "composite_score": 53.1,
+    "intent": "informational"
+  },
+  {
+    "keyword": "how to structure a marketing team",
+    "search_volume": 40,
+    "keyword_difficulty": 0,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "your_audience",
+    "source": "dataforseo",
+    "cluster": "marketing-team-structure",
+    "scores": {
+      "business_value": 10,
+      "opportunity": 89,
+      "difficulty_inv": 100,
+      "relevance": 0,
+      "content_gap": 75
+    },
+    "composite_score": 52.8,
+    "intent": "informational"
+  },
+  {
+    "keyword": "saas marketing team structure",
+    "search_volume": 90,
+    "keyword_difficulty": 0,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "your_audience",
+    "source": "dataforseo",
+    "cluster": "marketing-team-structure",
+    "scores": {
+      "business_value": 15,
+      "opportunity": 89,
+      "difficulty_inv": 100,
+      "relevance": 18,
+      "content_gap": 30
+    },
+    "composite_score": 52.5,
+    "intent": "informational"
+  },
+  {
+    "keyword": "digital marketing team structure",
+    "search_volume": 70,
+    "keyword_difficulty": 0,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "your_audience",
+    "source": "dataforseo",
+    "cluster": "marketing-team-structure",
+    "scores": {
+      "business_value": 15,
+      "opportunity": 89,
+      "difficulty_inv": 100,
+      "relevance": 18,
+      "content_gap": 30
+    },
+    "composite_score": 52.5,
+    "intent": "informational"
+  },
+  {
+    "keyword": "small marketing team structure",
+    "search_volume": 70,
+    "keyword_difficulty": 0,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "your_audience",
+    "source": "dataforseo",
+    "cluster": "marketing-team-structure",
+    "scores": {
+      "business_value": 15,
+      "opportunity": 89,
+      "difficulty_inv": 100,
+      "relevance": 18,
+      "content_gap": 30
+    },
+    "composite_score": 52.5,
+    "intent": "informational"
+  },
+  {
+    "keyword": "product marketing team structure",
+    "search_volume": 50,
+    "keyword_difficulty": 0,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "your_audience",
+    "source": "dataforseo",
+    "cluster": "marketing-team-structure",
+    "scores": {
+      "business_value": 15,
+      "opportunity": 89,
+      "difficulty_inv": 100,
+      "relevance": 18,
+      "content_gap": 30
+    },
+    "composite_score": 52.5,
+    "intent": "informational"
+  },
+  {
+    "keyword": "marketing team structure b2b",
+    "search_volume": 50,
+    "keyword_difficulty": 0,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "your_audience",
+    "source": "dataforseo",
+    "cluster": "marketing-team-structure",
+    "scores": {
+      "business_value": 15,
+      "opportunity": 89,
+      "difficulty_inv": 100,
+      "relevance": 18,
+      "content_gap": 30
+    },
+    "composite_score": 52.5,
+    "intent": "informational"
+  },
+  {
+    "keyword": "b2b marketing team structure",
+    "search_volume": 50,
+    "keyword_difficulty": 0,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "your_audience",
+    "source": "dataforseo",
+    "cluster": "marketing-team-structure",
+    "scores": {
+      "business_value": 15,
+      "opportunity": 89,
+      "difficulty_inv": 100,
+      "relevance": 18,
+      "content_gap": 30
+    },
+    "composite_score": 52.5,
+    "intent": "informational"
+  },
+  {
+    "keyword": "in-house marketing team structure",
+    "search_volume": 50,
+    "keyword_difficulty": 0,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "your_audience",
+    "source": "dataforseo",
+    "cluster": "marketing-team-structure",
+    "scores": {
+      "business_value": 15,
+      "opportunity": 89,
+      "difficulty_inv": 100,
+      "relevance": 18,
+      "content_gap": 30
+    },
+    "composite_score": 52.5,
+    "intent": "informational"
+  },
+  {
+    "keyword": "modern marketing team structure",
+    "search_volume": 50,
+    "keyword_difficulty": 0,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "your_audience",
+    "source": "dataforseo",
+    "cluster": "marketing-team-structure",
+    "scores": {
+      "business_value": 15,
+      "opportunity": 89,
+      "difficulty_inv": 100,
+      "relevance": 18,
+      "content_gap": 30
+    },
+    "composite_score": 52.5,
+    "intent": "informational"
+  },
+  {
+    "keyword": "e-commerce marketing team structure",
+    "search_volume": 30,
+    "keyword_difficulty": 0,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "your_audience",
+    "source": "dataforseo",
+    "cluster": "marketing-team-structure",
+    "scores": {
+      "business_value": 15,
+      "opportunity": 89,
+      "difficulty_inv": 100,
+      "relevance": 18,
+      "content_gap": 30
+    },
+    "composite_score": 52.5,
+    "intent": "informational"
+  },
+  {
+    "keyword": "ecommerce marketing team structure",
+    "search_volume": 30,
+    "keyword_difficulty": 0,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "your_audience",
+    "source": "dataforseo",
+    "cluster": "marketing-team-structure",
+    "scores": {
+      "business_value": 15,
+      "opportunity": 89,
+      "difficulty_inv": 100,
+      "relevance": 18,
+      "content_gap": 30
+    },
+    "composite_score": 52.5,
+    "intent": "informational"
+  },
+  {
+    "keyword": "e commerce marketing team structure",
+    "search_volume": 30,
+    "keyword_difficulty": 0,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "your_audience",
+    "source": "dataforseo",
+    "cluster": "marketing-team-structure",
+    "scores": {
+      "business_value": 15,
+      "opportunity": 89,
+      "difficulty_inv": 100,
+      "relevance": 18,
+      "content_gap": 30
+    },
+    "composite_score": 52.5,
+    "intent": "informational"
+  },
+  {
+    "keyword": "sales and marketing team structure",
+    "search_volume": 20,
+    "keyword_difficulty": 0,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "your_audience",
+    "source": "dataforseo",
+    "cluster": "marketing-team-structure",
+    "scores": {
+      "business_value": 15,
+      "opportunity": 89,
+      "difficulty_inv": 100,
+      "relevance": 18,
+      "content_gap": 30
+    },
+    "composite_score": 52.5,
+    "intent": "informational"
+  },
+  {
+    "keyword": "b2b saas marketing team structure",
+    "search_volume": 20,
+    "keyword_difficulty": 0,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "your_audience",
+    "source": "dataforseo",
+    "cluster": "marketing-team-structure",
+    "scores": {
+      "business_value": 15,
+      "opportunity": 89,
+      "difficulty_inv": 100,
+      "relevance": 18,
+      "content_gap": 30
+    },
+    "composite_score": 52.5,
+    "intent": "informational"
+  },
+  {
+    "keyword": "in house marketing team structure",
+    "search_volume": 50,
+    "keyword_difficulty": 1,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "your_audience",
+    "source": "dataforseo",
+    "cluster": "marketing-team-structure",
+    "scores": {
+      "business_value": 15,
+      "opportunity": 89,
+      "difficulty_inv": 99,
+      "relevance": 18,
+      "content_gap": 30
+    },
+    "composite_score": 52.2,
+    "intent": "informational"
+  },
+  {
+    "keyword": "brand marketing team structure",
+    "search_volume": 40,
+    "keyword_difficulty": 1,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "your_audience",
+    "source": "dataforseo",
+    "cluster": "marketing-team-structure",
+    "scores": {
+      "business_value": 15,
+      "opportunity": 89,
+      "difficulty_inv": 99,
+      "relevance": 18,
+      "content_gap": 30
+    },
+    "composite_score": 52.2,
+    "intent": "informational"
+  },
+  {
+    "keyword": "smartboost growth marketing agency",
+    "search_volume": 10,
+    "keyword_difficulty": 39,
+    "cpc": null,
+    "competition_level": null,
+    "circle": "problems_you_solve",
+    "source": "dataforseo",
+    "cluster": "marketing-agency-comparison",
+    "scores": {
+      "business_value": 32,
+      "opportunity": 64,
+      "difficulty_inv": 61,
+      "relevance": 41,
+      "content_gap": 75
+    },
+    "composite_score": 51.5,
+    "intent": "informational"
+  },
+  {
+    "keyword": "marketing team structure examples",
+    "search_volume": 20,
+    "keyword_difficulty": 6,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "your_audience",
+    "source": "dataforseo",
+    "cluster": "marketing-team-structure",
+    "scores": {
+      "business_value": 15,
+      "opportunity": 89,
+      "difficulty_inv": 94,
+      "relevance": 18,
+      "content_gap": 30
+    },
+    "composite_score": 51.2,
+    "intent": "informational"
+  },
+  {
+    "keyword": "marketing staffing agency atlanta",
+    "search_volume": 10,
+    "keyword_difficulty": 32,
+    "cpc": 2.81,
+    "competition_level": "HIGH",
+    "circle": "your_category",
+    "source": "dataforseo",
+    "cluster": "marketing-staffing",
+    "scores": {
+      "business_value": 23,
+      "opportunity": 64,
+      "difficulty_inv": 68,
+      "relevance": 48,
+      "content_gap": 75
+    },
+    "composite_score": 51.2,
+    "intent": "informational"
+  },
+  {
+    "keyword": "marketing staffing agency los angeles",
+    "search_volume": 40,
+    "keyword_difficulty": 35,
+    "cpc": 4.94,
+    "competition_level": "HIGH",
+    "circle": "your_category",
+    "source": "dataforseo",
+    "cluster": "marketing-staffing",
+    "scores": {
+      "business_value": 23,
+      "opportunity": 64,
+      "difficulty_inv": 65,
+      "relevance": 48,
+      "content_gap": 75
+    },
+    "composite_score": 50.6,
+    "intent": "informational"
+  },
+  {
+    "keyword": "marketing growth agency",
+    "search_volume": 10,
+    "keyword_difficulty": 41,
+    "cpc": 12.13,
+    "competition_level": "MEDIUM",
+    "circle": "problems_you_solve",
+    "source": "dataforseo",
+    "cluster": "other",
+    "scores": {
+      "business_value": 42,
+      "opportunity": 59,
+      "difficulty_inv": 59,
+      "relevance": 26,
+      "content_gap": 75
+    },
+    "composite_score": 50.6,
+    "intent": "informational"
+  },
+  {
+    "keyword": "marketing staffing agency houston",
+    "search_volume": 10,
+    "keyword_difficulty": 38,
+    "cpc": 4.08,
+    "competition_level": "HIGH",
+    "circle": "your_category",
+    "source": "dataforseo",
+    "cluster": "marketing-staffing",
+    "scores": {
+      "business_value": 23,
+      "opportunity": 64,
+      "difficulty_inv": 62,
+      "relevance": 48,
+      "content_gap": 75
+    },
+    "composite_score": 50.0,
+    "intent": "informational"
+  },
+  {
+    "keyword": "marketing org chart startup",
+    "circle": "your_audience",
+    "source": "seed_persona",
+    "search_volume": null,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "cluster": "marketing-team-structure",
+    "scores": {
+      "business_value": 15,
+      "opportunity": 75,
+      "difficulty_inv": 80,
+      "relevance": 18,
+      "content_gap": 75
+    },
+    "composite_score": 49.5,
+    "intent": "informational"
+  },
+  {
+    "keyword": "staffing marketing agency",
+    "search_volume": 10,
+    "keyword_difficulty": 36,
+    "cpc": null,
+    "competition_level": "HIGH",
+    "circle": "your_category",
+    "source": "dataforseo",
+    "cluster": "marketing-agency-comparison",
+    "scores": {
+      "business_value": 27,
+      "opportunity": 64,
+      "difficulty_inv": 64,
+      "relevance": 33,
+      "content_gap": 75
+    },
+    "composite_score": 49.4,
+    "intent": "informational"
+  },
+  {
+    "keyword": "marketing temporary staffing agency",
+    "search_volume": 110,
+    "keyword_difficulty": 41,
+    "cpc": 3.11,
+    "competition_level": "MEDIUM",
+    "circle": "your_category",
+    "source": "dataforseo",
+    "cluster": "marketing-staffing",
+    "scores": {
+      "business_value": 23,
+      "opportunity": 63,
+      "difficulty_inv": 59,
+      "relevance": 48,
+      "content_gap": 75
+    },
+    "composite_score": 49.2,
+    "intent": "informational"
+  },
+  {
+    "keyword": "demand generation freelancer",
+    "circle": "what_you_sell",
+    "source": "seed_brand",
+    "search_volume": null,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "cluster": "freelance-marketing",
+    "scores": {
+      "business_value": 27,
+      "opportunity": 65,
+      "difficulty_inv": 60,
+      "relevance": 33,
+      "content_gap": 75
+    },
+    "composite_score": 48.8,
+    "intent": "informational"
+  },
+  {
+    "keyword": "freelance marketing director",
+    "circle": "what_you_sell",
+    "source": "seed_brand",
+    "search_volume": null,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "cluster": "freelance-marketing",
+    "scores": {
+      "business_value": 27,
+      "opportunity": 65,
+      "difficulty_inv": 60,
+      "relevance": 33,
+      "content_gap": 75
+    },
+    "composite_score": 48.8,
+    "intent": "informational"
+  },
+  {
+    "keyword": "staffing agency marketing materials",
+    "search_volume": 20,
+    "keyword_difficulty": 33,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "your_category",
+    "source": "dataforseo",
+    "cluster": "marketing-staffing",
+    "scores": {
+      "business_value": 15,
+      "opportunity": 64,
+      "difficulty_inv": 67,
+      "relevance": 48,
+      "content_gap": 75
+    },
+    "composite_score": 48.6,
+    "intent": "informational"
+  },
+  {
+    "keyword": "marketer hire",
+    "circle": "what_you_sell",
+    "source": "seed_brand",
+    "search_volume": null,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "cluster": "other",
+    "scores": {
+      "business_value": 40,
+      "opportunity": 55,
+      "difficulty_inv": 30,
+      "relevance": 58,
+      "content_gap": 75
+    },
+    "composite_score": 48.0,
+    "intent": "transactional"
+  },
+  {
+    "keyword": "scale marketing without hiring full time",
+    "circle": "outcomes_you_deliver",
+    "source": "seed_persona",
+    "search_volume": null,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "cluster": "other",
+    "scores": {
+      "business_value": 10,
+      "opportunity": 75,
+      "difficulty_inv": 80,
+      "relevance": 10,
+      "content_gap": 75
+    },
+    "composite_score": 46.8,
+    "intent": "informational"
+  },
+  {
+    "keyword": "pe portfolio company marketing",
+    "circle": "your_audience",
+    "source": "seed_persona",
+    "search_volume": null,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "cluster": "other",
+    "scores": {
+      "business_value": 10,
+      "opportunity": 75,
+      "difficulty_inv": 80,
+      "relevance": 10,
+      "content_gap": 75
+    },
+    "composite_score": 46.8,
+    "intent": "informational"
+  },
+  {
+    "keyword": "startup marketing strategy",
+    "circle": "your_audience",
+    "source": "seed_persona",
+    "search_volume": null,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "cluster": "startup-marketing",
+    "scores": {
+      "business_value": 15,
+      "opportunity": 65,
+      "difficulty_inv": 60,
+      "relevance": 33,
+      "content_gap": 85
+    },
+    "composite_score": 46.2,
+    "intent": "informational"
+  },
+  {
+    "keyword": "account-based marketing team structure",
+    "search_volume": 20,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "circle": "your_audience",
+    "source": "dataforseo",
+    "cluster": "marketing-team-structure",
+    "scores": {
+      "business_value": 15,
+      "opportunity": 79,
+      "difficulty_inv": 80,
+      "relevance": 18,
+      "content_gap": 30
+    },
+    "composite_score": 46.0,
+    "intent": "informational"
+  },
+  {
+    "keyword": "marketing staffing agency chicago",
+    "search_volume": 10,
+    "keyword_difficulty": 42,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "your_category",
+    "source": "dataforseo",
+    "cluster": "marketing-staffing",
+    "scores": {
+      "business_value": 15,
+      "opportunity": 59,
+      "difficulty_inv": 58,
+      "relevance": 48,
+      "content_gap": 75
+    },
+    "composite_score": 45.5,
+    "intent": "informational"
+  },
+  {
+    "keyword": "sample staffing agency marketing plan",
+    "search_volume": 10,
+    "keyword_difficulty": 43,
+    "cpc": null,
+    "competition_level": null,
+    "circle": "your_category",
+    "source": "dataforseo",
+    "cluster": "marketing-staffing",
+    "scores": {
+      "business_value": 15,
+      "opportunity": 59,
+      "difficulty_inv": 57,
+      "relevance": 48,
+      "content_gap": 75
+    },
+    "composite_score": 45.3,
+    "intent": "informational"
+  },
+  {
+    "keyword": "on demand marketing team",
+    "circle": "what_you_sell",
+    "source": "seed_brand",
+    "search_volume": null,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "cluster": "marketing-team-structure",
+    "scores": {
+      "business_value": 10,
+      "opportunity": 75,
+      "difficulty_inv": 80,
+      "relevance": 0,
+      "content_gap": 75
+    },
+    "composite_score": 45.2,
+    "intent": "informational"
+  },
+  {
+    "keyword": "ecommerce marketing consultant",
+    "circle": "your_audience",
+    "source": "seed_persona",
+    "search_volume": null,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "cluster": "marketing-consultant",
+    "scores": {
+      "business_value": 15,
+      "opportunity": 65,
+      "difficulty_inv": 60,
+      "relevance": 33,
+      "content_gap": 75
+    },
+    "composite_score": 45.2,
+    "intent": "informational"
+  },
+  {
+    "keyword": "marketing talent shortage",
+    "circle": "problems_you_solve",
+    "source": "seed_brand",
+    "search_volume": null,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "cluster": "marketing-staffing",
+    "scores": {
+      "business_value": 10,
+      "opportunity": 65,
+      "difficulty_inv": 60,
+      "relevance": 40,
+      "content_gap": 75
+    },
+    "composite_score": 44.8,
+    "intent": "informational"
+  },
+  {
+    "keyword": "ai growth team",
+    "circle": "what_you_sell",
+    "source": "seed_brand",
+    "search_volume": null,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "cluster": "other",
+    "scores": {
+      "business_value": 15,
+      "opportunity": 65,
+      "difficulty_inv": 60,
+      "relevance": 18,
+      "content_gap": 85
+    },
+    "composite_score": 44.0,
+    "intent": "informational"
+  },
+  {
+    "keyword": "marketing and advertising agency growth strategies",
+    "search_volume": 10,
+    "keyword_difficulty": 47,
+    "cpc": null,
+    "competition_level": null,
+    "circle": "problems_you_solve",
+    "source": "dataforseo",
+    "cluster": "other",
+    "scores": {
+      "business_value": 20,
+      "opportunity": 59,
+      "difficulty_inv": 53,
+      "relevance": 26,
+      "content_gap": 85
+    },
+    "composite_score": 43.8,
+    "intent": "informational"
+  },
+  {
+    "keyword": "nonprofit marketing team structure",
+    "search_volume": 20,
+    "keyword_difficulty": 28,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "your_audience",
+    "source": "dataforseo",
+    "cluster": "marketing-team-structure",
+    "scores": {
+      "business_value": 15,
+      "opportunity": 74,
+      "difficulty_inv": 72,
+      "relevance": 18,
+      "content_gap": 30
+    },
+    "composite_score": 43.1,
+    "intent": "informational"
+  },
+  {
+    "keyword": "corporate marketing team structure",
+    "search_volume": 20,
+    "keyword_difficulty": 48,
+    "cpc": 14.19,
+    "competition_level": "LOW",
+    "circle": "your_audience",
+    "source": "dataforseo",
+    "cluster": "marketing-team-structure",
+    "scores": {
+      "business_value": 37,
+      "opportunity": 59,
+      "difficulty_inv": 52,
+      "relevance": 18,
+      "content_gap": 40
+    },
+    "composite_score": 43.0,
+    "intent": "informational"
+  },
+  {
+    "keyword": "marketing headcount freeze",
+    "circle": "problems_you_solve",
+    "source": "seed_persona",
+    "search_volume": null,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "cluster": "other",
+    "scores": {
+      "business_value": 15,
+      "opportunity": 65,
+      "difficulty_inv": 60,
+      "relevance": 18,
+      "content_gap": 75
+    },
+    "composite_score": 43.0,
+    "intent": "informational"
+  },
+  {
+    "keyword": "staffing agency for marketing",
+    "search_volume": 140,
+    "keyword_difficulty": 75,
+    "cpc": 11.29,
+    "competition_level": "MEDIUM",
+    "circle": "your_category",
+    "source": "dataforseo",
+    "cluster": "marketing-staffing",
+    "scores": {
+      "business_value": 37,
+      "opportunity": 48,
+      "difficulty_inv": 25,
+      "relevance": 48,
+      "content_gap": 75
+    },
+    "composite_score": 42.8,
+    "intent": "informational"
+  },
+  {
+    "keyword": "staffing agency marketing",
+    "search_volume": 110,
+    "keyword_difficulty": 75,
+    "cpc": 14.16,
+    "competition_level": "LOW",
+    "circle": "your_category",
+    "source": "dataforseo",
+    "cluster": "marketing-staffing",
+    "scores": {
+      "business_value": 37,
+      "opportunity": 48,
+      "difficulty_inv": 25,
+      "relevance": 48,
+      "content_gap": 75
+    },
+    "composite_score": 42.8,
+    "intent": "informational"
+  },
+  {
+    "keyword": "digital marketing staffing agency",
+    "search_volume": 210,
+    "keyword_difficulty": 81,
+    "cpc": 16.77,
+    "competition_level": "LOW",
+    "circle": "your_category",
+    "source": "dataforseo",
+    "cluster": "marketing-staffing",
+    "scores": {
+      "business_value": 37,
+      "opportunity": 48,
+      "difficulty_inv": 19,
+      "relevance": 48,
+      "content_gap": 75
+    },
+    "composite_score": 41.6,
+    "intent": "informational"
+  },
+  {
+    "keyword": "marketing team scaling",
+    "circle": "outcomes_you_deliver",
+    "source": "seed_persona",
+    "search_volume": null,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "cluster": "marketing-team-structure",
+    "scores": {
+      "business_value": 15,
+      "opportunity": 65,
+      "difficulty_inv": 60,
+      "relevance": 8,
+      "content_gap": 75
+    },
+    "composite_score": 41.5,
+    "intent": "informational"
+  },
+  {
+    "keyword": "post acquisition marketing",
+    "circle": "your_audience",
+    "source": "seed_persona",
+    "search_volume": null,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "cluster": "other",
+    "scores": {
+      "business_value": 10,
+      "opportunity": 65,
+      "difficulty_inv": 60,
+      "relevance": 10,
+      "content_gap": 75
+    },
+    "composite_score": 40.2,
+    "intent": "informational"
+  },
+  {
+    "keyword": "structure marketing team",
+    "search_volume": 20,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "circle": "your_audience",
+    "source": "dataforseo",
+    "cluster": "marketing-team-structure",
+    "scores": {
+      "business_value": 10,
+      "opportunity": 69,
+      "difficulty_inv": 60,
+      "relevance": 0,
+      "content_gap": 75
+    },
+    "composite_score": 39.8,
+    "intent": "informational"
+  },
+  {
+    "keyword": "virtual marketing team",
+    "circle": "outcomes_you_deliver",
+    "source": "seed_brand",
+    "search_volume": null,
+    "keyword_difficulty": null,
+    "cpc": null,
+    "competition_level": null,
+    "cluster": "marketing-team-structure",
+    "scores": {
+      "business_value": 10,
+      "opportunity": 65,
+      "difficulty_inv": 60,
+      "relevance": 0,
+      "content_gap": 75
+    },
+    "composite_score": 38.8,
+    "intent": "informational"
+  },
+  {
+    "keyword": "creative marketing staffing agency",
+    "search_volume": 110,
+    "keyword_difficulty": 75,
+    "cpc": 4.26,
+    "competition_level": "LOW",
+    "circle": "your_category",
+    "source": "dataforseo",
+    "cluster": "marketing-staffing",
+    "scores": {
+      "business_value": 23,
+      "opportunity": 48,
+      "difficulty_inv": 25,
+      "relevance": 48,
+      "content_gap": 75
+    },
+    "composite_score": 38.6,
+    "intent": "informational"
+  },
+  {
+    "keyword": "effective marketing team structure",
+    "search_volume": 20,
+    "keyword_difficulty": 44,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "your_audience",
+    "source": "dataforseo",
+    "cluster": "marketing-team-structure",
+    "scores": {
+      "business_value": 15,
+      "opportunity": 59,
+      "difficulty_inv": 56,
+      "relevance": 18,
+      "content_gap": 30
+    },
+    "composite_score": 36.2,
+    "intent": "informational"
+  },
+  {
+    "keyword": "best marketing team structure",
+    "search_volume": 20,
+    "keyword_difficulty": 52,
+    "cpc": null,
+    "competition_level": "LOW",
+    "circle": "your_audience",
+    "source": "dataforseo",
+    "cluster": "marketing-team-structure",
+    "scores": {
+      "business_value": 30,
+      "opportunity": 44,
+      "difficulty_inv": 48,
+      "relevance": 18,
+      "content_gap": 30
+    },
+    "composite_score": 35.3,
+    "intent": "commercial"
+  }
+]

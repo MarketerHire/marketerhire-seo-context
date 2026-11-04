@@ -1,0 +1,45 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Keyword Scored",
+  "description": "Keywords with composite scoring applied",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["keyword", "composite_score", "rank", "scores"],
+    "properties": {
+      "keyword": { "type": "string" },
+      "composite_score": {
+        "type": "number",
+        "minimum": 0,
+        "maximum": 100,
+        "description": "Weighted composite score"
+      },
+      "rank": {
+        "type": "integer",
+        "minimum": 1,
+        "description": "Rank by composite score (1 = highest)"
+      },
+      "scores": {
+        "type": "object",
+        "required": ["business_value", "opportunity", "difficulty_inv", "relevance", "content_gap"],
+        "properties": {
+          "business_value": { "type": "number", "minimum": 0, "maximum": 100 },
+          "opportunity": { "type": "number", "minimum": 0, "maximum": 100 },
+          "difficulty_inv": { "type": "number", "minimum": 0, "maximum": 100 },
+          "relevance": { "type": "number", "minimum": 0, "maximum": 100 },
+          "content_gap": { "type": "number", "minimum": 0, "maximum": 100 }
+        }
+      },
+      "score_rationale": {
+        "type": "string",
+        "description": "Brief explanation of why this keyword scored this way"
+      },
+      "source": { "type": "string" },
+      "cluster": { "type": ["string", "null"] },
+      "search_volume": { "type": ["number", "null"] },
+      "kd": { "type": ["number", "null"] },
+      "cpc": { "type": ["number", "null"] },
+      "intent": { "type": "string" }
+    }
+  }
+}

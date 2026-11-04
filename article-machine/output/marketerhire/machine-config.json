@@ -1,0 +1,9 @@
+{
+  "article_count": 5,
+  "pipeline": "seo",
+  "parallel_articles": 2,
+  "approval_gates": ["keyword_selection", "article_review"],
+  "auto_approve_threshold": null,
+  "keyword_sources": ["ahrefs", "websearch", "questions_json", "dataforseo", "gsc"],
+  "content_types": ["pillar-guide", "how-to", "comparison", "listicle"]
+}

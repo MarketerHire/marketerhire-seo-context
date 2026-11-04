@@ -1,0 +1,15 @@
+# SEO Article Generator - Python Dependencies
+
+# Graph analysis
+networkx>=3.0
+python-louvain>=0.16  # Community detection (Louvain algorithm)
+numpy>=1.24
+
+# Text processing
+rapidfuzz>=3.0  # For fuzzy deduplication
+
+
+
+
+
+

@@ -1,0 +1,65 @@
+{
+  "batch_id": "batch-003-2026-04-13",
+  "brand": "marketerhire",
+  "total_articles": 5,
+  "parallel_articles": 2,
+  "started": "2026-04-13T19:00:00Z",
+  "completed": "2026-04-13T20:15:00Z",
+  "articles": [
+    {
+      "keyword": "fractional chief marketing officer services",
+      "slug": "fractional-chief-marketing-officer-services",
+      "status": "approved",
+      "pipeline_mode": "new",
+      "existing_article_url": null,
+      "score": 24,
+      "started_at": "2026-04-13T19:00:00Z",
+      "completed_at": "2026-04-13T19:15:00Z",
+      "output_path": "output/marketerhire/batches/batch-003-2026-04-13/fractional-chief-marketing-officer-services/"
+    },
+    {
+      "keyword": "how much does it cost to hire a marketing consultant",
+      "slug": "how-much-does-it-cost-to-hire-a-marketing-consultant",
+      "status": "approved",
+      "pipeline_mode": "new",
+      "existing_article_url": null,
+      "score": 23,
+      "started_at": "2026-04-13T19:00:00Z",
+      "completed_at": "2026-04-13T19:12:00Z",
+      "output_path": "output/marketerhire/batches/batch-003-2026-04-13/how-much-does-it-cost-to-hire-a-marketing-consultant/"
+    },
+    {
+      "keyword": "fractional cmo companies",
+      "slug": "fractional-cmo-companies",
+      "status": "approved",
+      "pipeline_mode": "new",
+      "existing_article_url": null,
+      "score": 23,
+      "started_at": "2026-04-13T19:12:00Z",
+      "completed_at": "2026-04-13T19:23:00Z",
+      "output_path": "output/marketerhire/batches/batch-003-2026-04-13/fractional-cmo-companies/"
+    },
+    {
+      "keyword": "fractional marketing services",
+      "slug": "fractional-marketing-services",
+      "status": "approved",
+      "pipeline_mode": "new",
+      "existing_article_url": null,
+      "score": 23,
+      "started_at": "2026-04-13T19:15:00Z",
+      "completed_at": "2026-04-13T19:28:00Z",
+      "output_path": "output/marketerhire/batches/batch-003-2026-04-13/fractional-marketing-services/"
+    },
+    {
+      "keyword": "growth marketing agency for startups",
+      "slug": "growth-marketing-agency-for-startups",
+      "status": "approved",
+      "pipeline_mode": "new",
+      "existing_article_url": null,
+      "score": 24,
+      "started_at": "2026-04-13T19:23:00Z",
+      "completed_at": "2026-04-13T19:35:00Z",
+      "output_path": "output/marketerhire/batches/batch-003-2026-04-13/growth-marketing-agency-for-startups/"
+    }
+  ]
+}

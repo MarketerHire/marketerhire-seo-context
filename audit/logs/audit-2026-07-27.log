@@ -1,0 +1,2 @@
+=== SEO Audit started at Mon Jul 27 16:00:01 UTC 2026 ===
+Failed to authenticate. API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth access token has been revoked."},"request_id":null}

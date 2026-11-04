@@ -1,0 +1,98 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Outsource Marketing Agency: How to Choose (2026)",
+    "author": {
+      "@type": "Organization",
+      "name": "MarketerHire Editorial",
+      "url": "https://www.marketerhire.com"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "MarketerHire",
+      "url": "https://www.marketerhire.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.marketerhire.com/logo.png"
+      }
+    },
+    "datePublished": "2026-04-13",
+    "dateModified": "2026-04-13",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.marketerhire.com/blog/outsource-marketing-agency"
+    },
+    "image": "[IMAGE: Comparison chart of outsourced marketing models — agency vs freelancer vs talent platform]"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Is outsourcing marketing worth it?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, for most companies between $2M and $50M in revenue. Outsourcing gives you access to senior marketing talent without the 3-6 month hiring timeline or $150,000+ annual commitment of a full-time hire. The key is choosing a model with strong vetting — MarketerHire's 95% trial-to-hire rate shows that good matching eliminates the quality risk."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What marketing functions should you outsource first?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Start with the channel driving the most revenue potential: usually paid search, paid social, or content/SEO. These specialist roles benefit most from outsourcing because they require deep channel expertise that generalist marketers rarely have. A fractional CMO can audit your current efforts and recommend where to invest first."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How much does outsourced marketing cost?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Outsourced marketing costs $2,000 to $25,000 per month. Freelancers from Upwork run $2,000-$8,000. Boutique agencies charge $5,000-$15,000. Full-service agencies start at $10,000 and go up. Vetted talent platforms like MarketerHire typically run $7,000-$10,000 per month for a dedicated senior specialist."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How do you manage an outsourced marketing team?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Set clear KPIs upfront, establish a weekly reporting cadence, and give the marketer direct access to your analytics and ad accounts. The best outsourced marketers operate like embedded team members, not external vendors. Platforms like MarketerHire match specialists who integrate into your workflow and tools."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are the risks of outsourcing marketing?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The main risks are poor talent quality, misaligned incentives, and lack of institutional knowledge. Agencies may assign junior staff to your account. Freelancers may overpromise credentials. Contracts may lock you in with underperformers. Mitigate these by choosing partners that offer trial periods, transparent vetting, and month-to-month flexibility."
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.marketerhire.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Blog",
+        "item": "https://www.marketerhire.com/blog"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Outsource Marketing Agency: How to Choose (2026)",
+        "item": "https://www.marketerhire.com/blog/outsource-marketing-agency"
+      }
+    ]
+  }
+]

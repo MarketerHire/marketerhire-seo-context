@@ -1,0 +1,63 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Machine Config",
+  "description": "Per-client Article Machine settings",
+  "type": "object",
+  "required": ["article_count", "pipeline", "parallel_articles"],
+  "properties": {
+    "article_count": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 20,
+      "default": 5,
+      "description": "Number of articles to generate per run"
+    },
+    "pipeline": {
+      "type": "string",
+      "enum": ["seo", "aeo", "auto"],
+      "default": "seo",
+      "description": "Which pipeline to use. 'auto' selects based on keyword characteristics"
+    },
+    "parallel_articles": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 5,
+      "default": 2,
+      "description": "Maximum concurrent article subagents"
+    },
+    "approval_gates": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": ["brand_review", "keyword_selection", "article_review", "batch_report"]
+      },
+      "default": ["keyword_selection", "article_review"],
+      "description": "Which gates require human approval"
+    },
+    "auto_approve_threshold": {
+      "type": ["integer", "null"],
+      "minimum": 20,
+      "maximum": 25,
+      "default": null,
+      "description": "Auto-approve articles scoring >= this. null = always ask"
+    },
+    "keyword_sources": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": ["websearch", "dataforseo", "questions_json", "competitors"]
+      },
+      "default": ["websearch", "questions_json"],
+      "description": "Where to source keywords"
+    },
+    "content_types": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": ["pillar-guide", "how-to", "comparison", "listicle", "definition", "case-study"]
+      },
+      "default": ["pillar-guide", "how-to", "comparison", "listicle"],
+      "description": "Content types to generate"
+    }
+  }
+}

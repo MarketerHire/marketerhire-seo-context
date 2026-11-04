@@ -1,0 +1,126 @@
+/*
+ * MH1HQ Design Tokens
+ * Universal CSS custom properties for implementing the brand identity.
+ * Import or copy these into any project.
+ */
+
+:root {
+  /* ===== Brand Colors ===== */
+  --mh1-purple: #7c3aed;
+  --mh1-pink: #ec4899;
+
+  /* ===== Gradients ===== */
+  --mh1-gradient: linear-gradient(135deg, #7c3aed 0%, #ec4899 100%);
+  --mh1-gradient-bg: linear-gradient(180deg, #0a0e1a 0%, #1a1f2e 100%);
+
+  /* ===== Backgrounds ===== */
+  --mh1-bg-base: #0a0e1a;
+  --mh1-bg-surface: #1a1f2e;
+  --mh1-bg-elevated: #28282e;
+  --mh1-bg-deep: #0a0a0f;
+  --mh1-bg-panel: #212126;
+
+  /* ===== Text ===== */
+  --mh1-text-primary: #ffffff;
+  --mh1-text-secondary: #d1d5db;
+  --mh1-text-muted: #9ca3af;
+
+  /* ===== Functional ===== */
+  --mh1-blue: #3b82f6;
+  --mh1-green: #10b981;
+  --mh1-red: #ef4444;
+  --mh1-orange: #f97316;
+  --mh1-cyan: #06b6d4;
+  --mh1-yellow: #eab308;
+
+  /* ===== Focus / Interactive ===== */
+  --mh1-focus: #0b84f3;
+
+  /* ===== Overlays ===== */
+  --mh1-overlay-light: rgba(255, 255, 255, 0.04);
+  --mh1-overlay-medium: rgba(255, 255, 255, 0.1);
+  --mh1-overlay-heavy: rgba(255, 255, 255, 0.2);
+  --mh1-overlay-dark: rgba(0, 0, 0, 0.3);
+  --mh1-overlay-deep: rgba(0, 0, 0, 0.8);
+
+  /* ===== Typography ===== */
+  --mh1-font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+  --mh1-font-mono: 'Geist Mono', monospace;
+
+  --mh1-text-display: 68px;
+  --mh1-text-h1: 52px;
+  --mh1-text-h2: 40px;
+  --mh1-text-h3: 30px;
+  --mh1-text-body: 24px;
+  --mh1-text-caption: 22px;
+  --mh1-text-label: 18px;
+  --mh1-text-overline: 14px;
+
+  --mh1-weight-regular: 400;
+  --mh1-weight-medium: 500;
+  --mh1-weight-semibold: 600;
+  --mh1-weight-bold: 700;
+
+  --mh1-leading-tight: 1.1;
+  --mh1-leading-normal: 1.5;
+  --mh1-leading-snug: 1.4;
+
+  --mh1-tracking-tight: -0.5px;
+  --mh1-tracking-normal: 0;
+  --mh1-tracking-wide: 0.5px;
+  --mh1-tracking-wider: 1.5px;
+
+  /* ===== Spacing ===== */
+  --mh1-space-xs: 4px;
+  --mh1-space-sm: 8px;
+  --mh1-space-md: 16px;
+  --mh1-space-lg: 24px;
+  --mh1-space-xl: 40px;
+  --mh1-space-2xl: 60px;
+  --mh1-space-3xl: 100px;
+
+  /* ===== Border Radius ===== */
+  --mh1-radius-sm: 4px;
+  --mh1-radius-md: 8px;
+  --mh1-radius-lg: 12px;
+  --mh1-radius-full: 9999px;
+
+  /* ===== Shadows ===== */
+  --mh1-shadow-text: 0 2px 4px rgba(0, 0, 0, 0.8), 0 0 10px rgba(0, 0, 0, 0.5);
+
+  /* ===== Transitions ===== */
+  --mh1-ease-out: cubic-bezier(0, 0, 0.2, 1);
+  --mh1-ease-in: cubic-bezier(0.4, 0, 1, 1);
+  --mh1-ease-both: cubic-bezier(0.4, 0, 0.2, 1);
+  --mh1-duration-fast: 200ms;
+  --mh1-duration-normal: 350ms;
+  --mh1-duration-slow: 600ms;
+
+  /* ===== Agent / Module Colors ===== */
+  --mh1-agent-persona: #7c3aed;
+  --mh1-agent-competitive: #ec4899;
+  --mh1-agent-email: #3b82f6;
+  --mh1-agent-video: #10b981;
+  --mh1-agent-tof: #f97316;
+  --mh1-agent-brand: #06b6d4;
+}
+
+/* ===== Utility: Gradient Text ===== */
+.mh1-gradient-text {
+  background: var(--mh1-gradient);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* ===== Utility: Gradient Background ===== */
+.mh1-gradient-bg {
+  background: var(--mh1-gradient-bg);
+}
+
+/* ===== Utility: Brand Canvas ===== */
+.mh1-canvas {
+  background: var(--mh1-bg-base);
+  color: var(--mh1-text-primary);
+  font-family: var(--mh1-font-sans);
+}

@@ -1,0 +1,19 @@
+{
+  "mcpServers": {
+    "perplexity": {
+      "command": "npx",
+      "args": ["-y", "@perplexity-ai/mcp-server"],
+      "env": {
+        "PERPLEXITY_API_KEY": "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"
+      }
+    },
+    "dataforseo": {
+      "command": "npx",
+      "args": ["-y", "dataforseo-mcp-server"],
+      "env": {
+        "DATAFORSEO_USERNAME": "viral@marketerhire.com",
+        "DATAFORSEO_PASSWORD": "907bff72a05d8b57"
+      }
+    }
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "project": "seo",
+  "version": "1.0.0",
+  
+  "defaults": {
+    "content_type": "pillar",
+    "outline_iterations": 3,
+    "max_research_questions": 50,
+    "max_corpus_length": 500000
+  },
+  
+  "content_types": {
+    "pillar": {
+      "name": "Pillar Guide",
+      "word_count_min": 5000,
+      "word_count_max": 8000,
+      "sections": ["hook_intro", "quick_answer", "core_sections", "implementation", "faq", "conclusion"],
+      "faq_count": 10
+    },
+    "how-to": {
+      "name": "How-To Tutorial",
+      "word_count_min": 2000,
+      "word_count_max": 3000,
+      "sections": ["what_youll_achieve", "why_this_method", "steps", "variations", "mistakes", "next_steps"],
+      "faq_count": 5
+    },
+    "comparison": {
+      "name": "Comparison",
+      "word_count_min": 2500,
+      "word_count_max": 4000,
+      "sections": ["quick_verdict", "comparison_table", "deep_dive_a", "deep_dive_b", "head_to_head", "faq", "recommendation"],
+      "faq_count": 5
+    },
+    "listicle": {
+      "name": "Listicle",
+      "word_count_min": 2000,
+      "word_count_max": 3000,
+      "sections": ["intro", "summary_table", "items", "how_to_choose", "faq", "conclusion"],
+      "faq_count": 5
+    }
+  },
+  
+  "seo": {
+    "meta_description_length": {
+      "min": 150,
+      "max": 160
+    },
+    "title_length_max": 60,
+    "internal_links": {
+      "min": 4,
+      "max": 8
+    },
+    "external_links": {
+      "min": 2,
+      "max": 4
+    }
+  },
+  
+  "graph_metrics": {
+    "pagerank_alpha": 0.85,
+    "top_entities_count": 20,
+    "community_label_entities": 3
+  },
+  
+  "corpus_processing": {
+    "similarity_threshold": 0.85,
+    "min_sentence_length": 30,
+    "max_facts": 50,
+    "chunk_size": 10000,
+    "chunk_overlap": 500
+  },
+  
+  "ai_detection": {
+    "words_to_avoid": [
+      "delve", "dive into", "dig into",
+      "comprehensive", "robust", "cutting-edge",
+      "utilize", "leverage",
+      "crucial", "vital", "essential",
+      "unlock", "unleash", "supercharge",
+      "game-changer", "revolutionary",
+      "landscape", "navigate", "streamline",
+      "tapestry", "multifaceted", "myriad",
+      "foster", "facilitate", "enhance",
+      "realm", "paradigm", "synergy",
+      "embark", "journey",
+      "plethora", "bevy",
+      "nuanced", "intricate", "seamless"
+    ],
+    "phrases_to_avoid": [
+      "In today's fast-paced world",
+      "In today's digital age",
+      "It's important to note that",
+      "When it comes to",
+      "In order to",
+      "Whether you're a... or a",
+      "Let's dive in",
+      "Let's explore",
+      "Without further ado",
+      "At the end of the day",
+      "It goes without saying",
+      "In conclusion",
+      "This comprehensive guide will",
+      "Are you looking for",
+      "Look no further"
+    ],
+    "structure_tells": [
+      "triple_pattern",
+      "perfect_parallelism",
+      "hedge_stack",
+      "fake_objectivity",
+      "empty_transitions"
+    ]
+  },
+  
+  "output": {
+    "directory": "outputs",
+    "artifacts": [
+      "00-config.json",
+      "01-serp-analysis.json",
+      "02-semantic-graph.json",
+      "03-research-questions.md",
+      "04-research-corpus.md",
+      "05-content-brief.md",
+      "06-outline-drafts/",
+      "07-master-outline.md",
+      "08-first-draft.md",
+      "09-humanized-draft.md",
+      "10-seo-report.json",
+      "11-critique.md",
+      "12-final-article.md"
+    ]
+  }
+}
+
+
+
+
+
+

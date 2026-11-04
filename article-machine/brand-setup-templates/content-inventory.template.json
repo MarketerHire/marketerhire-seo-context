@@ -1,0 +1,26 @@
+{
+  "brand": "YOUR_BRAND_SLUG",
+  "website": "https://YOUR_DOMAIN.com/",
+  "scan_date": "2026-01-01",
+  "total_pieces": 0,
+  "content": [
+    {
+      "title": "Your Existing Article Title",
+      "url": "https://YOUR_DOMAIN.com/blog/article-slug",
+      "estimated_date": "2025-06-15",
+      "topic_mapping": "topic label matching a questions.json topic",
+      "question_ids": ["Q001", "Q002"],
+      "freshness": "current",
+      "content_type": "guide"
+    },
+    {
+      "title": "Another Existing Article",
+      "url": "https://YOUR_DOMAIN.com/blog/another-slug",
+      "estimated_date": "2024-11-01",
+      "topic_mapping": "another topic label",
+      "question_ids": ["Q003"],
+      "freshness": "stale",
+      "content_type": "comparison"
+    }
+  ]
+}

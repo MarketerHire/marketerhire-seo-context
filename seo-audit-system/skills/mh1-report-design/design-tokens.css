@@ -1,0 +1,52 @@
+/* ========== MH1 REPORT DESIGN TOKENS ========== */
+/* Reference file — copy into <style> block of HTML reports */
+/* Last updated: 2026-02-27 */
+
+:root {
+  /* Brand */
+  --sg-coral: #FF52E5;
+  --sg-rose: #D63CC0;
+  --sg-gradient: linear-gradient(135deg, #FDDE3C 0%, #FF52E5 100%);
+
+  /* Backgrounds */
+  --bg-base: #F8F8F8;
+  --bg-surface: #FFFFFF;
+  --bg-elevated: #F0F0F2;
+
+  /* Text */
+  --text-primary: #0A0A0A;
+  --text-secondary: #4A5568;
+  --text-muted: #9CA3AF;
+
+  /* Functional */
+  --color-green: #22C55E;
+  --color-red: #EF4444;
+  --color-orange: #F97316;
+  --color-blue: #3B82F6;
+  --color-cyan: #06B6D4;
+  --color-yellow: #EAB308;
+
+  /* Borders */
+  --border-subtle: rgba(0, 0, 0, .08);
+  --overlay-light: rgba(0, 0, 0, .03);
+
+  /* Typography */
+  --font: 'Work Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+  --mono: ui-monospace, 'Cascadia Code', monospace;
+
+  /* Layout */
+  --max-w: 1100px;
+  --sidebar-w: 280px;
+  --radius: 12px;
+
+  /* Shadows */
+  --shadow: 0 2px 4px rgba(0, 0, 0, .06), 0 8px 24px rgba(0, 0, 0, .05);
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, .04), 0 4px 12px rgba(0, 0, 0, .03);
+}
+
+/* Dark surfaces (sidebar, hero, footer) */
+/* Background: #0A0A0A */
+/* Hero gradient: linear-gradient(135deg, #0A0A0A 0%, #1a1a2e 50%, #16213e 100%) */
+/* Sidebar link color: rgba(255, 255, 255, .55) */
+/* Sidebar active link: #fff with border-left: var(--sg-coral) */
+/* Sidebar hover bg: rgba(255, 255, 255, .05) */

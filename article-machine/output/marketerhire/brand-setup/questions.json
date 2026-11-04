@@ -1,0 +1,152 @@
+[
+  {
+    "id": "Q001",
+    "question": "How to hire a fractional CMO",
+    "topic": "fractional-cmo-hiring",
+    "search_volume": null,
+    "funnel_stage": "consideration",
+    "source": "keyword-research",
+    "persona_ids": ["alex-founder", "marcus-burned", "david-cmo"],
+    "priority": "high"
+  },
+  {
+    "id": "Q002",
+    "question": "Marketing agency vs freelancer vs full-time hire",
+    "topic": "hiring-models-comparison",
+    "search_volume": null,
+    "funnel_stage": "consideration",
+    "source": "discovery-calls",
+    "persona_ids": ["alex-founder", "marcus-burned"],
+    "priority": "high"
+  },
+  {
+    "id": "Q003",
+    "question": "How much does it cost to outsource marketing",
+    "topic": "marketing-outsourcing-cost",
+    "search_volume": null,
+    "funnel_stage": "consideration",
+    "source": "keyword-research",
+    "persona_ids": ["alex-founder", "sarah-vp"],
+    "priority": "high"
+  },
+  {
+    "id": "Q004",
+    "question": "How to build a marketing team for a startup",
+    "topic": "startup-marketing-team",
+    "search_volume": null,
+    "funnel_stage": "awareness",
+    "source": "keyword-research",
+    "persona_ids": ["alex-founder"],
+    "priority": "high"
+  },
+  {
+    "id": "Q005",
+    "question": "When to hire your first marketer",
+    "topic": "first-marketing-hire",
+    "search_volume": null,
+    "funnel_stage": "awareness",
+    "source": "discovery-calls",
+    "persona_ids": ["alex-founder"],
+    "priority": "high"
+  },
+  {
+    "id": "Q006",
+    "question": "Fractional marketing team vs full-time marketing team",
+    "topic": "fractional-vs-fulltime",
+    "search_volume": null,
+    "funnel_stage": "consideration",
+    "source": "keyword-research",
+    "persona_ids": ["sarah-vp", "david-cmo"],
+    "priority": "high"
+  },
+  {
+    "id": "Q007",
+    "question": "How to evaluate a marketing agency",
+    "topic": "agency-evaluation",
+    "search_volume": null,
+    "funnel_stage": "consideration",
+    "source": "discovery-calls",
+    "persona_ids": ["marcus-burned", "sarah-vp"],
+    "priority": "medium"
+  },
+  {
+    "id": "Q008",
+    "question": "Best marketing channels for B2B SaaS",
+    "topic": "b2b-saas-channels",
+    "search_volume": null,
+    "funnel_stage": "awareness",
+    "source": "keyword-research",
+    "persona_ids": ["sarah-vp", "david-cmo"],
+    "priority": "medium"
+  },
+  {
+    "id": "Q009",
+    "question": "How to hire a growth marketer",
+    "topic": "growth-marketer-hiring",
+    "search_volume": null,
+    "funnel_stage": "consideration",
+    "source": "keyword-research",
+    "persona_ids": ["alex-founder", "sarah-vp"],
+    "priority": "high"
+  },
+  {
+    "id": "Q010",
+    "question": "Marketing team structure for series A startup",
+    "topic": "series-a-marketing-structure",
+    "search_volume": null,
+    "funnel_stage": "awareness",
+    "source": "keyword-research",
+    "persona_ids": ["alex-founder", "sarah-vp"],
+    "priority": "medium"
+  },
+  {
+    "id": "Q011",
+    "question": "Signs you need to outsource marketing",
+    "topic": "outsource-signals",
+    "search_volume": null,
+    "funnel_stage": "awareness",
+    "source": "discovery-calls",
+    "persona_ids": ["alex-founder", "marcus-burned"],
+    "priority": "medium"
+  },
+  {
+    "id": "Q012",
+    "question": "How to manage a fractional marketer",
+    "topic": "fractional-management",
+    "search_volume": null,
+    "funnel_stage": "decision",
+    "source": "customer-feedback",
+    "persona_ids": ["sarah-vp", "alex-founder"],
+    "priority": "medium"
+  },
+  {
+    "id": "Q013",
+    "question": "Marketing budget allocation for startups",
+    "topic": "startup-budget-allocation",
+    "search_volume": null,
+    "funnel_stage": "awareness",
+    "source": "keyword-research",
+    "persona_ids": ["alex-founder"],
+    "priority": "medium"
+  },
+  {
+    "id": "Q014",
+    "question": "MarketerHire vs Toptal vs Mayple",
+    "topic": "marketplace-comparison",
+    "search_volume": null,
+    "funnel_stage": "decision",
+    "source": "keyword-research",
+    "persona_ids": ["sarah-vp", "marcus-burned", "david-cmo"],
+    "priority": "high"
+  },
+  {
+    "id": "Q015",
+    "question": "What does a fractional CMO do",
+    "topic": "fractional-cmo-role",
+    "search_volume": null,
+    "funnel_stage": "awareness",
+    "source": "keyword-research",
+    "persona_ids": ["alex-founder", "marcus-burned"],
+    "priority": "high"
+  }
+]

@@ -1,0 +1,143 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "How to Hire a Marketing Consultant in 2026",
+    "author": {
+      "@type": "Organization",
+      "name": "MarketerHire Editorial",
+      "url": "https://www.marketerhire.com"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "MarketerHire",
+      "url": "https://www.marketerhire.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.marketerhire.com/logo.png"
+      }
+    },
+    "datePublished": "2026-04-13",
+    "dateModified": "2026-04-13",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.marketerhire.com/blog/hire-marketing-consultant"
+    },
+    "image": "[IMAGE: How to hire a marketing consultant — featured image]",
+    "description": "Hire a marketing consultant who delivers. Compare costs, vet candidates step by step, and get matched with a top-5% expert in 48 hours."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What's the difference between a marketing consultant and a marketing agency?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "A marketing consultant is one senior specialist who works directly with you on a specific channel or function. An agency is a team selling packaged services across multiple channels. You get more depth, accountability, and direct access with a consultant. Agencies offer breadth but often assign junior staff to smaller accounts."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How long should you trial a marketing consultant before committing?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Two weeks is enough to evaluate fit. During that period, assess their communication cadence, quality of initial deliverables, and strategic thinking. MarketerHire builds a 2-week trial into every engagement, which contributes to the 95% trial-to-hire conversion rate across 30,000+ matches."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can a marketing consultant replace a full-time CMO?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, if your company is under $20M in revenue or doesn't need a full-time strategic leader. A fractional CMO works 10-20 hours per week at $5,000-$15,000 per month — roughly one-third the cost of a full-time CMO. Many Series A-B startups use this model before hiring a permanent head of marketing."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What questions should I ask before hiring a marketing consultant?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Ask five questions: (1) What results have you driven for companies at my stage and industry? (2) What does your first 30 days look like? (3) How do you measure success? (4) What tools and access do you need from us? (5) Can I speak with two or three recent clients? Specific, metric-driven answers signal quality."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is it better to hire a freelance or fractional marketing consultant?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Freelance consultants work project-to-project — good for audits, one-time campaigns, or defined deliverables. Fractional consultants embed with your team on a monthly retainer — better for ongoing channel management and strategy. If you need someone for more than one month, fractional usually delivers more value because they build context over time."
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.marketerhire.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Blog",
+        "item": "https://www.marketerhire.com/blog"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "How to Hire a Marketing Consultant",
+        "item": "https://www.marketerhire.com/blog/hire-marketing-consultant"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    "name": "How to Vet and Hire a Marketing Consultant",
+    "description": "A six-step process for hiring a marketing consultant: define scope, set budget, source candidates, evaluate portfolio, run a trial, and measure results.",
+    "step": [
+      {
+        "@type": "HowToStep",
+        "position": 1,
+        "name": "Define your scope and goals",
+        "text": "Write down exactly what you need — the channel or function, your current state, your target outcome, and your timeline. Be specific enough that a good consultant can respond with a concrete plan."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 2,
+        "name": "Set your budget",
+        "text": "Decide your engagement model based on pricing benchmarks. Monthly retainers ($3,000-$10,000) work best for ongoing execution. Project-based ($5,000-$25,000) works for audits, launches, and one-time deliverables."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 3,
+        "name": "Source qualified candidates",
+        "text": "Choose from referrals, LinkedIn, general freelancer marketplaces like Upwork, or vetted marketing talent platforms like MarketerHire that pre-screen candidates and match them to your needs in 48 hours."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 4,
+        "name": "Evaluate portfolio and references",
+        "text": "Ask for case studies with specific metrics from similar companies, references you can call, and their point of view on your specific problem. Watch for red flags like vague results or claims of expertise in everything."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 5,
+        "name": "Run a paid trial",
+        "text": "Never commit long-term without a trial period. Two weeks is enough to evaluate communication style, work quality, and strategic thinking before signing a longer engagement."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 6,
+        "name": "Measure results at 30/60/90 days",
+        "text": "Set clear KPIs before starting. At 30 days check communication and early progress. At 60 days evaluate leading indicators. At 90 days tie work to revenue impact. If results aren't there, adjust."
+      }
+    ]
+  }
+]

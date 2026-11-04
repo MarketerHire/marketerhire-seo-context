@@ -1,0 +1,1543 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{CLIENT_NAME}} - SEO Analysis & Proposal</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+/* ============================================================
+   MH1HQ DESIGN SYSTEM
+   Dark-mode-first · Purple→Pink gradient · Inter font
+   ============================================================ */
+
+:root {
+  --mh1-purple: #7c3aed;
+  --mh1-pink: #ec4899;
+  --mh1-gradient: linear-gradient(135deg, #7c3aed 0%, #ec4899 100%);
+
+  --bg-base: #0a0e1a;
+  --bg-surface: #1a1f2e;
+  --bg-elevated: #28282e;
+  --bg-deep: #0a0a0f;
+
+  --text-primary: #ffffff;
+  --text-secondary: #d1d5db;
+  --text-muted: #9ca3af;
+
+  --color-green: #10b981;
+  --color-red: #ef4444;
+  --color-orange: #f97316;
+  --color-blue: #3b82f6;
+  --color-cyan: #06b6d4;
+  --color-yellow: #eab308;
+
+  --border-subtle: rgba(255, 255, 255, 0.08);
+  --border-medium: rgba(255, 255, 255, 0.12);
+  --overlay-light: rgba(255, 255, 255, 0.04);
+
+  --font: 'Inter', system-ui, -apple-system, sans-serif;
+  --font-mono: 'Geist Mono', ui-monospace, monospace;
+
+  --space-xs: 4px;
+  --space-sm: 8px;
+  --space-md: 16px;
+  --space-lg: 24px;
+  --space-xl: 40px;
+  --space-2xl: 60px;
+  --space-3xl: 100px;
+
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+
+  --max-w: 1120px;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: var(--font);
+  background: var(--bg-base);
+  color: var(--text-primary);
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ============================================================
+   UTILITIES
+   ============================================================ */
+
+.gradient-text {
+  background: var(--mh1-gradient);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.container {
+  max-width: var(--max-w);
+  margin: 0 auto;
+  padding: 0 var(--space-lg);
+}
+
+@media (max-width: 640px) {
+  .container { padding: 0 var(--space-md); }
+}
+
+/* ============================================================
+   SECTIONS — full-width bands with layered backgrounds
+   ============================================================ */
+
+.section {
+  padding: var(--space-3xl) 0;
+}
+
+.section--surface {
+  background: var(--bg-surface);
+}
+
+.section--gradient {
+  background: var(--mh1-gradient);
+  padding: var(--space-2xl) 0;
+}
+
+.section--elevated {
+  background: var(--bg-elevated);
+}
+
+@media (max-width: 768px) {
+  .section { padding: var(--space-2xl) 0; }
+  .section--gradient { padding: var(--space-xl) 0; }
+}
+
+/* ============================================================
+   TYPOGRAPHY
+   ============================================================ */
+
+.section-label {
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  margin-bottom: var(--space-sm);
+  display: block;
+}
+
+.section-title {
+  font-size: clamp(28px, 4vw, 40px);
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: -0.3px;
+  margin-bottom: var(--space-sm);
+}
+
+.section-subtitle {
+  font-size: clamp(14px, 2vw, 16px);
+  color: var(--text-muted);
+  margin-bottom: var(--space-xl);
+  max-width: 640px;
+}
+
+h3 {
+  font-size: clamp(16px, 2.5vw, 20px);
+  font-weight: 600;
+  margin-bottom: var(--space-md);
+}
+
+p, li {
+  font-size: clamp(14px, 1.5vw, 15px);
+  line-height: 1.7;
+  color: var(--text-secondary);
+}
+
+/* ============================================================
+   HERO / COVER
+   ============================================================ */
+
+.hero {
+  min-height: 70vh;
+  display: flex;
+  align-items: center;
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(180deg, var(--bg-base) 0%, var(--bg-surface) 100%);
+}
+
+.hero::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: var(--mh1-gradient);
+}
+
+.hero__eyebrow {
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  margin-bottom: var(--space-lg);
+}
+
+.hero__title {
+  font-size: clamp(36px, 6vw, 60px);
+  font-weight: 700;
+  line-height: 1.1;
+  letter-spacing: -0.5px;
+  margin-bottom: var(--space-md);
+}
+
+.hero__subtitle {
+  font-size: clamp(16px, 2.5vw, 22px);
+  font-weight: 400;
+  color: var(--text-secondary);
+  margin-bottom: var(--space-xl);
+  max-width: 600px;
+}
+
+.hero__date {
+  font-size: 14px;
+  color: var(--text-muted);
+}
+
+@media (max-width: 640px) {
+  .hero { min-height: 50vh; padding: var(--space-2xl) 0; }
+}
+
+/* ============================================================
+   PURPOSE BANNER
+   ============================================================ */
+
+.purpose {
+  text-align: center;
+  padding: var(--space-3xl) var(--space-lg);
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.purpose__label {
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  margin-bottom: var(--space-lg);
+}
+
+.purpose__text {
+  font-size: clamp(20px, 3vw, 28px);
+  font-weight: 300;
+  line-height: 1.5;
+  color: var(--text-secondary);
+}
+
+/* ============================================================
+   SECTION DIVIDER (full-width gradient band)
+   ============================================================ */
+
+.divider {
+  text-align: center;
+}
+
+.divider__title {
+  font-size: clamp(28px, 5vw, 44px);
+  font-weight: 700;
+}
+
+.divider__subtitle {
+  font-size: clamp(14px, 2vw, 16px);
+  margin-top: var(--space-sm);
+  opacity: 0.8;
+}
+
+/* ============================================================
+   ARROW BULLETS
+   ============================================================ */
+
+.arrow-list {
+  list-style: none;
+  padding: 0;
+}
+
+.arrow-list li {
+  position: relative;
+  padding-left: var(--space-lg);
+  margin-bottom: var(--space-md);
+}
+
+.arrow-list li::before {
+  content: "\2192";
+  position: absolute;
+  left: 0;
+  color: var(--mh1-purple);
+  font-weight: 700;
+}
+
+/* ============================================================
+   KPI CARDS
+   ============================================================ */
+
+.kpi-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: var(--space-lg);
+  margin: var(--space-xl) 0;
+}
+
+.kpi-card {
+  background: var(--bg-surface);
+  border-radius: var(--radius-lg);
+  padding: var(--space-lg);
+  border: 1px solid var(--border-subtle);
+  position: relative;
+  overflow: hidden;
+}
+
+.kpi-card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 3px;
+  background: var(--mh1-gradient);
+}
+
+.kpi-card__label {
+  font-size: 11px;
+  font-weight: 500;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: var(--space-sm);
+}
+
+.kpi-card__value {
+  font-size: clamp(28px, 4vw, 36px);
+  font-weight: 700;
+}
+
+.kpi-card__note {
+  font-size: 12px;
+  color: var(--text-muted);
+  margin-top: var(--space-xs);
+}
+
+@media (max-width: 480px) {
+  .kpi-grid { grid-template-columns: 1fr; }
+}
+
+/* ============================================================
+   CALLOUT (big number)
+   ============================================================ */
+
+.callout {
+  display: flex;
+  gap: var(--space-xl);
+  align-items: flex-start;
+  padding: var(--space-xl);
+  background: var(--bg-surface);
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--border-subtle);
+  margin: var(--space-xl) 0;
+}
+
+.callout__number {
+  font-size: clamp(36px, 5vw, 52px);
+  font-weight: 700;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.callout__text {
+  font-size: 15px;
+  line-height: 1.7;
+  color: var(--text-secondary);
+}
+
+@media (max-width: 640px) {
+  .callout {
+    flex-direction: column;
+    gap: var(--space-md);
+    padding: var(--space-lg);
+  }
+}
+
+/* ============================================================
+   TWO COLUMN
+   ============================================================ */
+
+.two-col {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--space-xl);
+}
+
+.two-col--40-60 { grid-template-columns: 2fr 3fr; }
+.two-col--60-40 { grid-template-columns: 3fr 2fr; }
+
+@media (max-width: 768px) {
+  .two-col,
+  .two-col--40-60,
+  .two-col--60-40 {
+    grid-template-columns: 1fr;
+    gap: var(--space-xl);
+  }
+}
+
+/* ============================================================
+   SPLIT SECTION (sidebar + content)
+   ============================================================ */
+
+.split {
+  display: grid;
+  grid-template-columns: 1fr 1.4fr;
+  min-height: 400px;
+}
+
+.split__left {
+  background: var(--bg-surface);
+  padding: var(--space-2xl) var(--space-xl);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border-right: 3px solid;
+  border-image: var(--mh1-gradient) 1;
+}
+
+.split__right {
+  padding: var(--space-2xl) var(--space-xl);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+@media (max-width: 768px) {
+  .split {
+    grid-template-columns: 1fr;
+  }
+  .split__left {
+    border-right: none;
+    border-bottom: 3px solid;
+    border-image: var(--mh1-gradient) 1;
+    padding: var(--space-xl) var(--space-lg);
+  }
+  .split__right {
+    padding: var(--space-xl) var(--space-lg);
+  }
+}
+
+/* ============================================================
+   TABLES
+   ============================================================ */
+
+.table-wrap {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  margin: var(--space-lg) 0;
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--border-subtle);
+}
+
+.data-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+  min-width: 600px;
+}
+
+.data-table thead {
+  background: var(--bg-elevated);
+}
+
+.data-table th {
+  padding: 14px 16px;
+  text-align: left;
+  font-weight: 500;
+  font-size: 11px;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  white-space: nowrap;
+}
+
+.data-table td {
+  padding: 12px 16px;
+  border-bottom: 1px solid var(--border-subtle);
+  color: var(--text-secondary);
+}
+
+.data-table tbody tr:hover {
+  background: var(--overlay-light);
+}
+
+.data-table .num {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+  font-family: var(--font-mono);
+  color: var(--text-primary);
+}
+
+/* ============================================================
+   MATRIX (effort / impact)
+   ============================================================ */
+
+.matrix-wrap {
+  max-width: 400px;
+}
+
+.matrix-wrap h3 { text-align: center; }
+
+.matrix {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  gap: 2px;
+  background: var(--border-subtle);
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  aspect-ratio: 1;
+  max-height: 320px;
+}
+
+.matrix__label-x,
+.matrix__label-y {
+  font-size: 11px;
+  color: var(--text-muted);
+  font-weight: 500;
+  text-align: center;
+  margin-top: var(--space-sm);
+}
+
+.matrix__cell {
+  background: var(--bg-surface);
+  padding: var(--space-md);
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-sm);
+  align-content: flex-start;
+}
+
+.matrix__cell--highlight {
+  background: rgba(124, 58, 237, 0.1);
+}
+
+.matrix__tag {
+  background: var(--mh1-purple);
+  color: white;
+  padding: 4px 12px;
+  border-radius: var(--radius-sm);
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.matrix__tag--orange { background: var(--color-orange); }
+.matrix__tag--blue { background: var(--color-blue); }
+
+/* ============================================================
+   PILLAR CARDS (executive summary)
+   ============================================================ */
+
+.pillar-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: var(--space-lg);
+}
+
+.pillar-card {
+  background: var(--bg-surface);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-lg);
+  padding: var(--space-lg);
+}
+
+.pillar-card__icon {
+  width: 44px;
+  height: 44px;
+  border-radius: var(--radius-md);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  margin-bottom: var(--space-md);
+}
+
+.pillar-card__icon--red    { background: rgba(239, 68, 68, 0.12); color: var(--color-red); }
+.pillar-card__icon--orange { background: rgba(249, 115, 22, 0.12); color: var(--color-orange); }
+.pillar-card__icon--blue   { background: rgba(59, 130, 246, 0.12); color: var(--color-blue); }
+.pillar-card__icon--green  { background: rgba(16, 185, 129, 0.12); color: var(--color-green); }
+
+.pillar-card h4 {
+  font-size: 17px;
+  font-weight: 600;
+  margin-bottom: var(--space-sm);
+}
+
+.pillar-card p {
+  font-size: 13px;
+  color: var(--text-muted);
+  line-height: 1.6;
+}
+
+@media (max-width: 640px) {
+  .pillar-grid { grid-template-columns: 1fr; }
+}
+
+/* ============================================================
+   BADGES
+   ============================================================ */
+
+.badge {
+  display: inline-block;
+  padding: 3px 10px;
+  border-radius: var(--radius-sm);
+  font-size: 11px;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.badge--green  { background: rgba(16, 185, 129, 0.15); color: var(--color-green); }
+.badge--orange { background: rgba(249, 115, 22, 0.15); color: var(--color-orange); }
+.badge--red    { background: rgba(239, 68, 68, 0.15); color: var(--color-red); }
+.badge--purple { background: rgba(124, 58, 237, 0.15); color: var(--mh1-purple); }
+
+/* ============================================================
+   TIMELINE
+   ============================================================ */
+
+.timeline {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0;
+  position: relative;
+  margin: var(--space-xl) 0;
+}
+
+.timeline::before {
+  content: "";
+  position: absolute;
+  top: 28px;
+  left: 12.5%;
+  right: 12.5%;
+  height: 2px;
+  background: var(--bg-elevated);
+}
+
+.timeline__phase {
+  text-align: center;
+  position: relative;
+}
+
+.timeline__dot {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: var(--mh1-purple);
+  margin: 20px auto var(--space-md);
+  position: relative;
+  z-index: 1;
+  box-shadow: 0 0 12px rgba(124, 58, 237, 0.4);
+}
+
+.timeline__dot--pending {
+  background: var(--bg-elevated);
+  box-shadow: none;
+  border: 2px solid var(--text-muted);
+}
+
+.timeline__label {
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.timeline__title {
+  font-size: 14px;
+  font-weight: 600;
+  margin-bottom: var(--space-xs);
+}
+
+.timeline__desc {
+  font-size: 12px;
+  color: var(--text-muted);
+  padding: 0 var(--space-sm);
+}
+
+@media (max-width: 768px) {
+  .timeline {
+    grid-template-columns: 1fr;
+    gap: var(--space-lg);
+  }
+  .timeline::before { display: none; }
+  .timeline__phase {
+    display: grid;
+    grid-template-columns: 20px 1fr;
+    gap: var(--space-md);
+    text-align: left;
+    align-items: start;
+  }
+  .timeline__dot {
+    margin: 2px 0 0;
+    grid-row: 1 / 4;
+  }
+  .timeline__label,
+  .timeline__title,
+  .timeline__desc {
+    padding: 0;
+  }
+}
+
+/* ============================================================
+   BAR CHART
+   ============================================================ */
+
+.bar-chart {
+  margin: var(--space-lg) 0;
+}
+
+.bar-row {
+  display: flex;
+  align-items: center;
+  margin-bottom: 12px;
+  gap: var(--space-md);
+}
+
+.bar-row__label {
+  width: 140px;
+  font-size: 13px;
+  font-weight: 500;
+  text-align: right;
+  flex-shrink: 0;
+  color: var(--text-secondary);
+}
+
+.bar-row__track {
+  flex: 1;
+  height: 32px;
+  background: var(--bg-surface);
+  border-radius: var(--radius-sm);
+  overflow: hidden;
+}
+
+.bar-row__fill {
+  height: 100%;
+  background: var(--mh1-gradient);
+  border-radius: var(--radius-sm);
+  display: flex;
+  align-items: center;
+  padding-left: var(--space-sm);
+  font-size: 12px;
+  font-weight: 500;
+  color: white;
+  min-width: 40px;
+}
+
+.bar-row__fill--highlight {
+  background: var(--text-primary);
+  color: var(--bg-base);
+}
+
+.bar-row__fill--muted {
+  background: var(--bg-elevated);
+  color: var(--text-muted);
+}
+
+@media (max-width: 640px) {
+  .bar-row { flex-direction: column; align-items: stretch; gap: var(--space-xs); }
+  .bar-row__label { width: auto; text-align: left; }
+}
+
+/* ============================================================
+   PROJECT DETAIL
+   ============================================================ */
+
+.project-detail__num {
+  width: 44px;
+  height: 44px;
+  background: var(--mh1-gradient);
+  color: white;
+  border-radius: 50%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+  font-weight: 700;
+  flex-shrink: 0;
+  margin-bottom: var(--space-md);
+}
+
+.project-detail__category {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: var(--text-muted);
+}
+
+/* ============================================================
+   SPRINT / PRICING CARDS
+   ============================================================ */
+
+.pricing-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: var(--space-lg);
+}
+
+.pricing-card {
+  background: var(--bg-surface);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-lg);
+  padding: 32px var(--space-lg);
+  text-align: center;
+}
+
+.pricing-card--featured {
+  border-color: var(--mh1-purple);
+  position: relative;
+  box-shadow: 0 0 24px rgba(124, 58, 237, 0.12);
+}
+
+.pricing-card--featured::before {
+  content: "Recommended";
+  position: absolute;
+  top: -12px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--mh1-gradient);
+  color: white;
+  font-size: 11px;
+  font-weight: 600;
+  padding: 3px 16px;
+  border-radius: var(--radius-sm);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  white-space: nowrap;
+}
+
+.pricing-card__phase {
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  margin-bottom: var(--space-sm);
+}
+
+.pricing-card__title {
+  font-size: 18px;
+  font-weight: 700;
+  margin-bottom: var(--space-md);
+}
+
+.pricing-card__price {
+  font-size: clamp(28px, 3.5vw, 36px);
+  font-weight: 700;
+  margin-bottom: var(--space-xs);
+}
+
+.pricing-card__period {
+  font-size: 12px;
+  color: var(--text-muted);
+  margin-bottom: 20px;
+}
+
+.pricing-card__desc {
+  font-size: 13px;
+  color: var(--text-muted);
+}
+
+.pricing-card__features {
+  list-style: none;
+  text-align: left;
+  font-size: 13px;
+}
+
+.pricing-card__features li {
+  padding: 8px 0;
+  border-bottom: 1px solid var(--border-subtle);
+  padding-left: 22px;
+  position: relative;
+  color: var(--text-secondary);
+}
+
+.pricing-card__features li::before {
+  content: "\2713";
+  position: absolute;
+  left: 0;
+  color: var(--color-green);
+  font-weight: 700;
+}
+
+@media (max-width: 768px) {
+  .pricing-grid { grid-template-columns: 1fr; }
+}
+
+/* ============================================================
+   FOOTER
+   ============================================================ */
+
+.report-footer {
+  padding: var(--space-2xl) 0;
+  text-align: center;
+  border-top: 1px solid var(--border-subtle);
+}
+
+.report-footer__title {
+  font-size: clamp(32px, 5vw, 48px);
+  font-weight: 700;
+  margin-bottom: var(--space-lg);
+}
+
+.report-footer__contact {
+  font-size: 16px;
+  color: var(--text-secondary);
+  line-height: 2;
+}
+
+.report-footer__meta {
+  margin-top: var(--space-xl);
+  font-size: 12px;
+  color: var(--text-muted);
+}
+
+/* ============================================================
+   HR / INLINE DIVIDER
+   ============================================================ */
+
+hr {
+  border: none;
+  height: 1px;
+  background: var(--border-subtle);
+  margin: var(--space-xl) 0;
+}
+
+/* ============================================================
+   PRINT
+   ============================================================ */
+
+@media print {
+  body { background: var(--bg-base); }
+  .section { page-break-inside: avoid; }
+  .section--gradient { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+}
+</style>
+</head>
+<body>
+
+
+<!-- ================================================================
+     HERO
+     ================================================================ -->
+<section class="hero">
+  <div class="container">
+    <div class="hero__eyebrow">Search Engine Optimisation</div>
+    <h1 class="hero__title"><span class="gradient-text">{{CLIENT_NAME}}</span> x {{AGENCY_NAME}}</h1>
+    <p class="hero__subtitle">SEO Quick Win Analysis & Proposal</p>
+    <div class="hero__date">{{REPORT_DATE}}</div>
+  </div>
+</section>
+
+
+<!-- ================================================================
+     PURPOSE
+     ================================================================ -->
+<section class="section section--surface">
+  <div class="purpose">
+    <div class="purpose__label">Purpose</div>
+    <p class="purpose__text">{{PURPOSE_TEXT}}</p>
+  </div>
+</section>
+
+
+<!-- ================================================================
+     SECTION DIVIDER: Growth Opportunities
+     ================================================================ -->
+<section class="section section--gradient divider">
+  <div class="container">
+    <h2 class="divider__title">Growth Opportunities</h2>
+    <p class="divider__subtitle">Current status, competitor landscape, and business potential</p>
+  </div>
+</section>
+
+
+<!-- ================================================================
+     CURRENT STATUS
+     ================================================================ -->
+<section class="section">
+  <div class="container">
+    <span class="section-label gradient-text">Current Status</span>
+    <h2 class="section-title">{{CLIENT_NAME}}</h2>
+    <p class="section-subtitle">The numbers</p>
+
+    <div class="kpi-grid">
+      <div class="kpi-card">
+        <div class="kpi-card__label">Total Monthly Search Volume</div>
+        <div class="kpi-card__value">{{TOTAL_SEARCH_VOLUME}}</div>
+      </div>
+      <div class="kpi-card">
+        <div class="kpi-card__label">Ranking Efficiency</div>
+        <div class="kpi-card__value">{{RANKING_EFFICIENCY}}</div>
+        <div class="kpi-card__note">% of volume converted to traffic</div>
+      </div>
+      <div class="kpi-card">
+        <div class="kpi-card__label">Non-Brand Keywords</div>
+        <div class="kpi-card__value">{{NON_BRAND_KEYWORDS}}</div>
+      </div>
+      <div class="kpi-card">
+        <div class="kpi-card__label">Est. Monthly Organic Traffic</div>
+        <div class="kpi-card__value">{{MONTHLY_TRAFFIC}}</div>
+      </div>
+      <div class="kpi-card">
+        <div class="kpi-card__label">Domain Rating</div>
+        <div class="kpi-card__value">{{DOMAIN_RATING}}</div>
+      </div>
+    </div>
+
+    <ul class="arrow-list" style="margin-top: var(--space-xl);">
+      <!-- {{CURRENT_STATUS_BULLETS}} -->
+      <li>Low ranking efficiency, indicating significant potential for improvement.</li>
+      <li>Decent domain rating outperforming direct competitors.</li>
+    </ul>
+  </div>
+</section>
+
+
+<!-- ================================================================
+     COMPETITOR OVERVIEW
+     ================================================================ -->
+<section class="section section--surface">
+  <div class="container">
+    <span class="section-label gradient-text">Current Status</span>
+    <h2 class="section-title">Competitor Overview</h2>
+    <p class="section-subtitle">Total keyword visibility & domain rating</p>
+
+    <div class="bar-chart">
+      <!-- {{COMPETITOR_BARS}} -->
+      <div class="bar-row">
+        <div class="bar-row__label">{{CLIENT_NAME}}</div>
+        <div class="bar-row__track">
+          <div class="bar-row__fill bar-row__fill--highlight" style="width: 40%;">5,583</div>
+        </div>
+      </div>
+      <div class="bar-row">
+        <div class="bar-row__label">Competitor A</div>
+        <div class="bar-row__track">
+          <div class="bar-row__fill" style="width: 75%;">12,400</div>
+        </div>
+      </div>
+      <div class="bar-row">
+        <div class="bar-row__label">Competitor B</div>
+        <div class="bar-row__track">
+          <div class="bar-row__fill" style="width: 60%;">9,200</div>
+        </div>
+      </div>
+      <div class="bar-row">
+        <div class="bar-row__label">Competitor C</div>
+        <div class="bar-row__track">
+          <div class="bar-row__fill bar-row__fill--muted" style="width: 30%;">3,100</div>
+        </div>
+      </div>
+    </div>
+
+    <ul class="arrow-list" style="margin-top: var(--space-lg);">
+      <li>Low competition with direct competitors in your industry.</li>
+      <li>High competition in the top tier content providers within the field.</li>
+    </ul>
+  </div>
+</section>
+
+
+<!-- ================================================================
+     BUSINESS POTENTIAL
+     ================================================================ -->
+<section class="section">
+  <div class="container">
+    <span class="section-label gradient-text">Business Potential</span>
+    <h2 class="section-title">Estimated Incremental Growth</h2>
+    <p class="section-subtitle">Modest assumption of possible monthly gain in organic traffic</p>
+
+    <div class="callout">
+      <div class="callout__number gradient-text">{{POTENTIAL_CLICKS}}</div>
+      <div class="callout__text">
+        An additional <strong style="color: var(--text-primary);">{{POTENTIAL_CLICKS}}</strong> monthly clicks
+        ({{POTENTIAL_YEARLY_CLICKS}} yearly) from organic search are estimated to be possible by optimizing existing
+        content, closing relevant content gaps, and improving ranking efficiency.
+      </div>
+    </div>
+
+    <div class="kpi-grid">
+      <div class="kpi-card">
+        <div class="kpi-card__label">Equivalent Ad Spend Saved</div>
+        <div class="kpi-card__value">{{AD_SPEND_EQUIVALENT}}</div>
+        <div class="kpi-card__note">To generate the same traffic via paid search</div>
+      </div>
+      <div class="kpi-card">
+        <div class="kpi-card__label">From Existing Content</div>
+        <div class="kpi-card__value">{{EXISTING_CONTENT_CLICKS}}</div>
+        <div class="kpi-card__note">By optimizing current pages</div>
+      </div>
+      <div class="kpi-card">
+        <div class="kpi-card__label">From Content Gaps</div>
+        <div class="kpi-card__value">{{CONTENT_GAP_CLICKS}}</div>
+        <div class="kpi-card__note">By creating new targeted content</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<!-- ================================================================
+     TIMELINE
+     ================================================================ -->
+<section class="section section--surface">
+  <div class="container">
+    <span class="section-label gradient-text">Business Potential</span>
+    <h2 class="section-title">Assumed Timeline</h2>
+    <p class="section-subtitle">Dependent on implementation and execution</p>
+
+    <div class="timeline">
+      <div class="timeline__phase">
+        <div class="timeline__label gradient-text">Month 1-3</div>
+        <div class="timeline__dot"></div>
+        <div class="timeline__title">Quick Wins</div>
+        <div class="timeline__desc">Technical cleanup, low-hanging fruit optimization</div>
+      </div>
+      <div class="timeline__phase">
+        <div class="timeline__label gradient-text">Month 3-6</div>
+        <div class="timeline__dot"></div>
+        <div class="timeline__title">Content Production</div>
+        <div class="timeline__desc">Content optimization, gap closing, topical authority</div>
+      </div>
+      <div class="timeline__phase">
+        <div class="timeline__label gradient-text">Month 6-9</div>
+        <div class="timeline__dot"></div>
+        <div class="timeline__title">Scale & Authority</div>
+        <div class="timeline__desc">Link building, authority optimization, continued production</div>
+      </div>
+      <div class="timeline__phase">
+        <div class="timeline__label" style="color: var(--text-muted);">Month 12</div>
+        <div class="timeline__dot timeline__dot--pending"></div>
+        <div class="timeline__title">Target</div>
+        <div class="timeline__desc">{{TARGET_TRAFFIC}} monthly organic visits</div>
+      </div>
+    </div>
+
+    <div class="kpi-grid">
+      <div class="kpi-card">
+        <div class="kpi-card__label">Current Traffic</div>
+        <div class="kpi-card__value">{{CURRENT_TRAFFIC}}</div>
+      </div>
+      <div class="kpi-card">
+        <div class="kpi-card__label">6-Month Target</div>
+        <div class="kpi-card__value">{{SIX_MONTH_TARGET}}</div>
+      </div>
+      <div class="kpi-card">
+        <div class="kpi-card__label">12-Month Target</div>
+        <div class="kpi-card__value">{{TWELVE_MONTH_TARGET}}</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<!-- ================================================================
+     EXECUTIVE SUMMARY
+     ================================================================ -->
+<section class="section">
+  <div class="container">
+    <h2 class="section-title">Executive Summary</h2>
+    <p class="section-subtitle">Key findings across the four pillars of SEO</p>
+
+    <div class="pillar-grid">
+      <div class="pillar-card">
+        <div class="pillar-card__icon pillar-card__icon--red">&#9881;</div>
+        <h4>Technical</h4>
+        <p>{{SUMMARY_TECHNICAL}}</p>
+      </div>
+      <div class="pillar-card">
+        <div class="pillar-card__icon pillar-card__icon--orange">&#9997;</div>
+        <h4>Content & On-Page</h4>
+        <p>{{SUMMARY_CONTENT}}</p>
+      </div>
+      <div class="pillar-card">
+        <div class="pillar-card__icon pillar-card__icon--blue">&#128279;</div>
+        <h4>Authority</h4>
+        <p>{{SUMMARY_AUTHORITY}}</p>
+      </div>
+      <div class="pillar-card">
+        <div class="pillar-card__icon pillar-card__icon--green">&#128270;</div>
+        <h4>SERP Visibility</h4>
+        <p>{{SUMMARY_SERP}}</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<!-- ================================================================
+     SECTION DIVIDER: What Needs to Be Done
+     ================================================================ -->
+<section class="section section--gradient divider">
+  <div class="container">
+    <h2 class="divider__title">What Needs to Be Done?</h2>
+    <p class="divider__subtitle">Challenges, solutions, and must-win projects</p>
+  </div>
+</section>
+
+
+<!-- ================================================================
+     CHALLENGES & SOLUTIONS
+     ================================================================ -->
+<section class="section">
+  <div class="container">
+    <h2 class="section-title">Challenges & Solutions</h2>
+    <p class="section-subtitle">Key areas requiring attention</p>
+
+    <div class="two-col">
+      <div>
+        <h3>On-Page Optimization</h3>
+        <ul class="arrow-list">
+          <li>Unfulfilled potential within existing content (especially transactional keywords).</li>
+          <li>E-E-A-T could be improved further.</li>
+          <li>Internal linking structure needs improvement.</li>
+        </ul>
+      </div>
+      <div>
+        <h3>Technical Foundation</h3>
+        <ul class="arrow-list">
+          <li>Technical platform needs cleanup.</li>
+          <li>Unfulfilled use of structured data.</li>
+          <li>Core Web Vitals issues (LCP on mobile).</li>
+        </ul>
+      </div>
+    </div>
+
+    <hr>
+
+    <div class="two-col">
+      <div>
+        <h3>Content Strategy</h3>
+        <ul class="arrow-list">
+          <li>Significant content gaps vs. competitors.</li>
+          <li>Missing full-funnel content approach.</li>
+        </ul>
+      </div>
+      <div>
+        <h3>Authority & Links</h3>
+        <ul class="arrow-list">
+          <li>Broken backlinks pointing to 404 pages.</li>
+          <li>Pages with insufficient internal links.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<!-- ================================================================
+     MUST-WIN PROJECTS
+     ================================================================ -->
+<section class="section section--surface">
+  <div class="container">
+    <h2 class="section-title">Must-Win Projects</h2>
+    <p class="section-subtitle">Based on our preliminary SEO audit</p>
+
+    <div class="two-col--60-40 two-col">
+      <div>
+        <div class="table-wrap">
+          <table class="data-table">
+            <thead>
+              <tr>
+                <th>#</th>
+                <th>Description</th>
+                <th>Category</th>
+              </tr>
+            </thead>
+            <tbody>
+              <!-- {{MUST_WIN_PROJECTS}} -->
+              <tr><td>1</td><td>Add structured data to the website</td><td><span class="badge badge--red">Technical</span></td></tr>
+              <tr><td>2</td><td>Technical cleanup</td><td><span class="badge badge--red">Technical</span></td></tr>
+              <tr><td>3</td><td>Improve LCP score & UX</td><td><span class="badge badge--red">Technical</span></td></tr>
+              <tr><td>4</td><td>Full-funnel content production</td><td><span class="badge badge--orange">Relevance</span></td></tr>
+              <tr><td>5</td><td>Transactional targeting</td><td><span class="badge badge--orange">Relevance</span></td></tr>
+              <tr><td>6</td><td>Internal link structure</td><td><span class="badge badge--purple">Authority</span></td></tr>
+              <tr><td>7</td><td>E-E-A-T optimization</td><td><span class="badge badge--purple">Authority</span></td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <div class="matrix-wrap">
+        <h3>Impact & Effort</h3>
+        <div class="matrix">
+          <div class="matrix__cell matrix__cell--highlight">
+            <span class="matrix__tag">1</span>
+            <span class="matrix__tag">3</span>
+          </div>
+          <div class="matrix__cell">
+            <span class="matrix__tag matrix__tag--orange">4</span>
+          </div>
+          <div class="matrix__cell">
+            <span class="matrix__tag matrix__tag--blue">6</span>
+            <span class="matrix__tag matrix__tag--blue">7</span>
+          </div>
+          <div class="matrix__cell">
+            <span class="matrix__tag">2</span>
+            <span class="matrix__tag matrix__tag--orange">5</span>
+          </div>
+        </div>
+        <div class="matrix__label-x">Impact &rarr;</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<!-- ================================================================
+     PROJECT DETAIL (repeatable section)
+     ================================================================ -->
+<section class="section">
+  <div class="split">
+    <div class="split__left">
+      <div class="project-detail__num">{{PROJECT_NUM}}</div>
+      <h2 class="section-title" style="margin-top: var(--space-sm);">{{PROJECT_TITLE}}</h2>
+      <div class="project-detail__category">{{PROJECT_CATEGORY}}</div>
+    </div>
+    <div class="split__right">
+      <h3>Description</h3>
+      <p style="margin-bottom: var(--space-xl);">{{PROJECT_DESCRIPTION}}</p>
+      <h3>Current Status & Next Steps</h3>
+      <ul class="arrow-list">
+        <!-- {{PROJECT_NEXT_STEPS}} -->
+        <li>Step 1 details here</li>
+        <li>Step 2 details here</li>
+        <li>Step 3 details here</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+
+<!-- ================================================================
+     ROADMAP
+     ================================================================ -->
+<section class="section section--surface">
+  <div class="container">
+    <h2 class="section-title">Suggested Roadmap</h2>
+    <p class="section-subtitle">Sprint-based approach to implementation</p>
+
+    <div class="pricing-grid">
+      <div class="pricing-card">
+        <div class="pricing-card__phase">Month 1-3</div>
+        <div class="pricing-card__title">Sprint 1: Fundamentals</div>
+        <ul class="pricing-card__features">
+          <li>Full technical audit</li>
+          <li>Structured data implementation</li>
+          <li>Technical cleanup</li>
+          <li>On-page optimization strategy</li>
+          <li>E-E-A-T & author pages</li>
+          <li>Internal linking improvements</li>
+        </ul>
+      </div>
+      <div class="pricing-card pricing-card--featured">
+        <div class="pricing-card__phase">Month 3-6</div>
+        <div class="pricing-card__title">Sprint 2: Scale Production</div>
+        <ul class="pricing-card__features">
+          <li>Keyword research for priority verticals</li>
+          <li>Content framework & briefs</li>
+          <li>Content optimization</li>
+          <li>Content production at scale</li>
+          <li>Core Web Vitals improvements</li>
+          <li>Update internal linking</li>
+        </ul>
+      </div>
+      <div class="pricing-card">
+        <div class="pricing-card__phase">Month 6-9</div>
+        <div class="pricing-card__title">Sprint 3: Authority</div>
+        <ul class="pricing-card__features">
+          <li>Backlink analysis</li>
+          <li>Backlink strategy</li>
+          <li>Outreach execution</li>
+          <li>Backlink workshops & education</li>
+          <li>Reporting setup</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<!-- ================================================================
+     INVESTMENT OVERVIEW
+     ================================================================ -->
+<section class="section">
+  <div class="container">
+    <h2 class="section-title">Investment Overview</h2>
+
+    <div class="pricing-grid">
+      <div class="pricing-card">
+        <div class="pricing-card__phase">Month 1-3</div>
+        <div class="pricing-card__title">Sprint 1: Fundamentals</div>
+        <div class="pricing-card__price gradient-text">{{SPRINT1_PRICE}}</div>
+        <div class="pricing-card__period">per month</div>
+        <p class="pricing-card__desc">Technical foundation and prioritized content optimization</p>
+      </div>
+      <div class="pricing-card pricing-card--featured">
+        <div class="pricing-card__phase">Month 3-6</div>
+        <div class="pricing-card__title">Sprint 2: Production</div>
+        <div class="pricing-card__price gradient-text">{{SPRINT2_PRICE}}</div>
+        <div class="pricing-card__period">per month</div>
+        <p class="pricing-card__desc">Content optimization and production at scale</p>
+      </div>
+      <div class="pricing-card">
+        <div class="pricing-card__phase">Month 6-9</div>
+        <div class="pricing-card__title">Sprint 3: Authority</div>
+        <div class="pricing-card__price gradient-text">{{SPRINT3_PRICE}}</div>
+        <div class="pricing-card__period">per month</div>
+        <p class="pricing-card__desc">Authority optimization and link building</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<!-- ================================================================
+     SECTION DIVIDER: Additional Insights
+     ================================================================ -->
+<section class="section section--gradient divider">
+  <div class="container">
+    <h2 class="divider__title">Additional Insights</h2>
+    <p class="divider__subtitle">Content gaps, technical findings, and search synergies</p>
+  </div>
+</section>
+
+
+<!-- ================================================================
+     CONTENT GAP
+     ================================================================ -->
+<section class="section">
+  <div class="container">
+    <span class="section-label gradient-text">Content Analysis</span>
+    <h2 class="section-title">Keyword Visibility by Topic</h2>
+    <p class="section-subtitle">Your visibility vs. competitors across key topic areas</p>
+
+    <div class="table-wrap">
+      <table class="data-table">
+        <thead>
+          <tr>
+            <th>Topic / Vertical</th>
+            <th class="num">{{CLIENT_NAME}}</th>
+            <th class="num">Competitor A</th>
+            <th class="num">Competitor B</th>
+            <th class="num">Competitor C</th>
+            <th>Gap</th>
+          </tr>
+        </thead>
+        <tbody>
+          <!-- {{CONTENT_GAP_ROWS}} -->
+          <tr>
+            <td>Topic 1</td>
+            <td class="num">120</td>
+            <td class="num">450</td>
+            <td class="num">380</td>
+            <td class="num">90</td>
+            <td><span class="badge badge--red">High</span></td>
+          </tr>
+          <tr>
+            <td>Topic 2</td>
+            <td class="num">340</td>
+            <td class="num">520</td>
+            <td class="num">290</td>
+            <td class="num">180</td>
+            <td><span class="badge badge--orange">Medium</span></td>
+          </tr>
+          <tr>
+            <td>Topic 3</td>
+            <td class="num">500</td>
+            <td class="num">480</td>
+            <td class="num">310</td>
+            <td class="num">220</td>
+            <td><span class="badge badge--green">Low</span></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
+
+<!-- ================================================================
+     SEARCH SYNERGIES
+     ================================================================ -->
+<section class="section section--surface">
+  <div class="container">
+    <span class="section-label gradient-text">Search Synergies</span>
+    <h2 class="section-title">Paid Search Keywords with Organic Potential</h2>
+    <p class="section-subtitle">High-spend ad keywords where organic rankings could reduce cost</p>
+
+    <div class="table-wrap">
+      <table class="data-table">
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>Keyword</th>
+            <th class="num">Ad Cost</th>
+            <th class="num">Ad Conv.</th>
+            <th class="num">CPC</th>
+            <th class="num">Organic Pos.</th>
+            <th>Opportunity</th>
+          </tr>
+        </thead>
+        <tbody>
+          <!-- {{SYNERGY_ROWS}} -->
+          <tr>
+            <td>1</td>
+            <td>keyword example</td>
+            <td class="num">$106,795</td>
+            <td class="num">2,459</td>
+            <td class="num">$13.96</td>
+            <td class="num">31</td>
+            <td><span class="badge badge--red">High</span></td>
+          </tr>
+          <tr>
+            <td>2</td>
+            <td>keyword example 2</td>
+            <td class="num">$55,990</td>
+            <td class="num">1,316</td>
+            <td class="num">$9.14</td>
+            <td class="num">—</td>
+            <td><span class="badge badge--orange">Medium</span></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
+
+<!-- ================================================================
+     THANK YOU / CONTACT
+     ================================================================ -->
+<footer class="section report-footer">
+  <div class="container">
+    <h2 class="report-footer__title gradient-text">Thank You</h2>
+    <div class="report-footer__contact">
+      {{CONTACT_NAME}}<br>
+      {{CONTACT_TITLE}}<br>
+      {{CONTACT_EMAIL}}
+    </div>
+    <div class="report-footer__meta">Confidential &middot; {{AGENCY_NAME}} &middot; {{REPORT_DATE}}</div>
+  </div>
+</footer>
+
+
+</body>
+</html>

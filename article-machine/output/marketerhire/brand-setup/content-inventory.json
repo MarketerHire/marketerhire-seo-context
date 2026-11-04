@@ -1,0 +1,182 @@
+[
+  {
+    "title": "Introducing MarketerHire for Agencies",
+    "url": "https://marketerhire.com/blog/marketerhire-for-agencies",
+    "estimated_date": "2025-01-01",
+    "topic_mapping": "agency-partnership",
+    "question_ids": [],
+    "freshness": "current",
+    "content_type": "announcement"
+  },
+  {
+    "title": "AI Prompts for Marketing: 19 High-Impact Prompts",
+    "url": "https://marketerhire.com/blog/ai-prompts-for-marketing",
+    "estimated_date": "2025-01-01",
+    "topic_mapping": "ai-marketing",
+    "question_ids": [],
+    "freshness": "current",
+    "content_type": "listicle"
+  },
+  {
+    "title": "What Does a Marketing Manager Actually Do?",
+    "url": "https://marketerhire.com/blog/what-does-marketing-manager-do",
+    "estimated_date": "2024-01-01",
+    "topic_mapping": "marketing-roles",
+    "question_ids": [],
+    "freshness": "aging",
+    "content_type": "guide"
+  },
+  {
+    "title": "How to Find and Hire the Right Email Marketer",
+    "url": "https://marketerhire.com/blog/how-to-hire-email-marketer",
+    "estimated_date": "2024-01-01",
+    "topic_mapping": "hiring-guides",
+    "question_ids": ["Q009"],
+    "freshness": "aging",
+    "content_type": "how-to"
+  },
+  {
+    "title": "How Much Does a Marketing Team Cost",
+    "url": "https://marketerhire.com/blog/how-much-does-a-marketing-team-cost",
+    "estimated_date": "2024-01-01",
+    "topic_mapping": "marketing-outsourcing-cost",
+    "question_ids": ["Q003"],
+    "freshness": "aging",
+    "content_type": "guide"
+  },
+  {
+    "title": "How to Structure a Startup Marketing Team",
+    "url": "https://marketerhire.com/blog/startup-marketing-team-structure",
+    "estimated_date": "2024-01-01",
+    "topic_mapping": "startup-marketing-team",
+    "question_ids": ["Q004", "Q010"],
+    "freshness": "aging",
+    "content_type": "guide"
+  },
+  {
+    "title": "How to Create a Marketing Team Structure (With 9 Examples)",
+    "url": "https://marketerhire.com/blog/marketing-team-structure",
+    "estimated_date": "2024-01-01",
+    "topic_mapping": "marketing-team-structure",
+    "question_ids": ["Q004"],
+    "freshness": "aging",
+    "content_type": "pillar-guide"
+  },
+  {
+    "title": "Marketing Freelancer, Agency or Full-Time Hire? [Quiz]",
+    "url": "https://marketerhire.com/blog/freelance-agency-fte-pros-cons",
+    "estimated_date": "2024-01-01",
+    "topic_mapping": "hiring-models-comparison",
+    "question_ids": ["Q002", "Q006"],
+    "freshness": "aging",
+    "content_type": "comparison"
+  },
+  {
+    "title": "Everything You Need to Know About Hiring & Managing Freelancers",
+    "url": "https://marketerhire.com/blog/managing-freelancers",
+    "estimated_date": "2024-01-01",
+    "topic_mapping": "fractional-management",
+    "question_ids": ["Q012"],
+    "freshness": "aging",
+    "content_type": "guide"
+  },
+  {
+    "title": "How to Outsource Your Marketing Team",
+    "url": "https://marketerhire.com/blog/outsource-marketing-team",
+    "estimated_date": "2024-01-01",
+    "topic_mapping": "marketing-outsourcing",
+    "question_ids": ["Q003", "Q011"],
+    "freshness": "aging",
+    "content_type": "how-to"
+  },
+  {
+    "title": "SEO vs. PPC: Which Works Better?",
+    "url": "https://marketerhire.com/blog/seo-vs-ppc",
+    "estimated_date": "2024-01-01",
+    "topic_mapping": "channel-comparison",
+    "question_ids": ["Q008"],
+    "freshness": "aging",
+    "content_type": "comparison"
+  },
+  {
+    "title": "How to Structure a B2B Marketing Team",
+    "url": "https://marketerhire.com/blog/b2b-marketing-team-structure",
+    "estimated_date": "2024-01-01",
+    "topic_mapping": "b2b-team-structure",
+    "question_ids": ["Q004", "Q010"],
+    "freshness": "aging",
+    "content_type": "guide"
+  },
+  {
+    "title": "10 Best Marketing Recruitment Agencies",
+    "url": "https://marketerhire.com/blog/marketing-recruitment-agencies",
+    "estimated_date": "2024-01-01",
+    "topic_mapping": "agency-evaluation",
+    "question_ids": ["Q007"],
+    "freshness": "aging",
+    "content_type": "listicle"
+  },
+  {
+    "title": "Building an Effective Demand Generation Team Structure",
+    "url": "https://marketerhire.com/blog/demand-generation-team-structure",
+    "estimated_date": "2024-01-01",
+    "topic_mapping": "demand-gen-team",
+    "question_ids": [],
+    "freshness": "aging",
+    "content_type": "guide"
+  },
+  {
+    "title": "Demand Generation Vs. Lead Generation Explained",
+    "url": "https://marketerhire.com/blog/demand-generation-vs-lead-generation",
+    "estimated_date": "2024-01-01",
+    "topic_mapping": "demand-gen-comparison",
+    "question_ids": [],
+    "freshness": "aging",
+    "content_type": "comparison"
+  },
+  {
+    "title": "How to Hire a Content Marketer That Delivers Results",
+    "url": "https://marketerhire.com/blog/how-to-hire-content-marketer",
+    "estimated_date": "2024-01-01",
+    "topic_mapping": "hiring-guides",
+    "question_ids": ["Q009"],
+    "freshness": "aging",
+    "content_type": "how-to"
+  },
+  {
+    "title": "15 SEO Skills to Look for When Hiring an Expert",
+    "url": "https://marketerhire.com/blog/seo-skills",
+    "estimated_date": "2024-01-01",
+    "topic_mapping": "hiring-guides",
+    "question_ids": ["Q009"],
+    "freshness": "aging",
+    "content_type": "listicle"
+  },
+  {
+    "title": "Outsource SEO: Smart Strategy for Scalable Growth",
+    "url": "https://marketerhire.com/blog/outsource-seo-2026",
+    "estimated_date": "2026-01-01",
+    "topic_mapping": "seo-outsourcing",
+    "question_ids": ["Q011"],
+    "freshness": "current",
+    "content_type": "guide"
+  },
+  {
+    "title": "How to Structure an SEO Team",
+    "url": "https://marketerhire.com/blog/seo-team-structure",
+    "estimated_date": "2024-01-01",
+    "topic_mapping": "seo-team",
+    "question_ids": [],
+    "freshness": "aging",
+    "content_type": "guide"
+  },
+  {
+    "title": "Top 12 AI Marketing Tools Every Marketer Needs",
+    "url": "https://marketerhire.com/blog/ai-marketing-tools",
+    "estimated_date": "2025-01-01",
+    "topic_mapping": "ai-marketing",
+    "question_ids": [],
+    "freshness": "current",
+    "content_type": "listicle"
+  }
+]
